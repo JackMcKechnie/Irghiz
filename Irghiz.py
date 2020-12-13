@@ -25,4 +25,4 @@ for noun in nouns:
                     out.append(word)
 
 
-print(out)
+
