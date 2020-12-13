@@ -1,26 +1,28 @@
-from langid.langid import LanguageIdentifier, model
-from nltk.util import everygrams
+import enchant
+import spacy
 
+
+# Read in test corpus of F1 Wiki page in French
 with open("C:\\Users\\jack-\\PycharmProjects\\Irghiz\\F1WikiFr.txt", "r", encoding='utf-8') as file:
     corpus = file.read().replace('\n', '')
 
-identifier = LanguageIdentifier.from_modelstring(model, norm_probs=True)
-identifier.set_languages(['en', 'fr'])
+# Use spaCy
+nlp = spacy.load("fr_core_news_sm")
+doc = nlp(corpus)
+nouns = [chunk.text for chunk in doc.noun_chunks]
 
-ngrams = list(everygrams(corpus.split(), max_len=2))
+en_dict = enchant.Dict('en_UK')
+fr_dict = enchant.Dict('fr')
 
-possible_anglis = []
+out = []
 
-for ngram in ngrams:
-    ngram = ' '.join(ngram)
-    if identifier.classify(ngram)[1] > 0.97 and identifier.classify(ngram)[0] == 'en' and ngram not in possible_anglis:
-        possible_anglis.append(ngram)
-
-for i in possible_anglis:
-    print(i)
-    print("")
-
-
+for noun in nouns:
+    for word in noun.split():
+        if en_dict.check(word) is True and fr_dict.check(word) is False:
+            nouns_doc = nlp(word)
+            for entity in nouns_doc.ents:
+                if entity.label_ != 'ORG' and entity.label_ != 'PER' and word not in out:
+                    out.append(word)
 
 
 
