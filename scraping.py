@@ -18,5 +18,10 @@ def le_monde():
         soup = BeautifulSoup(html, features="html.parser")
         dirty_text = soup.get_text()
         text = " ".join(dirty_text.split())
-        texts.append(text)
+        texts.append((text, soup.title.string, url))
+
     return texts
+
+
+le_monde()
+
