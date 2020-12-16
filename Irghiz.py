@@ -24,8 +24,5 @@ def get_anglis(corpus):
     return out
 
 
-# Read in test corpus of F1 Wiki page in French
-with open("C:\\Users\\jack-\\PycharmProjects\\Irghiz\\F1WikiFr.txt", "r", encoding='utf-8') as file:
-    corpus = file.read().replace('\n', '')
 
 
