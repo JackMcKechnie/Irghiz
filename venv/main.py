@@ -3,6 +3,7 @@ from scraping import le_monde
 from tweet import tweet_list
 from update_git import update_md
 
+
 def get_todays(source):
 
     todays = []
@@ -21,10 +22,12 @@ print("Getting Anglicisms...")
 todays = get_todays(lemonde)
 print("Done")
 
-#print("Tweeting...")
-#tweet_list(todays)
-#print("Done")
+print("Updating MD file...")
+to_be_tweeted = update_md(todays)
+print("Done")
 
-print("Updating MD file")
-update_md(todays)
+print("Tweeting")
+tweet_list(to_be_tweeted)
+print("Done")
+
 print("Done, successful exit!")
