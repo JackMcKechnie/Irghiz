@@ -1,7 +1,6 @@
 | Anglicism | Link |
 |-----------|------|
 | Test | Yer Maw |
-
 | Big | https://www.lemonde.fr/societe/live/2020/12/16/attentats-de-2015-suivez-en-direct-le-verdict-du-proces-devant-la-cour-d-assises-speciale-de-paris_6063606_3224.html |
 | Harris | https://www.lemonde.fr/societe/live/2020/12/16/attentats-de-2015-suivez-en-direct-le-verdict-du-proces-devant-la-cour-d-assises-speciale-de-paris_6063606_3224.html |
 | Lives | https://www.lemonde.fr/societe/live/2020/12/16/attentats-de-2015-suivez-en-direct-le-verdict-du-proces-devant-la-cour-d-assises-speciale-de-paris_6063606_3224.html |
