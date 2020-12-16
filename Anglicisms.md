@@ -26,3 +26,4 @@
 | Sporting | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
 | Partners | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
 | Beef | https://www.lemonde.fr/m-styles/article/2020/12/16/un-noel-vegan-et-gourmand-la-preuve-par-six-recettes_6063539_4497319.html |
+| Newsletter | https://www.lemonde.fr/m-styles/article/2020/12/16/un-noel-vegan-et-gourmand-la-preuve-par-six-recettes_6063539_4497319.html |
