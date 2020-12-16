@@ -1,2 +1,20 @@
 | Anglicism | Link |
 |-----------|------|
+| Harris | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
+| Savings | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
+| Gonzalo | https://www.lemonde.fr/planete/article/2020/12/16/covid-19-la-campagne-de-vaccination-en-france-pourrait-debuter-des-la-derniere-semaine-de-decembre_6063621_3244.html |
+| Clump | https://www.lemonde.fr/culture/article/2020/12/16/sept-films-au-bord-de-la-crise-de-nerfs_6063540_3246.html |
+| Filing | https://www.lemonde.fr/pixels/article/2020/12/16/ce-goliath-de-l-internet-manipule-le-marche-plusieurs-etats-americains-engagent-des-poursuites-contre-google_6063653_4408996.html |
+| Switch | https://www.lemonde.fr/pixels/article/2020/12/16/ce-goliath-de-l-internet-manipule-le-marche-plusieurs-etats-americains-engagent-des-poursuites-contre-google_6063653_4408996.html |
+| Wifi | https://www.lemonde.fr/pixels/article/2020/12/16/ce-goliath-de-l-internet-manipule-le-marche-plusieurs-etats-americains-engagent-des-poursuites-contre-google_6063653_4408996.html |
+| Iphone | https://www.lemonde.fr/pixels/article/2020/12/16/ce-goliath-de-l-internet-manipule-le-marche-plusieurs-etats-americains-engagent-des-poursuites-contre-google_6063653_4408996.html |
+| Clement | https://www.lemonde.fr/politique/article/2020/12/16/le-socialiste-benoit-payan-confirme-sa-candidature-a-la-succession-de-michele-rubirola-a-marseille_6063643_823448.html |
+| Biden | https://www.lemonde.fr/idees/article/2020/12/16/le-monde-semble-revenu-a-la-guerre-froide-la-chine-a-remplace-l-union-sovietique-face-aux-etats-unis_6063527_3232.html |
+| Trump | https://www.lemonde.fr/idees/article/2020/12/16/le-monde-semble-revenu-a-la-guerre-froide-la-chine-a-remplace-l-union-sovietique-face-aux-etats-unis_6063527_3232.html |
+| Levy | https://www.lemonde.fr/pixels/article/2020/12/16/facebook-denonce-les-nouvelles-regles-de-transparence-d-apple-sur-la-collecte-des-donnees-personnelles_6063652_4408996.html |
+| Criticizes | https://www.lemonde.fr/pixels/article/2020/12/16/facebook-denonce-les-nouvelles-regles-de-transparence-d-apple-sur-la-collecte-des-donnees-personnelles_6063652_4408996.html |
+| Apollo | https://www.lemonde.fr/sciences/article/2020/12/16/retour-sur-terre-de-chang-e-5-une-sonde-spatiale-chinoise-transportant-des-echantillons-lunaires_6063651_1650684.html |
+| Lopez | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
+| Sporting | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
+| Partners | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
+| Outlet | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
