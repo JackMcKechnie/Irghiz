@@ -1,25 +1,2 @@
 | Anglicism | Link |
 |-----------|------|
-| Big | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
-| Harris | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
-| Lives | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
-| Savings | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
-| Facebook | https://www.lemonde.fr/societe/article/2020/12/16/attentats-de-janvier-2015-au-terme-d-un-proces-historique-des-peines-allant-de-quatre-ans-de-prison-a-la-perpetuite_6063639_3224.html |
-| Gonzalo | https://www.lemonde.fr/planete/article/2020/12/16/covid-19-la-campagne-de-vaccination-en-france-pourrait-debuter-des-la-derniere-semaine-de-decembre_6063621_3244.html |
-| Biden | https://www.lemonde.fr/idees/article/2020/12/16/le-monde-semble-revenu-a-la-guerre-froide-la-chine-a-remplace-l-union-sovietique-face-aux-etats-unis_6063527_3232.html |
-| Trump | https://www.lemonde.fr/idees/article/2020/12/16/le-monde-semble-revenu-a-la-guerre-froide-la-chine-a-remplace-l-union-sovietique-face-aux-etats-unis_6063527_3232.html |
-| Outlet | https://www.lemonde.fr/sport/article/2020/12/16/au-sein-des-federations-sportives-francaises-la-democratie-est-un-sport-de-combat_6063521_3242.html |
-| Schmuck | https://www.lemonde.fr/m-styles/article/2020/12/15/cocottes-en-fonte-passe-legumes-moulins-a-poivre-le-passe-s-invite-a-table_6063389_4497319.html |
-| Switch | https://www.lemonde.fr/economie/article/2020/12/16/le-groupe-de-luxe-kering-vise-depuis-2019-par-une-enquete-pour-blanchiment-de-fraude-fiscale_6063593_3234.html |
-| Wifi | https://www.lemonde.fr/economie/article/2020/12/16/le-groupe-de-luxe-kering-vise-depuis-2019-par-une-enquete-pour-blanchiment-de-fraude-fiscale_6063593_3234.html |
-| D-Link | https://www.lemonde.fr/economie/article/2020/12/16/le-groupe-de-luxe-kering-vise-depuis-2019-par-une-enquete-pour-blanchiment-de-fraude-fiscale_6063593_3234.html |
-| Iphone | https://www.lemonde.fr/economie/article/2020/12/16/le-groupe-de-luxe-kering-vise-depuis-2019-par-une-enquete-pour-blanchiment-de-fraude-fiscale_6063593_3234.html |
-| Ventura | https://www.lemonde.fr/societe/article/2020/12/16/l-ancien-ambassadeur-du-vatican-en-france-condamne-pour-agressions-sexuelles_6063618_3224.html |
-| Rosetta | https://www.lemonde.fr/pixels/article/2020/12/16/nouveaux-macbook-comment-savoir-si-vos-logiciels-fonctionnent-avec-le-processeur-m1_6063608_4408996.html |
-| Ap | https://www.lemonde.fr/planete/article/2020/12/16/covid-19-dans-le-monde-le-quebec-annonce-un-reconfinement-partiel-jusqu-au-11-janvier_6063531_3244.html |
-| Park | https://www.lemonde.fr/international/article/2020/12/16/entre-le-canada-et-les-etats-unis-une-frontiere-aussi-interminable-que-l-attente-de-sa-reouverture_6063526_3210.html |
-| Haskell | https://www.lemonde.fr/international/article/2020/12/16/entre-le-canada-et-les-etats-unis-une-frontiere-aussi-interminable-que-l-attente-de-sa-reouverture_6063526_3210.html |
-| Lopez | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
-| Merlyn | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
-| Sporting | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
-| Partners | https://www.lemonde.fr/sport/article/2020/12/16/football-lille-s-appreterait-a-changer-de-proprietaire_6063617_3242.html |
