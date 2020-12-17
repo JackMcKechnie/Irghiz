@@ -14,7 +14,7 @@ def get_todays(source):
                 todays.append((word, article[2]))
     return todays
 
-print("Polling Le Mode...")
+print("Polling Le Monde...")
 lemonde = le_monde()
 print("Done")
 
