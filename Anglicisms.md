@@ -36,4 +36,6 @@
 | Vista | https://www.lemonde.fr/m-styles/article/2020/12/18/voyage-immobile-a-cuba_6063870_4497319.html |
 | I’M | https://www.lemonde.fr/m-styles/article/2020/12/18/voyage-immobile-a-cuba_6063870_4497319.html |
 | Jimmie | https://www.lemonde.fr/international/article/2020/12/19/covid19-le-masque-recommande-dans-les-transports-en-suede_6063954_3210.html |
-| Corsica | https://www.lemonde.fr/planete/article/2020/12/19/entree-en-vigueur-de-l-obligation-d-avoir-effectue-un-test-covid-pour-tous-les-voyageurs-arrivant-en-corse_6063959_3244.html 
+| Corsica | https://www.lemonde.fr/planete/article/2020/12/19/entree-en-vigueur-de-l-obligation-d-avoir-effectue-un-test-covid-pour-tous-les-voyageurs-arrivant-en-corse_6063959_3244.html | Currently | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html |
+| Including | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html |
+| Tier | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html |
