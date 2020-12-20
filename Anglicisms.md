@@ -38,4 +38,21 @@
 | Jimmie | https://www.lemonde.fr/international/article/2020/12/19/covid19-le-masque-recommande-dans-les-transports-en-suede_6063954_3210.html |
 | Corsica | https://www.lemonde.fr/planete/article/2020/12/19/entree-en-vigueur-de-l-obligation-d-avoir-effectue-un-test-covid-pour-tous-les-voyageurs-arrivant-en-corse_6063959_3244.html | Currently | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html |
 | Including | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html |
-| Tier | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html |
+| Tier | https://www.lemonde.fr/international/article/2020/12/19/londres-et-une-partie-de-l-angleterre-reconfinees-face-a-une-nouvelle-flambee-de-covid-19_6063970_3210.html || Lopez | https://www.lemonde.fr/sport/article/2020/12/20/ligue-1-avant-le-match-au-sommet-face-au-psg-lille-entre-dans-une-incertaine-nouvelle-ere_6064019_3242.html |
+| Sporting | https://www.lemonde.fr/sport/article/2020/12/20/ligue-1-avant-le-match-au-sommet-face-au-psg-lille-entre-dans-une-incertaine-nouvelle-ere_6064019_3242.html |
+| Merlyn | https://www.lemonde.fr/sport/article/2020/12/20/ligue-1-avant-le-match-au-sommet-face-au-psg-lille-entre-dans-une-incertaine-nouvelle-ere_6064019_3242.html |
+| Partners | https://www.lemonde.fr/sport/article/2020/12/20/ligue-1-avant-le-match-au-sommet-face-au-psg-lille-entre-dans-une-incertaine-nouvelle-ere_6064019_3242.html |
+| Europa | https://www.lemonde.fr/sport/article/2020/12/20/ligue-1-avant-le-match-au-sommet-face-au-psg-lille-entre-dans-une-incertaine-nouvelle-ere_6064019_3242.html |
+| Financial | https://www.lemonde.fr/sport/article/2020/12/20/ligue-1-avant-le-match-au-sommet-face-au-psg-lille-entre-dans-une-incertaine-nouvelle-ere_6064019_3242.html |
+| Find | https://www.lemonde.fr/culture/article/2020/12/20/paul-mccartney-le-confort-dans-le-confinement_6064029_3246.html |
+| Way | https://www.lemonde.fr/culture/article/2020/12/20/paul-mccartney-le-confort-dans-le-confinement_6064029_3246.html |
+| Fields | https://www.lemonde.fr/culture/article/2020/12/20/paul-mccartney-le-confort-dans-le-confinement_6064029_3246.html |
+| Bank | https://www.lemonde.fr/sport/live/2020/12/20/france-norvege-un-nouveau-sacre-pour-les-bleues-suivez-la-finale-de-l-euro-de-handball-en-direct_6064025_3242.html |
+| Is | https://www.lemonde.fr/sport/live/2020/12/20/france-norvege-un-nouveau-sacre-pour-les-bleues-suivez-la-finale-de-l-euro-de-handball-en-direct_6064025_3242.html |
+| Back | https://www.lemonde.fr/sport/live/2020/12/20/france-norvege-un-nouveau-sacre-pour-les-bleues-suivez-la-finale-de-l-euro-de-handball-en-direct_6064025_3242.html |
+| Bernie | https://www.lemonde.fr/international/article/2020/12/20/la-transition-de-joe-biden-un-parcours-seme-d-embuches-par-donald-trump_6063990_3210.html |
+| May | https://www.lemonde.fr/international/article/2020/12/20/la-transition-de-joe-biden-un-parcours-seme-d-embuches-par-donald-trump_6063990_3210.html |
+| Medina | https://www.lemonde.fr/societe/article/2020/12/20/forces-de-l-ordre-vingt-cinq-ans-de-lois-pour-proteger-ceux-qui-nous-protegent_6064012_3224.html |
+| Grimsby | https://www.lemonde.fr/international/article/2020/12/19/brexit-la-querelle-sur-la-peche-bloque-les-negociations-entre-londres-et-bruxelles_6063979_3210.html |
+| Per | https://www.lemonde.fr/argent/article/2020/12/20/comment-optimiser-les-versements-sur-son-plan-d-epargne-retraite-pour-reduire-son-imposition_6063996_1657007.html |
+| Linz | https://www.lemonde.fr/international/article/2020/12/20/attentat-de-vienne-deux-suspects-arretes-en-autriche_6064017_3210.html |
