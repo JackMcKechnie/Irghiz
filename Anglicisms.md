@@ -55,4 +55,7 @@
 | Medina | https://www.lemonde.fr/societe/article/2020/12/20/forces-de-l-ordre-vingt-cinq-ans-de-lois-pour-proteger-ceux-qui-nous-protegent_6064012_3224.html |
 | Grimsby | https://www.lemonde.fr/international/article/2020/12/19/brexit-la-querelle-sur-la-peche-bloque-les-negociations-entre-londres-et-bruxelles_6063979_3210.html |
 | Per | https://www.lemonde.fr/argent/article/2020/12/20/comment-optimiser-les-versements-sur-son-plan-d-epargne-retraite-pour-reduire-son-imposition_6063996_1657007.html |
-| Linz | https://www.lemonde.fr/international/article/2020/12/20/attentat-de-vienne-deux-suspects-arretes-en-autriche_6064017_3210.html |
+| Linz | https://www.lemonde.fr/international/article/2020/12/20/attentat-de-vienne-deux-suspects-arretes-en-autriche_6064017_3210.html || Accuracy | https://www.lemonde.fr/planete/article/2020/12/21/coronavirus-la-france-devrait-elle-prendre-des-mesures-de-reconfinement-plus-drastiques_6064062_3244.html |
+| Channel | https://www.lemonde.fr/economie/article/2020/12/21/covid-19-la-plupart-des-pays-gelent-leurs-transports-vers-le-royaume-uni_6064102_3234.html |
+| Little | https://www.lemonde.fr/societe/article/2020/12/21/affaire-epstein-l-enquete-de-la-justice-francaise-accelere_6064091_3224.html |
+| Ipad | https://www.lemonde.fr/pixels/article/2020/12/16/six-cadeaux-technologiques-de-10-a-40-euros_6063631_4408996.html |
