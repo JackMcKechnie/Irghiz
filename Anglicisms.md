@@ -58,4 +58,11 @@
 | Linz | https://www.lemonde.fr/international/article/2020/12/20/attentat-de-vienne-deux-suspects-arretes-en-autriche_6064017_3210.html || Accuracy | https://www.lemonde.fr/planete/article/2020/12/21/coronavirus-la-france-devrait-elle-prendre-des-mesures-de-reconfinement-plus-drastiques_6064062_3244.html |
 | Channel | https://www.lemonde.fr/economie/article/2020/12/21/covid-19-la-plupart-des-pays-gelent-leurs-transports-vers-le-royaume-uni_6064102_3234.html |
 | Little | https://www.lemonde.fr/societe/article/2020/12/21/affaire-epstein-l-enquete-de-la-justice-francaise-accelere_6064091_3224.html |
-| Ipad | https://www.lemonde.fr/pixels/article/2020/12/16/six-cadeaux-technologiques-de-10-a-40-euros_6063631_4408996.html |
+| Ipad | https://www.lemonde.fr/pixels/article/2020/12/16/six-cadeaux-technologiques-de-10-a-40-euros_6063631_4408996.html || Testing | https://www.lemonde.fr/planete/article/2020/12/22/variant-du-coronavirus-l-union-europeenne-recommande-la-levee-des-restrictions-sur-les-liaisons-avec-le-royaume-uni_6064236_3244.html |
+| Wang | https://www.lemonde.fr/international/article/2020/12/21/en-chine-des-vaccins-pas-encore-approuves-mais-deja-inocules_6064073_3210.html |
+| Brazil | https://www.lemonde.fr/international/article/2020/12/22/au-bresil-le-demantelement-de-la-fondation-pour-l-indien-symbole-de-l-offensive-de-bolsonaro-contre-les-indigenes_6064160_3210.html |
+| Emojis | https://www.lemonde.fr/economie/article/2020/12/14/les-avantages-et-les-inconvenients-du-teletravail-resumes-en-conversation-sms_6063353_3234.html |
+| Creative | https://www.lemonde.fr/economie/article/2020/12/14/les-avantages-et-les-inconvenients-du-teletravail-resumes-en-conversation-sms_6063353_3234.html |
+| One | https://www.lemonde.fr/sport/article/2020/12/22/la-nba-relance-son-match-face-au-covid-19_6064191_3242.html |
+| Basketball | https://www.lemonde.fr/sport/article/2020/12/22/la-nba-relance-son-match-face-au-covid-19_6064191_3242.html |
+| Swiss | https://www.lemonde.fr/football/article/2020/12/22/la-guerre-judiciaire-se-poursuit-entre-la-fifa-et-son-ancien-president-sepp-blatter_6064223_1616938.html |
