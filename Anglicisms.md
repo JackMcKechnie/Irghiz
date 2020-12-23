@@ -65,4 +65,8 @@
 | Creative | https://www.lemonde.fr/economie/article/2020/12/14/les-avantages-et-les-inconvenients-du-teletravail-resumes-en-conversation-sms_6063353_3234.html |
 | One | https://www.lemonde.fr/sport/article/2020/12/22/la-nba-relance-son-match-face-au-covid-19_6064191_3242.html |
 | Basketball | https://www.lemonde.fr/sport/article/2020/12/22/la-nba-relance-son-match-face-au-covid-19_6064191_3242.html |
-| Swiss | https://www.lemonde.fr/football/article/2020/12/22/la-guerre-judiciaire-se-poursuit-entre-la-fifa-et-son-ancien-president-sepp-blatter_6064223_1616938.html |
+| Swiss | https://www.lemonde.fr/football/article/2020/12/22/la-guerre-judiciaire-se-poursuit-entre-la-fifa-et-son-ancien-president-sepp-blatter_6064223_1616938.html || Doing | https://www.lemonde.fr/afrique/article/2020/12/22/en-ethiopie-le-miracle-economique-menace-par-le-conflit-au-tigre_6064251_3212.html |
+| Airlines. | https://www.lemonde.fr/afrique/article/2020/12/22/en-ethiopie-le-miracle-economique-menace-par-le-conflit-au-tigre_6064251_3212.html |
+| Therese | https://www.lemonde.fr/planete/article/2020/12/23/en-norvege-la-cour-supreme-valide-l-exploitation-petroliere-dans-l-arctique_6064317_3244.html |
+| Berg | https://www.lemonde.fr/planete/article/2020/12/23/en-norvege-la-cour-supreme-valide-l-exploitation-petroliere-dans-l-arctique_6064317_3244.html |
+| Twitter. | https://www.lemonde.fr/politique/article/2020/12/23/le-projet-de-loi-sur-les-urgences-sanitaires-fait-reagir-vivement-les-oppositions_6064267_823448.html |
