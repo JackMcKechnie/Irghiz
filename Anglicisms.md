@@ -69,4 +69,11 @@
 | Airlines. | https://www.lemonde.fr/afrique/article/2020/12/22/en-ethiopie-le-miracle-economique-menace-par-le-conflit-au-tigre_6064251_3212.html |
 | Therese | https://www.lemonde.fr/planete/article/2020/12/23/en-norvege-la-cour-supreme-valide-l-exploitation-petroliere-dans-l-arctique_6064317_3244.html |
 | Berg | https://www.lemonde.fr/planete/article/2020/12/23/en-norvege-la-cour-supreme-valide-l-exploitation-petroliere-dans-l-arctique_6064317_3244.html |
-| Twitter. | https://www.lemonde.fr/politique/article/2020/12/23/le-projet-de-loi-sur-les-urgences-sanitaires-fait-reagir-vivement-les-oppositions_6064267_823448.html |
+| Twitter. | https://www.lemonde.fr/politique/article/2020/12/23/le-projet-de-loi-sur-les-urgences-sanitaires-fait-reagir-vivement-les-oppositions_6064267_823448.html || Nicola | https://www.lemonde.fr/international/live/2020/12/24/en-direct-suivez-les-reactions-a-l-accord-de-brexit-entre-le-royaume-uni-et-l-union-europeenne_6064443_3210.html |
+| Theresa | https://www.lemonde.fr/international/live/2020/12/24/en-direct-suivez-les-reactions-a-l-accord-de-brexit-entre-le-royaume-uni-et-l-union-europeenne_6064443_3210.html |
+| Fuller | https://www.lemonde.fr/economie/article/2020/12/18/face-au-brexit-la-grande-impreparation-du-royaume-uni_6063817_3234.html |
+| Editorial. | https://www.lemonde.fr/idees/article/2020/12/14/face-au-brexit-la-force-tranquille-de-l-ue_6063322_3232.html |
+| Spitz | https://www.lemonde.fr/economie/article/2020/12/18/le-brexit-un-big-bang-inedit-pour-les-entreprises-francaises_6063835_3234.html |
+| Hermes. | https://www.lemonde.fr/economie/article/2020/12/18/le-brexit-un-big-bang-inedit-pour-les-entreprises-francaises_6063835_3234.html |
+| Real | https://www.lemonde.fr/culture/article/2020/12/23/a-madrid-le-spectacle-continue_6064270_3246.html |
+| Gold. | https://www.lemonde.fr/planete/article/2020/12/24/en-guyane-la-justice-enjoint-a-l-etat-de-prolonger-les-concessions-controversees-de-montagne-d-or_6064439_3244.html |
