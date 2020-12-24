@@ -76,4 +76,4 @@
 | Spitz | https://www.lemonde.fr/economie/article/2020/12/18/le-brexit-un-big-bang-inedit-pour-les-entreprises-francaises_6063835_3234.html |
 | Hermes. | https://www.lemonde.fr/economie/article/2020/12/18/le-brexit-un-big-bang-inedit-pour-les-entreprises-francaises_6063835_3234.html |
 | Real | https://www.lemonde.fr/culture/article/2020/12/23/a-madrid-le-spectacle-continue_6064270_3246.html |
-| Gold. | https://www.lemonde.fr/planete/article/2020/12/24/en-guyane-la-justice-enjoint-a-l-etat-de-prolonger-les-concessions-controversees-de-montagne-d-or_6064439_3244.html |
+| Gold. | https://www.lemonde.fr/planete/article/2020/12/24/en-guyane-la-justice-enjoint-a-l-etat-de-prolonger-les-concessions-controversees-de-montagne-d-or_6064439_3244.html 
