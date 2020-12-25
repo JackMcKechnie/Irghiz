@@ -76,4 +76,11 @@
 | Spitz | https://www.lemonde.fr/economie/article/2020/12/18/le-brexit-un-big-bang-inedit-pour-les-entreprises-francaises_6063835_3234.html |
 | Hermes. | https://www.lemonde.fr/economie/article/2020/12/18/le-brexit-un-big-bang-inedit-pour-les-entreprises-francaises_6063835_3234.html |
 | Real | https://www.lemonde.fr/culture/article/2020/12/23/a-madrid-le-spectacle-continue_6064270_3246.html |
-| Gold. | https://www.lemonde.fr/planete/article/2020/12/24/en-guyane-la-justice-enjoint-a-l-etat-de-prolonger-les-concessions-controversees-de-montagne-d-or_6064439_3244.html 
+| Gold. | https://www.lemonde.fr/planete/article/2020/12/24/en-guyane-la-justice-enjoint-a-l-etat-de-prolonger-les-concessions-controversees-de-montagne-d-or_6064439_3244.html | Streaming | https://www.lemonde.fr/culture/article/2020/12/24/2020-annee-monstre-pour-les-plates-formes-de-streaming_6064397_3246.html |
+| Wars | https://www.lemonde.fr/culture/article/2020/12/24/2020-annee-monstre-pour-les-plates-formes-de-streaming_6064397_3246.html |
+| Mora. | https://www.lemonde.fr/planete/article/2020/12/25/grippe-aviaire-abattages-preventifs-massifs-de-40-000-canards-dans-les-landes_6064465_3244.html |
+| Of | https://www.lemonde.fr/culture/article/2020/12/23/au-royaume-uni-l-annee-terrible-de-l-artiste-tracey-emin_6064373_3246.html |
+| Sunday | https://www.lemonde.fr/culture/article/2020/12/23/au-royaume-uni-l-annee-terrible-de-l-artiste-tracey-emin_6064373_3246.html |
+| Mercado | https://www.lemonde.fr/le-monde-des-religions/article/2020/12/25/tres-breve-histoire-de-jesus-cet-inconnu_6064470_6038514.html |
+| Hold-Up | https://www.lemonde.fr/les-decodeurs/article/2020/12/22/aujourd-hui-le-territoire-des-sectes-est-en-ligne-et-leurs-chefs-sont-sur-youtube_6064209_4355770.html |
+| Youtube | https://www.lemonde.fr/les-decodeurs/article/2020/12/22/aujourd-hui-le-territoire-des-sectes-est-en-ligne-et-leurs-chefs-sont-sur-youtube_6064209_4355770.html |
