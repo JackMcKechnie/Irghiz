@@ -83,4 +83,9 @@
 | Sunday | https://www.lemonde.fr/culture/article/2020/12/23/au-royaume-uni-l-annee-terrible-de-l-artiste-tracey-emin_6064373_3246.html |
 | Mercado | https://www.lemonde.fr/le-monde-des-religions/article/2020/12/25/tres-breve-histoire-de-jesus-cet-inconnu_6064470_6038514.html |
 | Hold-Up | https://www.lemonde.fr/les-decodeurs/article/2020/12/22/aujourd-hui-le-territoire-des-sectes-est-en-ligne-et-leurs-chefs-sont-sur-youtube_6064209_4355770.html |
-| Youtube | https://www.lemonde.fr/les-decodeurs/article/2020/12/22/aujourd-hui-le-territoire-des-sectes-est-en-ligne-et-leurs-chefs-sont-sur-youtube_6064209_4355770.html |
+| Youtube | https://www.lemonde.fr/les-decodeurs/article/2020/12/22/aujourd-hui-le-territoire-des-sectes-est-en-ligne-et-leurs-chefs-sont-sur-youtube_6064209_4355770.html || School | https://www.lemonde.fr/planete/article/2020/12/26/covid-19-un-premier-cas-confirme-en-france-du-variant-apparu-au-royaume-uni_6064521_3244.html |
+| Like | https://www.lemonde.fr/afrique/article/2020/12/26/la-mise-en-cause-de-la-france-dans-de-la-guerre-informationnelle-en-afrique-suscite-des-remous_6064560_3212.html |
+| Facebook. | https://www.lemonde.fr/afrique/article/2020/12/26/la-mise-en-cause-de-la-france-dans-de-la-guerre-informationnelle-en-afrique-suscite-des-remous_6064560_3212.html |
+| Thunderstruck | https://www.lemonde.fr/sport/article/2020/12/23/covid-19-le-huis-clos-ce-grand-vide-qui-asphyxie-les-sports-collectifs-de-salle_6064358_3242.html |
+| Thc | https://www.lemonde.fr/economie/article/2020/12/26/cbd-le-nouveau-commerce-de-proximite_6064525_3234.html |
+| Tass | https://www.lemonde.fr/disparitions/article/2020/12/26/george-blake-l-agent-double-britannique-qui-espionnait-pour-les-sovietiques-est-mort_6064552_3382.html |
