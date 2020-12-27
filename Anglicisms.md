@@ -88,4 +88,8 @@
 | Facebook. | https://www.lemonde.fr/afrique/article/2020/12/26/la-mise-en-cause-de-la-france-dans-de-la-guerre-informationnelle-en-afrique-suscite-des-remous_6064560_3212.html |
 | Thunderstruck | https://www.lemonde.fr/sport/article/2020/12/23/covid-19-le-huis-clos-ce-grand-vide-qui-asphyxie-les-sports-collectifs-de-salle_6064358_3242.html |
 | Thc | https://www.lemonde.fr/economie/article/2020/12/26/cbd-le-nouveau-commerce-de-proximite_6064525_3234.html |
-| Tass | https://www.lemonde.fr/disparitions/article/2020/12/26/george-blake-l-agent-double-britannique-qui-espionnait-pour-les-sovietiques-est-mort_6064552_3382.html |
+| Tass | https://www.lemonde.fr/disparitions/article/2020/12/26/george-blake-l-agent-double-britannique-qui-espionnait-pour-les-sovietiques-est-mort_6064552_3382.html || Wikipedia | https://www.lemonde.fr/le-monde-des-religions/article/2020/12/27/ce-que-l-on-sait-des-freres-et-s-urs-de-jesus_6064581_6038514.html |
+| South | https://www.lemonde.fr/planete/article/2020/12/25/coronavirus-dans-le-monde-de-nouveaux-confinements-en-europe-ou-se-prepare-une-campagne-de-vaccination_6064518_3244.html |
+| Araceli | https://www.lemonde.fr/planete/article/2020/12/25/coronavirus-dans-le-monde-de-nouveaux-confinements-en-europe-ou-se-prepare-une-campagne-de-vaccination_6064518_3244.html |
+| Hama | https://www.lemonde.fr/afrique/article/2020/12/27/le-niger-appele-a-elire-le-successeur-de-mahamadou-issoufou_6064588_3212.html |
+| -Fr | https://www.lemonde.fr/blog/filiu/2020/12/27/la-menace-en-2021-dune-offensive-majeure-de-la-turquie-en-irak/ |
