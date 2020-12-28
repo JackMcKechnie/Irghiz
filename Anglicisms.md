@@ -92,4 +92,25 @@
 | South | https://www.lemonde.fr/planete/article/2020/12/25/coronavirus-dans-le-monde-de-nouveaux-confinements-en-europe-ou-se-prepare-une-campagne-de-vaccination_6064518_3244.html |
 | Araceli | https://www.lemonde.fr/planete/article/2020/12/25/coronavirus-dans-le-monde-de-nouveaux-confinements-en-europe-ou-se-prepare-une-campagne-de-vaccination_6064518_3244.html |
 | Hama | https://www.lemonde.fr/afrique/article/2020/12/27/le-niger-appele-a-elire-le-successeur-de-mahamadou-issoufou_6064588_3212.html |
-| -Fr | https://www.lemonde.fr/blog/filiu/2020/12/27/la-menace-en-2021-dune-offensive-majeure-de-la-turquie-en-irak/ |
+| -Fr | https://www.lemonde.fr/blog/filiu/2020/12/27/la-menace-en-2021-dune-offensive-majeure-de-la-turquie-en-irak/ || Apollo | https://www.lemonde.fr/sciences/article/2020/12/28/ces-avancees-scientifiques-que-le-covid-19-a-eclipsees-en-2020_6064684_1650684.html |
+| Bonita | https://www.lemonde.fr/international/article/2020/12/28/on-sent-une-energie-nouvelle-le-combat-pour-le-senat-se-joue-en-georgie_6064660_3210.html |
+| Raphael | https://www.lemonde.fr/international/article/2020/12/28/on-sent-une-energie-nouvelle-le-combat-pour-le-senat-se-joue-en-georgie_6064660_3210.html |
+| Dustin | https://www.lemonde.fr/international/article/2020/12/28/on-sent-une-energie-nouvelle-le-combat-pour-le-senat-se-joue-en-georgie_6064660_3210.html |
+| Peach | https://www.lemonde.fr/international/article/2020/12/28/on-sent-une-energie-nouvelle-le-combat-pour-le-senat-se-joue-en-georgie_6064660_3210.html |
+| Dares | https://www.lemonde.fr/politique/article/2020/12/28/le-chomage-est-reparti-a-la-hausse-en-novembre_6064673_823448.html |
+| Statistical | https://www.lemonde.fr/idees/article/2020/12/28/l-affaire-gregory-et-l-intrigante-stylometrie_6064632_3232.html |
+| Game | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Playstation | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Series | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Among | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Android. | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Fall | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Hades | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Games | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Switch. | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Zelda | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Pokémon. | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Never | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Demon’S | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Kings | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
+| Bipartisan | https://www.lemonde.fr/international/article/2020/12/28/covid-19-sous-la-pression-donald-trump-ratifie-le-plan-de-relance-americain_6064620_3210.html |
