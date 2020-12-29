@@ -113,4 +113,14 @@
 | Never | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
 | Demon’S | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
 | Kings | https://www.lemonde.fr/pixels/article/2020/12/28/les-20-jeux-video-qui-ont-marque-l-annee-2020-selectionnes-par-le-monde_6064666_4408996.html |
-| Bipartisan | https://www.lemonde.fr/international/article/2020/12/28/covid-19-sous-la-pression-donald-trump-ratifie-le-plan-de-relance-americain_6064620_3210.html |
+| Bipartisan | https://www.lemonde.fr/international/article/2020/12/28/covid-19-sous-la-pression-donald-trump-ratifie-le-plan-de-relance-americain_6064620_3210.html || Tech | https://www.lemonde.fr/international/article/2020/12/29/brexit-l-abandon-d-erasmus-fait-polemique-au-royaume-uni_6064709_3210.html |
+| Agustin | https://www.lemonde.fr/planete/article/2020/12/29/covid-19-les-campagnes-de-vaccination-se-poursuivent-l-angleterre-au-c-ur-de-la-tempete_6064756_3244.html |
+| Biden. | https://www.lemonde.fr/planete/article/2020/12/29/covid-19-les-campagnes-de-vaccination-se-poursuivent-l-angleterre-au-c-ur-de-la-tempete_6064756_3244.html |
+| Coca-Cola | https://www.lemonde.fr/disparitions/article/2020/12/29/le-couturier-francais-pierre-cardin-est-mort_6064748_3382.html |
+| Italia | https://www.lemonde.fr/disparitions/article/2020/12/29/le-couturier-francais-pierre-cardin-est-mort_6064748_3382.html |
+| Hernandez | https://www.lemonde.fr/sport/article/2020/12/28/qu-est-il-arrive-a-djokovic-a-l-us-open-ou-pierre-gasly-a-t-il-gagne-un-grand-prix-de-f1-testez-vos-connaissances-sur-l-annee-sportive-2020_6064629_3242.html |
+| Ied | https://www.lemonde.fr/afrique/article/2020/12/28/trois-soldats-francais-tues-en-operation-au-mali_6064692_3212.html |
+| Veracruz | https://www.lemonde.fr/actualite-medias/article/2020/12/29/en-2020-50-journalistes-ont-ete-tues-dans-le-monde-la-majorite-dans-des-pays-en-paix_6064725_3236.html |
+| Alvarez | https://www.lemonde.fr/actualite-medias/article/2020/12/29/en-2020-50-journalistes-ont-ete-tues-dans-le-monde-la-majorite-dans-des-pays-en-paix_6064725_3236.html |
+| Railway | https://www.lemonde.fr/economie/article/2020/12/29/a-toulouse-francazal-cent-ingenieurs-en-renfort-pour-accelerer-l-hyperloop_6064704_3234.html |
+| Traffic | https://www.lemonde.fr/economie/article/2020/12/29/a-toulouse-francazal-cent-ingenieurs-en-renfort-pour-accelerer-l-hyperloop_6064704_3234.html |
