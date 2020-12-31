@@ -123,4 +123,7 @@
 | Veracruz | https://www.lemonde.fr/actualite-medias/article/2020/12/29/en-2020-50-journalistes-ont-ete-tues-dans-le-monde-la-majorite-dans-des-pays-en-paix_6064725_3236.html |
 | Alvarez | https://www.lemonde.fr/actualite-medias/article/2020/12/29/en-2020-50-journalistes-ont-ete-tues-dans-le-monde-la-majorite-dans-des-pays-en-paix_6064725_3236.html |
 | Railway | https://www.lemonde.fr/economie/article/2020/12/29/a-toulouse-francazal-cent-ingenieurs-en-renfort-pour-accelerer-l-hyperloop_6064704_3234.html |
-| Traffic | https://www.lemonde.fr/economie/article/2020/12/29/a-toulouse-francazal-cent-ingenieurs-en-renfort-pour-accelerer-l-hyperloop_6064704_3234.html |
+| Traffic | https://www.lemonde.fr/economie/article/2020/12/29/a-toulouse-francazal-cent-ingenieurs-en-renfort-pour-accelerer-l-hyperloop_6064704_3234.html || Sachs | https://www.lemonde.fr/economie/article/2020/12/31/les-nouveaux-geants-de-l-energie-misent-sur-l-eolien-et-le-solaire_6064870_3234.html |
+| Wong | https://www.lemonde.fr/international/article/2020/12/30/pour-xi-jinping-2020-aura-ete-une-bonne-annee_6064853_3210.html |
+| Patti | https://www.lemonde.fr/planete/article/2020/12/31/coronavirus-le-variant-anglais-decouvert-en-chine-recrudescence-des-deces-aux-etats-unis-une-nouvelle-annee-sous-le-signe-de-la-pandemie_6064897_3244.html |
+| Next | https://www.lemonde.fr/international/article/2020/12/31/le-magnat-prodemocratie-de-hongkong-jimmy-lai-renvoye-en-prison_6064909_3210.html |
