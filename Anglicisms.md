@@ -126,4 +126,17 @@
 | Traffic | https://www.lemonde.fr/economie/article/2020/12/29/a-toulouse-francazal-cent-ingenieurs-en-renfort-pour-accelerer-l-hyperloop_6064704_3234.html || Sachs | https://www.lemonde.fr/economie/article/2020/12/31/les-nouveaux-geants-de-l-energie-misent-sur-l-eolien-et-le-solaire_6064870_3234.html |
 | Wong | https://www.lemonde.fr/international/article/2020/12/30/pour-xi-jinping-2020-aura-ete-une-bonne-annee_6064853_3210.html |
 | Patti | https://www.lemonde.fr/planete/article/2020/12/31/coronavirus-le-variant-anglais-decouvert-en-chine-recrudescence-des-deces-aux-etats-unis-une-nouvelle-annee-sous-le-signe-de-la-pandemie_6064897_3244.html |
-| Next | https://www.lemonde.fr/international/article/2020/12/31/le-magnat-prodemocratie-de-hongkong-jimmy-lai-renvoye-en-prison_6064909_3210.html |
+| Next | https://www.lemonde.fr/international/article/2020/12/31/le-magnat-prodemocratie-de-hongkong-jimmy-lai-renvoye-en-prison_6064909_3210.html || Knights | https://www.lemonde.fr/international/article/2020/12/31/en-irak-l-emprise-des-milices-chiites_6064924_3210.html |
+| West | https://www.lemonde.fr/international/article/2020/12/31/en-irak-l-emprise-des-milices-chiites_6064924_3210.html |
+| Fife | https://www.lemonde.fr/sport/article/2020/12/31/apres-le-fiasco-de-mediapro-les-clubs-francais-de-football-realisent-qu-ils-sont-assis-sur-un-tas-de-sable-et-non-d-or_6064884_3242.html |
+| Capella | https://www.lemonde.fr/blog/autourduciel/2021/01/01/mercure-croise-jupiter-et-saturne-dans-le-ciel-du-soir/ |
+| Rosetta | https://www.lemonde.fr/blog/autourduciel/2021/01/01/mercure-croise-jupiter-et-saturne-dans-le-ciel-du-soir/ |
+| Free | https://www.lemonde.fr/economie/article/2021/01/01/le-faramineux-package-du-patron-de-general-electric_6064984_3234.html |
+| Pet-Scan | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
+| Disproportionate | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
+| Circumstances. | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
+| Clinical | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
+| Loss | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
+| Recovery | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
+| Zero | https://www.lemonde.fr/planete/article/2021/01/01/une-entreprise-francaise-veut-recycler-les-masques-jetables-nouvelle-menace-de-pollution_6064970_3244.html |
+| Agon | https://www.lemonde.fr/societe/article/2021/01/01/karine-lacombe-eric-d-ortenzio-la-legion-d-honneur-recompense-des-centaines-de-personnes-engagees-contre-le-covid-19_6064955_3224.html |
