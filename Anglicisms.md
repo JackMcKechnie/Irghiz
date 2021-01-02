@@ -139,4 +139,13 @@
 | Loss | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
 | Recovery | https://www.lemonde.fr/blog/realitesbiomedicales/2020/12/30/un-cas-damnesie-associe-a-un-stress-professionnel-intense/ |
 | Zero | https://www.lemonde.fr/planete/article/2021/01/01/une-entreprise-francaise-veut-recycler-les-masques-jetables-nouvelle-menace-de-pollution_6064970_3244.html |
-| Agon | https://www.lemonde.fr/societe/article/2021/01/01/karine-lacombe-eric-d-ortenzio-la-legion-d-honneur-recompense-des-centaines-de-personnes-engagees-contre-le-covid-19_6064955_3224.html |
+| Agon | https://www.lemonde.fr/societe/article/2021/01/01/karine-lacombe-eric-d-ortenzio-la-legion-d-honneur-recompense-des-centaines-de-personnes-engagees-contre-le-covid-19_6064955_3224.html || Emden | https://www.lemonde.fr/economie/article/2021/01/02/le-bitcoin-depasse-les-30-000-dollars-pour-la-premiere-fois-de-son-histoire_6065041_3234.html |
+| Mauricio | https://www.lemonde.fr/football/article/2021/01/02/ligue-1-mauricio-pochettino-de-retour-au-psg-une-evidence-pour-l-exigeant-entraineur-argentin_6065039_1616938.html |
+| Santa | https://www.lemonde.fr/football/article/2021/01/02/ligue-1-mauricio-pochettino-de-retour-au-psg-une-evidence-pour-l-exigeant-entraineur-argentin_6065039_1616938.html |
+| Kane | https://www.lemonde.fr/football/article/2021/01/02/ligue-1-mauricio-pochettino-de-retour-au-psg-une-evidence-pour-l-exigeant-entraineur-argentin_6065039_1616938.html |
+| Ar-15 | https://www.lemonde.fr/societe/article/2021/01/02/gendarmes-tues-dans-le-puy-de-dome-je-vais-etre-un-killeur-de-keufs_6065018_3224.html |
+| Redon | https://www.lemonde.fr/societe/article/2021/01/01/comment-ca-va-se-passer-s-il-faut-les-deloger-plus-de-2-500-fetards-rassembles-en-bretagne-pour-une-rave-party-sauvage_6064994_3224.html |
+| Capra | https://www.lemonde.fr/televisions-radio/article/2021/01/01/capra-cardin-equilbey-trois-createurs-d-exception-au-programme-ce-week-end_6064999_1655027.html |
+| Best | https://www.lemonde.fr/televisions-radio/article/2021/01/01/capra-cardin-equilbey-trois-createurs-d-exception-au-programme-ce-week-end_6064999_1655027.html |
+| Targeting | https://www.lemonde.fr/planete/article/2021/01/01/une-nouvelle-agence-consacree-aux-maladies-infectieuses-emergentes-en-manque-de-moyens-propres_6064964_3244.html |
+| Zika | https://www.lemonde.fr/planete/article/2021/01/01/une-nouvelle-agence-consacree-aux-maladies-infectieuses-emergentes-en-manque-de-moyens-propres_6064964_3244.html |
