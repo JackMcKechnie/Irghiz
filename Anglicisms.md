@@ -148,4 +148,12 @@
 | Capra | https://www.lemonde.fr/televisions-radio/article/2021/01/01/capra-cardin-equilbey-trois-createurs-d-exception-au-programme-ce-week-end_6064999_1655027.html |
 | Best | https://www.lemonde.fr/televisions-radio/article/2021/01/01/capra-cardin-equilbey-trois-createurs-d-exception-au-programme-ce-week-end_6064999_1655027.html |
 | Targeting | https://www.lemonde.fr/planete/article/2021/01/01/une-nouvelle-agence-consacree-aux-maladies-infectieuses-emergentes-en-manque-de-moyens-propres_6064964_3244.html |
-| Zika | https://www.lemonde.fr/planete/article/2021/01/01/une-nouvelle-agence-consacree-aux-maladies-infectieuses-emergentes-en-manque-de-moyens-propres_6064964_3244.html |
+| Zika | https://www.lemonde.fr/planete/article/2021/01/01/une-nouvelle-agence-consacree-aux-maladies-infectieuses-emergentes-en-manque-de-moyens-propres_6064964_3244.html || Biotech | https://www.lemonde.fr/planete/article/2021/01/03/covid-19-dans-le-monde-l-inde-autorise-deux-vaccins-l-arabie-saoudite-rouvre-ses-frontieres_6065070_3244.html |
+| Bahrein | https://www.lemonde.fr/blog/filiu/2021/01/03/2020-lannee-ou-le-moyen-orient-a-bascule/ |
+| Ar-15. | https://www.lemonde.fr/societe/article/2021/01/02/frederik-limol-itineraire-d-une-radicalisation_6065002_3224.html |
+| League | https://www.lemonde.fr/culture/article/2021/01/03/football-a-la-tele-crampons-sur-canape-dix-huit-matchs-sur-canal-bein-sports-et-rmc-sports_6065068_3246.html |
+| Benevento-Milan | https://www.lemonde.fr/culture/article/2021/01/03/football-a-la-tele-crampons-sur-canape-dix-huit-matchs-sur-canal-bein-sports-et-rmc-sports_6065068_3246.html |
+| Bayern-Mayence | https://www.lemonde.fr/culture/article/2021/01/03/football-a-la-tele-crampons-sur-canape-dix-huit-matchs-sur-canal-bein-sports-et-rmc-sports_6065068_3246.html |
+| Coming | https://www.lemonde.fr/m-perso/article/2020/12/31/toute-honte-bue-deux-livres-de-femmes-aux-sources-de-l-alcoolisme-au-feminin_6064935_4497916.html |
+| Transparency | https://www.lemonde.fr/international/article/2021/01/02/les-etats-unis-mettent-fin-a-un-important-canal-d-evasion-fiscale-et-de-blanchiment-d-argent_6065051_3210.html |
+| Network | https://www.lemonde.fr/international/article/2021/01/02/les-etats-unis-mettent-fin-a-un-important-canal-d-evasion-fiscale-et-de-blanchiment-d-argent_6065051_3210.html |
