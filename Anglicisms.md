@@ -156,4 +156,12 @@
 | Bayern-Mayence | https://www.lemonde.fr/culture/article/2021/01/03/football-a-la-tele-crampons-sur-canape-dix-huit-matchs-sur-canal-bein-sports-et-rmc-sports_6065068_3246.html |
 | Coming | https://www.lemonde.fr/m-perso/article/2020/12/31/toute-honte-bue-deux-livres-de-femmes-aux-sources-de-l-alcoolisme-au-feminin_6064935_4497916.html |
 | Transparency | https://www.lemonde.fr/international/article/2021/01/02/les-etats-unis-mettent-fin-a-un-important-canal-d-evasion-fiscale-et-de-blanchiment-d-argent_6065051_3210.html |
-| Network | https://www.lemonde.fr/international/article/2021/01/02/les-etats-unis-mettent-fin-a-un-important-canal-d-evasion-fiscale-et-de-blanchiment-d-argent_6065051_3210.html |
+| Network | https://www.lemonde.fr/international/article/2021/01/02/les-etats-unis-mettent-fin-a-un-important-canal-d-evasion-fiscale-et-de-blanchiment-d-argent_6065051_3210.html || Leigh | https://www.lemonde.fr/societe/article/2021/01/04/olivier-duhamel-l-inceste-et-les-enfants-du-silence_6065166_3224.html |
+| Lauri | https://www.lemonde.fr/pixels/article/2021/01/04/la-justice-britannique-refuse-l-extradition-de-julian-assange-vers-les-etats-unis_6065143_4408996.html |
+| Meal | https://www.lemonde.fr/international/article/2021/01/04/en-afrique-du-sud-le-ministre-et-ses-gousses-d-ail_6065094_3210.html |
+| Idea. | https://www.lemonde.fr/international/article/2021/01/04/en-afrique-du-sud-le-ministre-et-ses-gousses-d-ail_6065094_3210.html |
+| Whereas | https://www.lemonde.fr/les-decodeurs/article/2021/01/04/presidentielle-americaine-malgre-son-retard-de-7-millions-de-voix-trump-aurait-pu-l-emporter-en-retournant-32-507-voix-dans-les-bons-etats_6065157_4355770.html |
+| Tang | https://www.lemonde.fr/economie/article/2021/01/04/le-cambodge-se-lance-dans-l-exploitation-petroliere_6065140_3234.html |
+| Doodle | https://www.lemonde.fr/emploi/article/2021/01/04/l-argot-de-bureau-full-remote-au-secours-mon-bureau-a-disparu_6065100_1698637.html |
+| Musk | https://www.lemonde.fr/economie/article/2021/01/04/tesla-livre-un-demi-million-de-voitures-en-2020-un-veritable-defi-logistique_6065133_3234.html |
+| Epson | https://www.lemonde.fr/m-perso/article/2021/01/04/le-prenom-des-gens-fanch_6065096_4497916.html |
