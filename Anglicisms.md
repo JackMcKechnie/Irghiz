@@ -164,4 +164,13 @@
 | Tang | https://www.lemonde.fr/economie/article/2021/01/04/le-cambodge-se-lance-dans-l-exploitation-petroliere_6065140_3234.html |
 | Doodle | https://www.lemonde.fr/emploi/article/2021/01/04/l-argot-de-bureau-full-remote-au-secours-mon-bureau-a-disparu_6065100_1698637.html |
 | Musk | https://www.lemonde.fr/economie/article/2021/01/04/tesla-livre-un-demi-million-de-voitures-en-2020-un-veritable-defi-logistique_6065133_3234.html |
-| Epson | https://www.lemonde.fr/m-perso/article/2021/01/04/le-prenom-des-gens-fanch_6065096_4497916.html |
+| Epson | https://www.lemonde.fr/m-perso/article/2021/01/04/le-prenom-des-gens-fanch_6065096_4497916.html || Taurus | https://www.lemonde.fr/economie/article/2021/01/05/taurus-symbole-de-la-course-a-l-armement-de-la-societe-bresilienne_6065200_3234.html |
+| Cbc | https://www.lemonde.fr/economie/article/2021/01/05/taurus-symbole-de-la-course-a-l-armement-de-la-societe-bresilienne_6065200_3234.html |
+| Doom | https://www.lemonde.fr/musiques/article/2021/01/05/le-rappeur-mf-doom-est-mort_6065268_1654986.html |
+| Tribe | https://www.lemonde.fr/musiques/article/2021/01/05/le-rappeur-mf-doom-est-mort_6065268_1654986.html |
+| Wu-Tang | https://www.lemonde.fr/musiques/article/2021/01/05/le-rappeur-mf-doom-est-mort_6065268_1654986.html |
+| Rishi | https://www.lemonde.fr/planete/article/2021/01/05/covid-19-nouveau-confinement-en-angleterre-pas-d-assouplissement-attendu-avant-mars_6065249_3244.html |
+| Save | https://www.lemonde.fr/planete/article/2021/01/05/covid-19-nouveau-confinement-en-angleterre-pas-d-assouplissement-attendu-avant-mars_6065249_3244.html |
+| Vivian | https://www.lemonde.fr/planete/article/2021/01/05/covid-19-nouveau-confinement-en-angleterre-pas-d-assouplissement-attendu-avant-mars_6065249_3244.html |
+| Sunderland | https://www.lemonde.fr/idees/article/2021/01/05/brexit-au-royaume-uni-pas-d-effondrement-economique-mais-un-lent-effritement_6065212_3232.html |
+| Facts | https://www.lemonde.fr/economie/article/2021/01/05/natixis-va-ceder-ses-parts-dans-h2o-aux-dirigeants-du-fonds-speculatif_6065244_3234.html |
