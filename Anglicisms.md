@@ -173,4 +173,11 @@
 | Save | https://www.lemonde.fr/planete/article/2021/01/05/covid-19-nouveau-confinement-en-angleterre-pas-d-assouplissement-attendu-avant-mars_6065249_3244.html |
 | Vivian | https://www.lemonde.fr/planete/article/2021/01/05/covid-19-nouveau-confinement-en-angleterre-pas-d-assouplissement-attendu-avant-mars_6065249_3244.html |
 | Sunderland | https://www.lemonde.fr/idees/article/2021/01/05/brexit-au-royaume-uni-pas-d-effondrement-economique-mais-un-lent-effritement_6065212_3232.html |
-| Facts | https://www.lemonde.fr/economie/article/2021/01/05/natixis-va-ceder-ses-parts-dans-h2o-aux-dirigeants-du-fonds-speculatif_6065244_3234.html |
+| Facts | https://www.lemonde.fr/economie/article/2021/01/05/natixis-va-ceder-ses-parts-dans-h2o-aux-dirigeants-du-fonds-speculatif_6065244_3234.html || Loyd | https://www.lemonde.fr/international/article/2021/01/06/election-presidentielle-americaine-mike-pence-a-la-torture_6065316_3210.html |
+| Crisis | https://www.lemonde.fr/international/article/2021/01/06/nucleaire-iranien-comprendre-pourquoi-teheran-a-recommence-a-enrichir-l-uranium-a-20_6065400_3210.html |
+| Torres | https://www.lemonde.fr/economie/article/2021/01/06/bridgestone-continental-michelin-schaeffler-mahle-les-equipementiers-et-manufacturiers-automobiles-europeens-souffrent_6065355_3234.html |
+| Mane | https://www.lemonde.fr/international/article/2021/01/06/l-armenie-s-oriente-vers-des-elections-anticipees_6065366_3210.html |
+| Allen | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
+| Fanning | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
+| Allen. | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
+| Park | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
