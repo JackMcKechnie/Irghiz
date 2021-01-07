@@ -180,4 +180,9 @@
 | Allen | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
 | Fanning | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
 | Allen. | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
-| Park | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html |
+| Park | https://www.lemonde.fr/culture/article/2021/01/06/canal-decale-avec-un-jour-de-pluie-a-new-york-woody-allen-se-lance-a-la-recherche-d-un-manhattan-perdu_6065403_3246.html || Proud | https://www.lemonde.fr/idees/article/2021/01/07/violences-au-capitole-jour-de-honte-aux-etats-unis_6065464_3232.html |
+| Naves | https://www.lemonde.fr/international/live/2021/01/07/etats-unis-la-certification-de-la-victoire-de-joe-biden-est-toujours-en-cours-au-congres_6065432_3210.html |
+| Theiler | https://www.lemonde.fr/international/article/2021/01/07/en-images-l-amerique-au-bord-de-l-insurrection_6065440_3210.html |
+| Loeb | https://www.lemonde.fr/international/article/2021/01/07/en-images-l-amerique-au-bord-de-l-insurrection_6065440_3210.html |
+| Brendan | https://www.lemonde.fr/international/article/2021/01/07/en-images-l-amerique-au-bord-de-l-insurrection_6065440_3210.html |
+| Pictures | https://www.lemonde.fr/economie/article/2021/01/07/le-covid-19-frappe-au-c-ur-l-economie-corse_6065468_3234.html |
