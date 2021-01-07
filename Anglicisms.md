@@ -185,4 +185,11 @@
 | Theiler | https://www.lemonde.fr/international/article/2021/01/07/en-images-l-amerique-au-bord-de-l-insurrection_6065440_3210.html |
 | Loeb | https://www.lemonde.fr/international/article/2021/01/07/en-images-l-amerique-au-bord-de-l-insurrection_6065440_3210.html |
 | Brendan | https://www.lemonde.fr/international/article/2021/01/07/en-images-l-amerique-au-bord-de-l-insurrection_6065440_3210.html |
-| Pictures | https://www.lemonde.fr/economie/article/2021/01/07/le-covid-19-frappe-au-c-ur-l-economie-corse_6065468_3234.html |
+| Pictures | https://www.lemonde.fr/economie/article/2021/01/07/le-covid-19-frappe-au-c-ur-l-economie-corse_6065468_3234.html || Pro-Trump | https://www.lemonde.fr/international/article/2021/01/07/comment-des-dizaines-de-manifestants-pro-trump-ont-accede-au-c-ur-du-capitole_6065533_3210.html |
+| Trump. | https://www.lemonde.fr/international/article/2021/01/07/serie-de-demissions-autour-de-donald-trump-apres-l-envahissement-du-capitole_6065512_3210.html |
+| Blue | https://www.lemonde.fr/pixels/article/2021/01/07/chez-les-militants-radicaux-pro-trump-colere-incomprehension-et-theorie-d-un-complot-antifa-apres-la-prise-du-capitole_6065523_4408996.html |
+| Gab | https://www.lemonde.fr/pixels/article/2021/01/07/chez-les-militants-radicaux-pro-trump-colere-incomprehension-et-theorie-d-un-complot-antifa-apres-la-prise-du-capitole_6065523_4408996.html |
+| Party | https://www.lemonde.fr/m-le-mag/article/2021/01/07/en-espagne-le-cimetiere-des-night-clubs_6065447_4500055.html |
+| Getty | https://www.lemonde.fr/economie/article/2021/01/06/gautam-adani-un-tycoon-indien-dans-l-ombre-de-narendra-modi_6065384_3234.html |
+| Updated | https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html |
+| All. | https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html |
