@@ -192,4 +192,10 @@
 | Party | https://www.lemonde.fr/m-le-mag/article/2021/01/07/en-espagne-le-cimetiere-des-night-clubs_6065447_4500055.html |
 | Getty | https://www.lemonde.fr/economie/article/2021/01/06/gautam-adani-un-tycoon-indien-dans-l-ombre-de-narendra-modi_6065384_3234.html |
 | Updated | https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html |
-| All. | https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html |
+| All. | https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html || Nail | https://www.lemonde.fr/economie/article/2021/01/08/automobile-les-fonderies-dans-la-tourmente_6065589_3234.html |
+| Make | https://www.lemonde.fr/idees/article/2021/01/08/envahissement-du-capitole-une-lecon-pour-les-democraties_6065598_3232.html |
+| Night | https://www.lemonde.fr/m-le-mag/article/2021/01/08/aux-etats-unis-l-epouse-d-alec-baldwin-rattrapee-par-son-passe-imaginaire_6065646_4500055.html |
+| Garcia | https://www.lemonde.fr/culture/article/2021/01/08/omar-sy-depoussiere-le-costume-d-arsene-lupin_6065641_3246.html |
+| Renee | https://www.lemonde.fr/societe/article/2021/01/08/personne-ne-m-a-demande-mon-avis-les-francais-cites-par-macron-dans-ses-v-ux-entre-surprise-honneur-et-amertume_6065550_3224.html |
+| Revest | https://www.lemonde.fr/planete/article/2021/01/08/cluster-pres-de-rennes-la-premiere-contamination-ne-correspond-pas-au-variant-britannique-du-coronavirus_6065606_3244.html |
+| Crowdfunding | https://www.lemonde.fr/argent/article/2021/01/08/impots-les-francais-incites-a-investir-dans-les-pme-mais-pas-tout-de-suite_6065623_1657007.html |
