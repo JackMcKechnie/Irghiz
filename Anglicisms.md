@@ -202,4 +202,16 @@
 | Ads-B | https://www.lemonde.fr/international/article/2021/01/09/un-boeing-737-indonesien-disparait-apres-avoir-decolle-de-djakarta_6065734_3210.html |
 | Oaxaca | https://www.lemonde.fr/m-le-mag/article/2021/01/08/la-legalisation-de-l-ivg-en-argentine-un-si-long-combat_6065650_4500055.html |
 | Susana | https://www.lemonde.fr/international/article/2021/01/09/l-espagne-paralysee-par-les-plus-grosses-chutes-de-neige-depuis-cinquante-ans_6065724_3210.html |
-| Atwood | https://www.lemonde.fr/economie/article/2021/01/09/gratuit-anonyme-accessible-a-tous-le-cash-ce-bien-public_6065737_3234.html |
+| Atwood | https://www.lemonde.fr/economie/article/2021/01/09/gratuit-anonyme-accessible-a-tous-le-cash-ce-bien-public_6065737_3234.html || Leal | https://www.lemonde.fr/planete/article/2021/01/10/le-covid-dans-le-monde-les-semaines-a-venir-seront-la-phase-la-plus-dure-de-la-pandemie-assure-angela-merkel_6065786_3244.html |
+| Courtesy | https://www.lemonde.fr/m-le-mag/article/2021/01/10/bagdad-toujours-sans-nouvelles-du-roi-des-nuits-irakiennes_6065779_4500055.html |
+| Monsters | https://www.lemonde.fr/m-le-mag/article/2021/01/10/bagdad-toujours-sans-nouvelles-du-roi-des-nuits-irakiennes_6065779_4500055.html |
+| Gear | https://www.lemonde.fr/m-le-mag/article/2021/01/10/bagdad-toujours-sans-nouvelles-du-roi-des-nuits-irakiennes_6065779_4500055.html |
+| Blackface | https://www.lemonde.fr/idees/article/2021/01/08/la-diversite-dans-la-culture-se-gagne-en-luttant-d-abord-contre-les-injustices-subies-par-des-createurs-des-interpretes-et-des-publics_6065581_3232.html |
+| Kamasutra | https://www.lemonde.fr/m-perso/article/2021/01/10/sos-maia-comment-avouer-mon-fantasme-a-ma-partenaire_6065758_4497916.html |
+| Aalborg | https://www.lemonde.fr/planete/article/2021/01/09/plus-de-trois-millions-de-cas-et-80-000-morts-au-royaume-uni-l-appel-du-pape-a-se-faire-vacciner-le-point-sur-l-epidemie-de-covid-19-dans-le-monde_6065745_3244.html |
+| Biotech. | https://www.lemonde.fr/planete/article/2021/01/09/plus-de-trois-millions-de-cas-et-80-000-morts-au-royaume-uni-l-appel-du-pape-a-se-faire-vacciner-le-point-sur-l-epidemie-de-covid-19-dans-le-monde_6065745_3244.html |
+| Hans | https://www.lemonde.fr/economie/article/2021/01/10/brexit-au-port-de-calais-la-frontiere-c-est-surtout-beaucoup-de-documents-a-preparer_6065765_3234.html |
+| Fourth | https://www.lemonde.fr/idees/article/2021/01/07/steve-bannon-l-homme-qui-voulait-le-chaos-un-livre-retrace-le-parcours-de-l-ex-conseiller-de-trump_6065439_3232.html |
+| Charlottesville | https://www.lemonde.fr/idees/article/2021/01/07/steve-bannon-l-homme-qui-voulait-le-chaos-un-livre-retrace-le-parcours-de-l-ex-conseiller-de-trump_6065439_3232.html |
+| Team | https://www.lemonde.fr/sport/article/2021/01/10/le-cyclo-cross-pratique-de-plus-en-plus-embourbee-en-france_6065768_3242.html |
+| Paradox-Sal | https://www.lemonde.fr/culture/article/2021/01/09/danse-dans-les-coulisses-de-one-shot-la-piece-posthume-d-ousmane-sy_6065699_3246.html |
