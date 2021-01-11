@@ -214,4 +214,14 @@
 | Fourth | https://www.lemonde.fr/idees/article/2021/01/07/steve-bannon-l-homme-qui-voulait-le-chaos-un-livre-retrace-le-parcours-de-l-ex-conseiller-de-trump_6065439_3232.html |
 | Charlottesville | https://www.lemonde.fr/idees/article/2021/01/07/steve-bannon-l-homme-qui-voulait-le-chaos-un-livre-retrace-le-parcours-de-l-ex-conseiller-de-trump_6065439_3232.html |
 | Team | https://www.lemonde.fr/sport/article/2021/01/10/le-cyclo-cross-pratique-de-plus-en-plus-embourbee-en-france_6065768_3242.html |
-| Paradox-Sal | https://www.lemonde.fr/culture/article/2021/01/09/danse-dans-les-coulisses-de-one-shot-la-piece-posthume-d-ousmane-sy_6065699_3246.html |
+| Paradox-Sal | https://www.lemonde.fr/culture/article/2021/01/09/danse-dans-les-coulisses-de-one-shot-la-piece-posthume-d-ousmane-sy_6065699_3246.html || Holm | https://www.lemonde.fr/sport/article/2021/01/11/triples-500e-encore-du-taf-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6065830_3242.html |
+| Then | https://www.lemonde.fr/sport/article/2021/01/11/triples-500e-encore-du-taf-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6065830_3242.html |
+| Adele | https://www.lemonde.fr/sport/article/2021/01/11/triples-500e-encore-du-taf-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6065830_3242.html |
+| Dc. | https://www.lemonde.fr/international/article/2021/01/11/etats-unis-les-emeutiers-du-capitole-reflet-de-la-galaxie-trumpiste_6065828_3210.html |
+| Planet | https://www.lemonde.fr/planete/article/2021/01/11/un-one-planet-summit-pour-lancer-une-annee-cruciale-pour-la-biodiversite_6065851_3244.html |
+| Summit | https://www.lemonde.fr/planete/article/2021/01/11/un-one-planet-summit-pour-lancer-une-annee-cruciale-pour-la-biodiversite_6065851_3244.html |
+| Fargo | https://www.lemonde.fr/economie/article/2021/01/11/hsbc-sous-pression-de-ses-actionnaires-pour-arreter-de-financer-les-energies-fossiles_6065853_3234.html |
+| Falling | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
+| Beach | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
+| Unhappy | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
+| Gone | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
