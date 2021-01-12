@@ -224,4 +224,9 @@
 | Falling | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
 | Beach | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
 | Unhappy | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
-| Gone | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html |
+| Gone | https://www.lemonde.fr/culture/article/2021/01/11/voulzy-daho-lo-jo-ou-dinos-retour-sur-nos-albums-coups-de-c-ur_6065812_3246.html || Impeached | https://www.lemonde.fr/international/article/2021/01/12/impeachment-et-25e-amendement-quelles-sont-les-etapes-des-procedures-lancees-contre-donald-trump_6065974_3210.html |
+| Anderson | https://www.lemonde.fr/international/article/2021/01/12/impeachment-et-25e-amendement-quelles-sont-les-etapes-des-procedures-lancees-contre-donald-trump_6065974_3210.html |
+| Month | https://www.lemonde.fr/les-decodeurs/article/2021/01/11/variant-du-covid-19-pourquoi-un-virus-tres-contagieux-est-plus-dangereux-qu-un-virus-tres-letal_6065875_4355770.html |
+| Forecasting | https://www.lemonde.fr/les-decodeurs/article/2021/01/11/variant-du-covid-19-pourquoi-un-virus-tres-contagieux-est-plus-dangereux-qu-un-virus-tres-letal_6065875_4355770.html |
+| Martens | https://www.lemonde.fr/economie/article/2021/01/11/les-doc-martens-au-pied-de-la-bourse_6065922_3234.html |
+| Wollaston | https://www.lemonde.fr/economie/article/2021/01/11/les-doc-martens-au-pied-de-la-bourse_6065922_3234.html |
