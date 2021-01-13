@@ -229,4 +229,8 @@
 | Month | https://www.lemonde.fr/les-decodeurs/article/2021/01/11/variant-du-covid-19-pourquoi-un-virus-tres-contagieux-est-plus-dangereux-qu-un-virus-tres-letal_6065875_4355770.html |
 | Forecasting | https://www.lemonde.fr/les-decodeurs/article/2021/01/11/variant-du-covid-19-pourquoi-un-virus-tres-contagieux-est-plus-dangereux-qu-un-virus-tres-letal_6065875_4355770.html |
 | Martens | https://www.lemonde.fr/economie/article/2021/01/11/les-doc-martens-au-pied-de-la-bourse_6065922_3234.html |
-| Wollaston | https://www.lemonde.fr/economie/article/2021/01/11/les-doc-martens-au-pied-de-la-bourse_6065922_3234.html |
+| Wollaston | https://www.lemonde.fr/economie/article/2021/01/11/les-doc-martens-au-pied-de-la-bourse_6065922_3234.html || Montgomery | https://www.lemonde.fr/les-decodeurs/article/2021/01/13/peine-de-mort-aux-etats-unis-un-nombre-record-d-executions-federales-a-la-fin-du-mandat-de-trump_6066071_4355770.html |
+| Si-Dep | https://www.lemonde.fr/les-decodeurs/article/2020/05/05/coronavirus-age-mortalite-departements-pays-suivez-l-evolution-de-l-epidemie-en-cartes-et-graphiques_6038751_4355770.html |
+| Federal | https://www.lemonde.fr/international/article/2021/01/12/donald-trump-juge-la-procedure-d-impeachment-le-visant-totalement-ridicule_6066011_3210.html |
+| Sup | https://www.lemonde.fr/idees/article/2021/01/12/olivier-esteves-des-universites-sacrifiees-face-a-des-prepas-protegees_6066033_3232.html |
+| Usual | https://www.lemonde.fr/idees/article/2021/01/12/olivier-esteves-des-universites-sacrifiees-face-a-des-prepas-protegees_6066033_3232.html |
