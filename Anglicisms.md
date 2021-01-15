@@ -237,4 +237,6 @@
 | Agency | https://www.lemonde.fr/international/article/2021/01/14/l-iran-interdit-l-importation-de-vaccins-occidentaux_6066232_3210.html |
 | Valley | https://www.lemonde.fr/pixels/article/2021/01/14/bannir-donald-trump-cree-un-precedent-dangereux-affirme-le-patron-de-twitter_6066224_4408996.html |
 | Ewers | https://www.lemonde.fr/international/article/2021/01/14/israel-multiplie-les-raids-contre-des-positions-iraniennes-en-syrie_6066259_3210.html |
-| Victory | https://www.lemonde.fr/societe/article/2021/01/14/lancement-d-une-consultation-citoyenne-sur-le-cannabis-recreatif_6066209_3224.html |
+| Victory | https://www.lemonde.fr/societe/article/2021/01/14/lancement-d-une-consultation-citoyenne-sur-le-cannabis-recreatif_6066209_3224.html || Marquee | https://www.lemonde.fr/sport/article/2021/01/15/salaires-transferts-formation-format-des-competitions-les-reformes-auxquelles-va-devoir-se-confronter-le-football-francais_6066366_3242.html |
+| Zedong | https://www.lemonde.fr/culture/article/2021/01/15/jim-dine-hernan-bas-john-craven-six-expos-a-ne-pas-manquer-dans-les-galeries_6066308_3246.html |
+| Rights | https://www.lemonde.fr/culture/article/2021/01/15/jim-dine-hernan-bas-john-craven-six-expos-a-ne-pas-manquer-dans-les-galeries_6066308_3246.html |
