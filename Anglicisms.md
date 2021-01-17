@@ -245,4 +245,8 @@
 | Messenger | https://www.lemonde.fr/pixels/article/2021/01/15/whatsapp-quelles-sont-les-donnees-personnelles-stockees-par-l-application_6066445_4408996.html |
 | India | https://www.lemonde.fr/planete/article/2021/01/16/coronavirus-dans-le-monde-joe-biden-devoile-son-plan-de-vaccination-pour-les-etats-unis_6066448_3244.html |
 | Stadium | https://www.lemonde.fr/planete/article/2021/01/16/coronavirus-dans-le-monde-joe-biden-devoile-son-plan-de-vaccination-pour-les-etats-unis_6066448_3244.html |
-| Sander | https://www.lemonde.fr/sport/article/2021/01/16/handball-wesley-pardin-le-sphinx-des-bleus_6066468_3242.html |
+| Sander | https://www.lemonde.fr/sport/article/2021/01/16/handball-wesley-pardin-le-sphinx-des-bleus_6066468_3242.html || Jacquelyn | https://www.lemonde.fr/international/article/2021/01/17/etats-unis-biden-promet-une-serie-de-decrets-des-son-investiture-mercredi-washington-en-etat-d-alerte_6066550_3210.html |
+| Divided | https://www.lemonde.fr/big-browser/article/2021/01/13/cela-fait-desormais-un-siecle-des-gens-se-font-couper-en-deux-pour-les-besoins-de-la-magie_6066114_4832693.html |
+| Other | https://www.lemonde.fr/big-browser/article/2021/01/13/cela-fait-desormais-un-siecle-des-gens-se-font-couper-en-deux-pour-les-besoins-de-la-magie_6066114_4832693.html |
+| Noel | https://www.lemonde.fr/big-browser/article/2021/01/13/cela-fait-desormais-un-siecle-des-gens-se-font-couper-en-deux-pour-les-besoins-de-la-magie_6066114_4832693.html |
+| Potomac | https://www.lemonde.fr/blog/filiu/2021/01/17/le-cinglant-desaveu-de-netanyahou-par-les-juifs-americains/ |
