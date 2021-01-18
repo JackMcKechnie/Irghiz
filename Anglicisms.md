@@ -249,4 +249,8 @@
 | Divided | https://www.lemonde.fr/big-browser/article/2021/01/13/cela-fait-desormais-un-siecle-des-gens-se-font-couper-en-deux-pour-les-besoins-de-la-magie_6066114_4832693.html |
 | Other | https://www.lemonde.fr/big-browser/article/2021/01/13/cela-fait-desormais-un-siecle-des-gens-se-font-couper-en-deux-pour-les-besoins-de-la-magie_6066114_4832693.html |
 | Noel | https://www.lemonde.fr/big-browser/article/2021/01/13/cela-fait-desormais-un-siecle-des-gens-se-font-couper-en-deux-pour-les-besoins-de-la-magie_6066114_4832693.html |
-| Potomac | https://www.lemonde.fr/blog/filiu/2021/01/17/le-cinglant-desaveu-de-netanyahou-par-les-juifs-americains/ |
+| Potomac | https://www.lemonde.fr/blog/filiu/2021/01/17/le-cinglant-desaveu-de-netanyahou-par-les-juifs-americains/ || Guardian. | https://www.lemonde.fr/les-decodeurs/article/2021/01/18/blue-monday-le-jour-le-plus-deprimant-de-l-annee-n-est-qu-un-concept-marketing_6066661_4355770.html |
+| Delorme. | https://www.lemonde.fr/les-decodeurs/article/2021/01/18/blue-monday-le-jour-le-plus-deprimant-de-l-annee-n-est-qu-un-concept-marketing_6066661_4355770.html |
+| Chiba | https://www.lemonde.fr/afrique/article/2021/01/18/ouganda-reelu-president-pour-la-sixieme-fois-museveni-veut-eviter-toute-contestation_6066645_3212.html |
+| Wine | https://www.lemonde.fr/afrique/article/2021/01/18/ouganda-reelu-president-pour-la-sixieme-fois-museveni-veut-eviter-toute-contestation_6066645_3212.html |
+| Unchained | https://www.lemonde.fr/disparitions/article/2021/01/18/sa-pop-a-fait-danser-les-annees-1960-sa-violence-l-a-conduit-en-prison-le-producteur-mythique-phil-spector-est-mort-a-81-ans_6066614_3382.html |
