@@ -253,4 +253,7 @@
 | Delorme. | https://www.lemonde.fr/les-decodeurs/article/2021/01/18/blue-monday-le-jour-le-plus-deprimant-de-l-annee-n-est-qu-un-concept-marketing_6066661_4355770.html |
 | Chiba | https://www.lemonde.fr/afrique/article/2021/01/18/ouganda-reelu-president-pour-la-sixieme-fois-museveni-veut-eviter-toute-contestation_6066645_3212.html |
 | Wine | https://www.lemonde.fr/afrique/article/2021/01/18/ouganda-reelu-president-pour-la-sixieme-fois-museveni-veut-eviter-toute-contestation_6066645_3212.html |
-| Unchained | https://www.lemonde.fr/disparitions/article/2021/01/18/sa-pop-a-fait-danser-les-annees-1960-sa-violence-l-a-conduit-en-prison-le-producteur-mythique-phil-spector-est-mort-a-81-ans_6066614_3382.html |
+| Unchained | https://www.lemonde.fr/disparitions/article/2021/01/18/sa-pop-a-fait-danser-les-annees-1960-sa-violence-l-a-conduit-en-prison-le-producteur-mythique-phil-spector-est-mort-a-81-ans_6066614_3382.html || Droopy | https://www.lemonde.fr/disparitions/article/2021/01/19/droopy-eruptif-du-theatre-et-du-cinema-francais-jean-pierre-bacri-est-mort-a-l-age-de-69-ans_6066749_3382.html |
+| Tower | https://www.lemonde.fr/pixels/article/2021/01/18/whatsapp-pourquoi-un-tel-exode-des-utilisateurs_6066710_4408996.html |
+| Wanda | https://www.lemonde.fr/campus/article/2021/01/19/dans-les-grandes-ecoles-la-diversite-sociale-n-a-pas-progresse-en-dix-ans_6066752_4401467.html |
+| Whisper | https://www.lemonde.fr/televisions-radio/article/2021/01/18/thriller-gamers-et-marvel-trois-series-qui-donnent-le-vertige_6066721_1655027.html |
