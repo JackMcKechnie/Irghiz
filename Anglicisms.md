@@ -257,4 +257,8 @@
 | Tower | https://www.lemonde.fr/pixels/article/2021/01/18/whatsapp-pourquoi-un-tel-exode-des-utilisateurs_6066710_4408996.html |
 | Wanda | https://www.lemonde.fr/campus/article/2021/01/19/dans-les-grandes-ecoles-la-diversite-sociale-n-a-pas-progresse-en-dix-ans_6066752_4401467.html |
 | Whisper | https://www.lemonde.fr/televisions-radio/article/2021/01/18/thriller-gamers-et-marvel-trois-series-qui-donnent-le-vertige_6066721_1655027.html || Bizerte | https://www.lemonde.fr/afrique/article/2021/01/19/en-tunisie-la-colere-des-jeunes-defavorises-eclate-a-la-nuit-tombee_6066829_3212.html |
-| Rains | https://www.lemonde.fr/culture/article/2021/01/19/coup-d-etat-assassinat-sept-films-qui-bousculent-la-democratie-americaine_6066854_3246.html |
+| Rains | https://www.lemonde.fr/culture/article/2021/01/19/coup-d-etat-assassinat-sept-films-qui-bousculent-la-democratie-americaine_6066854_3246.html || Midwest | https://www.lemonde.fr/international/article/2021/01/21/biden-propose-la-reforme-de-l-immigration-la-plus-ambitieuse-depuis-reagan_6067066_3210.html |
+| Deborah | https://www.lemonde.fr/societe/article/2021/01/21/une-femme-accuse-la-police-d-etre-responsable-de-la-mort-de-son-f-tus_6067054_3224.html |
+| Palm | https://www.lemonde.fr/international/article/2021/01/20/les-partisans-de-trump-minimisent-l-assaut-du-capitole-et-veulent-croire-a-son-retour_6066994_3210.html |
+| Mae | https://www.lemonde.fr/international/article/2021/01/20/les-partisans-de-trump-minimisent-l-assaut-du-capitole-et-veulent-croire-a-son-retour_6066994_3210.html |
+| Biden-Harris | https://www.lemonde.fr/international/article/2021/01/21/on-va-tourner-une-page-sombre-de-l-histoire-du-pays-dans-washington-desertee-les-quelques-curieux-soulages-par-l-investiture-de-joe-biden_6067011_3210.html |
