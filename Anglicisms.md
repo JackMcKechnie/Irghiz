@@ -261,4 +261,11 @@
 | Deborah | https://www.lemonde.fr/societe/article/2021/01/21/une-femme-accuse-la-police-d-etre-responsable-de-la-mort-de-son-f-tus_6067054_3224.html |
 | Palm | https://www.lemonde.fr/international/article/2021/01/20/les-partisans-de-trump-minimisent-l-assaut-du-capitole-et-veulent-croire-a-son-retour_6066994_3210.html |
 | Mae | https://www.lemonde.fr/international/article/2021/01/20/les-partisans-de-trump-minimisent-l-assaut-du-capitole-et-veulent-croire-a-son-retour_6066994_3210.html |
-| Biden-Harris | https://www.lemonde.fr/international/article/2021/01/21/on-va-tourner-une-page-sombre-de-l-histoire-du-pays-dans-washington-desertee-les-quelques-curieux-soulages-par-l-investiture-de-joe-biden_6067011_3210.html |
+| Biden-Harris | https://www.lemonde.fr/international/article/2021/01/21/on-va-tourner-une-page-sombre-de-l-histoire-du-pays-dans-washington-desertee-les-quelques-curieux-soulages-par-l-investiture-de-joe-biden_6067011_3210.html || Stop-And-Go | https://www.lemonde.fr/politique/article/2021/01/22/covid-19-macron-defend-sa-gestion-de-crise-face-a-une-une-nation-de-66-millions-de-procureurs_6067182_823448.html |
+| East | https://www.lemonde.fr/international/article/2021/01/22/la-hongrie-tete-de-pont-de-la-chine-en-europe_6067195_3210.html |
+| East-West | https://www.lemonde.fr/international/article/2021/01/22/la-hongrie-tete-de-pont-de-la-chine-en-europe_6067195_3210.html |
+| Gate | https://www.lemonde.fr/international/article/2021/01/22/la-hongrie-tete-de-pont-de-la-chine-en-europe_6067195_3210.html |
+| Tui | https://www.lemonde.fr/economie/article/2021/01/22/debut-d-un-nouveau-cycle-de-discussions-avec-les-partenaires-sociaux-en-pleine-crise-sanitaire-et-economique_6067183_3234.html |
+| Gil | https://www.lemonde.fr/disparitions/article/2021/01/22/le-cascadeur-remy-julienne-est-mort-a-l-age-de-90-ans_6067171_3382.html |
+| Disneyland | https://www.lemonde.fr/disparitions/article/2021/01/22/le-cascadeur-remy-julienne-est-mort-a-l-age-de-90-ans_6067171_3382.html |
+| Valley. | https://www.lemonde.fr/economie/article/2021/01/22/a-bercy-une-cellule-d-informaticiens-pour-aider-l-etat-a-reguler-les-gafa_6067191_3234.html |
