@@ -268,4 +268,7 @@
 | Tui | https://www.lemonde.fr/economie/article/2021/01/22/debut-d-un-nouveau-cycle-de-discussions-avec-les-partenaires-sociaux-en-pleine-crise-sanitaire-et-economique_6067183_3234.html |
 | Gil | https://www.lemonde.fr/disparitions/article/2021/01/22/le-cascadeur-remy-julienne-est-mort-a-l-age-de-90-ans_6067171_3382.html |
 | Disneyland | https://www.lemonde.fr/disparitions/article/2021/01/22/le-cascadeur-remy-julienne-est-mort-a-l-age-de-90-ans_6067171_3382.html |
-| Valley. | https://www.lemonde.fr/economie/article/2021/01/22/a-bercy-une-cellule-d-informaticiens-pour-aider-l-etat-a-reguler-les-gafa_6067191_3234.html |
+| Valley. | https://www.lemonde.fr/economie/article/2021/01/22/a-bercy-une-cellule-d-informaticiens-pour-aider-l-etat-a-reguler-les-gafa_6067191_3234.html || Carrot | https://www.lemonde.fr/societe/article/2021/01/23/malgre-une-formation-diplomante-la-difficile-obtention-d-un-titre-de-sejour-a-18-ans-pour-les-mineurs-non-accompagnes_6067342_3224.html |
+| Wallace | https://www.lemonde.fr/planete/article/2021/01/23/covid-19-dans-le-monde-premier-confinement-dans-un-quartier-de-hongkong_6067312_3244.html |
+| Ocean-Viking | https://www.lemonde.fr/international/article/2021/01/23/l-ocean-viking-effectue-un-troisieme-sauvetage-en-48-heures-et-secourt-106-personnes_6067366_3210.html |
+| Newsweek | https://www.lemonde.fr/international/article/2021/01/22/les-fantomes-du-passe-reviennent-hanter-la-flandre-moderne_6067138_3210.html |
