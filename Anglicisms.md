@@ -271,4 +271,15 @@
 | Valley. | https://www.lemonde.fr/economie/article/2021/01/22/a-bercy-une-cellule-d-informaticiens-pour-aider-l-etat-a-reguler-les-gafa_6067191_3234.html || Carrot | https://www.lemonde.fr/societe/article/2021/01/23/malgre-une-formation-diplomante-la-difficile-obtention-d-un-titre-de-sejour-a-18-ans-pour-les-mineurs-non-accompagnes_6067342_3224.html |
 | Wallace | https://www.lemonde.fr/planete/article/2021/01/23/covid-19-dans-le-monde-premier-confinement-dans-un-quartier-de-hongkong_6067312_3244.html |
 | Ocean-Viking | https://www.lemonde.fr/international/article/2021/01/23/l-ocean-viking-effectue-un-troisieme-sauvetage-en-48-heures-et-secourt-106-personnes_6067366_3210.html |
-| Newsweek | https://www.lemonde.fr/international/article/2021/01/22/les-fantomes-du-passe-reviennent-hanter-la-flandre-moderne_6067138_3210.html |
+| Newsweek | https://www.lemonde.fr/international/article/2021/01/22/les-fantomes-du-passe-reviennent-hanter-la-flandre-moderne_6067138_3210.html || Rasmussen | https://www.lemonde.fr/planete/article/2021/01/24/covid-19-dans-le-monde-des-milliers-de-manifestants-contre-les-restrictions-a-madrid_6067400_3244.html |
+| Nanjing | https://www.lemonde.fr/economie/article/2021/01/23/le-marche-des-semi-conducteurs-face-a-la-penurie_6067305_3234.html |
+| Cloud | https://www.lemonde.fr/economie/article/2021/01/23/le-marche-des-semi-conducteurs-face-a-la-penurie_6067305_3234.html |
+| Rafael | https://www.lemonde.fr/idees/article/2021/01/24/brillant-cultive-et-proche-des-gens-marcelo-l-antithese-de-trump-a-la-tete-du-portugal_6067397_3232.html |
+| Ernst | https://www.lemonde.fr/international/article/2021/01/24/a-la-maison-blanche-place-aux-professionnels_6067414_3210.html |
+| Spicer | https://www.lemonde.fr/international/article/2021/01/24/a-la-maison-blanche-place-aux-professionnels_6067414_3210.html |
+| Burberry | https://www.lemonde.fr/m-styles/article/2021/01/24/d-isadora-duncan-a-harry-potter-l-echarpe-a-tous-les-cous_6067428_4497319.html |
+| Fact-Checking | https://www.lemonde.fr/pixels/article/2021/01/23/facebook-sur-la-moderation-on-nous-reproche-une-chose-et-son-contraire_6067357_4408996.html |
+| Uss | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
+| Specialist | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
+| 2Nd | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
+| Castaneda | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
