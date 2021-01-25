@@ -282,4 +282,11 @@
 | Uss | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
 | Specialist | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
 | 2Nd | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
-| Castaneda | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html |
+| Castaneda | https://www.lemonde.fr/international/article/2021/01/23/comment-la-chine-cartographie-le-fond-de-l-ocean-indien_6067354_3210.html || Lewis | https://www.lemonde.fr/politique/article/2021/01/25/covid-19-l-hypothese-d-un-nouveau-confinement-fait-debat-au-sein-de-l-executif_6067467_823448.html |
+| Buy | https://www.lemonde.fr/international/article/2021/01/25/joe-biden-veut-que-l-etat-federal-achete-davantage-de-produits-americains_6067520_3210.html |
+| Excel | https://www.lemonde.fr/international/live/2021/01/25/dix-ans-apres-les-printemps-arabes-que-reste-t-il-des-soulevements-populaires_6067502_3210.html |
+| Mainstream | https://www.lemonde.fr/international/live/2021/01/25/dix-ans-apres-les-printemps-arabes-que-reste-t-il-des-soulevements-populaires_6067502_3210.html |
+| Arnhem | https://www.lemonde.fr/planete/article/2021/01/25/covid-19-dans-le-monde-le-president-mexicain-teste-positif_6067461_3244.html |
+| Andres | https://www.lemonde.fr/planete/article/2021/01/25/covid-19-dans-le-monde-le-president-mexicain-teste-positif_6067461_3244.html |
+| Sikkim | https://www.lemonde.fr/international/article/2021/01/25/nouvel-accrochage-entre-la-chine-et-l-inde-a-la-frontiere-himalayenne_6067483_3210.html |
+| Modern | https://www.lemonde.fr/culture/article/2021/01/25/montreuil-et-montrouge-eteignent-les-neons-signes-de-claude-leveque_6067486_3246.html |
