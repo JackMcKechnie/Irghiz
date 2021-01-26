@@ -289,4 +289,7 @@
 | Arnhem | https://www.lemonde.fr/planete/article/2021/01/25/covid-19-dans-le-monde-le-president-mexicain-teste-positif_6067461_3244.html |
 | Andres | https://www.lemonde.fr/planete/article/2021/01/25/covid-19-dans-le-monde-le-president-mexicain-teste-positif_6067461_3244.html |
 | Sikkim | https://www.lemonde.fr/international/article/2021/01/25/nouvel-accrochage-entre-la-chine-et-l-inde-a-la-frontiere-himalayenne_6067483_3210.html |
-| Modern | https://www.lemonde.fr/culture/article/2021/01/25/montreuil-et-montrouge-eteignent-les-neons-signes-de-claude-leveque_6067486_3246.html |
+| Modern | https://www.lemonde.fr/culture/article/2021/01/25/montreuil-et-montrouge-eteignent-les-neons-signes-de-claude-leveque_6067486_3246.html || Cochin | https://www.lemonde.fr/sante/article/2021/01/26/covid-19-l-institut-pasteur-abandonne-son-principal-projet-de-vaccin_6067654_1651302.html |
+| Stat. | https://www.lemonde.fr/sante/article/2021/01/26/covid-19-l-institut-pasteur-abandonne-son-principal-projet-de-vaccin_6067654_1651302.html |
+| Ebola | https://www.lemonde.fr/international/article/2021/01/26/j-etais-le-rabat-joie-de-service-anthony-fauci-revient-sur-son-annee-a-conseiller-donald-trump-dans-la-lutte-contre-le-covid-19_6067656_3210.html |
+| Hill | https://www.lemonde.fr/m-styles/article/2021/01/25/helene-darroze-et-clare-smyth-deux-femmes-triplement-etoilees-au-michelin-britannique_6067577_4497319.html |
