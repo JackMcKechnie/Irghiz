@@ -297,4 +297,10 @@
 | Lidia | https://www.lemonde.fr/societe/article/2021/01/27/pour-les-enfants-le-confinement-a-accru-des-inegalites-susceptibles-de-se-creuser-a-moyen-terme_6067820_3224.html || Lm | https://www.lemonde.fr/pixels/article/2021/01/28/affaire-gamestop-tout-comprendre-a-la-campagne-speculative-qui-secoue-la-bourse-et-internet_6067981_4408996.html |
 | Market | https://www.lemonde.fr/pixels/article/2021/01/28/affaire-gamestop-tout-comprendre-a-la-campagne-speculative-qui-secoue-la-bourse-et-internet_6067981_4408996.html |
 | Alexandria | https://www.lemonde.fr/pixels/article/2021/01/28/affaire-gamestop-tout-comprendre-a-la-campagne-speculative-qui-secoue-la-bourse-et-internet_6067981_4408996.html |
-| Cctv | https://www.lemonde.fr/international/article/2021/01/29/en-chine-l-ancien-grand-patron-lai-xiaomin-a-ete-execute-pour-corruption_6068076_3210.html |
+| Cctv | https://www.lemonde.fr/international/article/2021/01/29/en-chine-l-ancien-grand-patron-lai-xiaomin-a-ete-execute-pour-corruption_6068076_3210.html || Marcelino | https://www.lemonde.fr/international/article/2021/01/30/au-bresil-jair-bolsonaro-se-debat-dans-un-scandale-de-frais-de-bouche-fastueux_6068209_3210.html |
+| Twitch. | https://www.lemonde.fr/pixels/article/2021/01/29/twitch-pourquoi-tant-d-amour-pour-samuel-etienne_6068128_4408996.html |
+| Popcorn | https://www.lemonde.fr/pixels/article/2021/01/29/twitch-pourquoi-tant-d-amour-pour-samuel-etienne_6068128_4408996.html |
+| Haikou | https://www.lemonde.fr/economie/article/2021/01/30/le-conglomerat-chinois-hna-en-faillite_6068198_3234.html |
+| Chen | https://www.lemonde.fr/economie/article/2021/01/30/le-conglomerat-chinois-hna-en-faillite_6068198_3234.html |
+| Gutierrez | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html |
+| Jurassic | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html |
