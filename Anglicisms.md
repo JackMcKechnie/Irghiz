@@ -303,4 +303,4 @@
 | Haikou | https://www.lemonde.fr/economie/article/2021/01/30/le-conglomerat-chinois-hna-en-faillite_6068198_3234.html |
 | Chen | https://www.lemonde.fr/economie/article/2021/01/30/le-conglomerat-chinois-hna-en-faillite_6068198_3234.html |
 | Gutierrez | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html |
-| Jurassic | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html |
+| Jurassic | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html || Pfizer. | https://www.lemonde.fr/les-decodeurs/article/2021/01/29/ce-que-nous-apprend-la-campagne-de-vaccination-massive-en-israel_6068120_4355770.html |
