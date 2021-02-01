@@ -303,4 +303,9 @@
 | Haikou | https://www.lemonde.fr/economie/article/2021/01/30/le-conglomerat-chinois-hna-en-faillite_6068198_3234.html |
 | Chen | https://www.lemonde.fr/economie/article/2021/01/30/le-conglomerat-chinois-hna-en-faillite_6068198_3234.html |
 | Gutierrez | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html |
-| Jurassic | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html || Pfizer. | https://www.lemonde.fr/les-decodeurs/article/2021/01/29/ce-que-nous-apprend-la-campagne-de-vaccination-massive-en-israel_6068120_4355770.html |
+| Jurassic | https://www.lemonde.fr/culture/article/2021/01/30/j-ai-bien-sur-ete-marquee-par-l-uvre-de-mon-pere-la-bande-son-intimiste-de-buzzy-lee_6068186_3246.html || Pfizer. | https://www.lemonde.fr/les-decodeurs/article/2021/01/29/ce-que-nous-apprend-la-campagne-de-vaccination-massive-en-israel_6068120_4355770.html || Yangon | https://www.lemonde.fr/international/article/2021/02/01/en-birmanie-l-armee-s-empare-du-pouvoir-et-arrete-aung-san-suu-kyi_6068333_3210.html |
+| Livingston | https://www.lemonde.fr/planete/article/2021/02/01/covid-19-dans-le-monde-biontech-et-pfizer-promettent-une-acceleration-des-livraisons-de-vaccins-a-l-union-europeenne_6068359_3244.html |
+| Aptly | https://www.lemonde.fr/big-browser/article/2021/02/01/les-wombats-font-des-excrements-en-forme-de-cube-et-on-sait-enfin-pourquoi_6068390_4832693.html |
+| Moonwalk | https://www.lemonde.fr/culture/article/2021/02/01/lever-de-rideau-pour-culturebox-la-chaine-culturelle-ephemere-de-france-televisions_6068391_3246.html |
+| Technology | https://www.lemonde.fr/idees/article/2021/02/01/reguler-les-reseaux-sociaux-ne-suffira-pas-il-faut-changer-la-logique-des-entreprises-et-celle-de-notre-activite_6068328_3232.html |
+| Deneb | https://www.lemonde.fr/blog/autourduciel/2021/02/01/ouverture-de-la-meilleure-periode-pour-admirer-la-lumiere-zodiacale-en-europe/ |
