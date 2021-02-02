@@ -308,4 +308,7 @@
 | Aptly | https://www.lemonde.fr/big-browser/article/2021/02/01/les-wombats-font-des-excrements-en-forme-de-cube-et-on-sait-enfin-pourquoi_6068390_4832693.html |
 | Moonwalk | https://www.lemonde.fr/culture/article/2021/02/01/lever-de-rideau-pour-culturebox-la-chaine-culturelle-ephemere-de-france-televisions_6068391_3246.html |
 | Technology | https://www.lemonde.fr/idees/article/2021/02/01/reguler-les-reseaux-sociaux-ne-suffira-pas-il-faut-changer-la-logique-des-entreprises-et-celle-de-notre-activite_6068328_3232.html |
-| Deneb | https://www.lemonde.fr/blog/autourduciel/2021/02/01/ouverture-de-la-meilleure-periode-pour-admirer-la-lumiere-zodiacale-en-europe/ |
+| Deneb | https://www.lemonde.fr/blog/autourduciel/2021/02/01/ouverture-de-la-meilleure-periode-pour-admirer-la-lumiere-zodiacale-en-europe/ || Screech | https://www.lemonde.fr/international/article/2021/02/02/vaccin-contre-le-covid-19-merkel-defend-l-approche-europeenne-face-aux-critiques_6068480_3210.html |
+| Cloud. | https://www.lemonde.fr/pixels/article/2021/02/02/fermeture-de-stadia-games-google-cesse-le-developpement-de-ses-propres-jeux-video_6068502_4408996.html |
+| Pig-Brain | https://www.lemonde.fr/culture/article/2021/02/02/brandon-cronenberg-cineaste-nos-consciences-sont-sans-cesse-hackees_6068460_3246.html |
+| Galaxy | https://www.lemonde.fr/pixels/article/2021/02/01/droit-a-la-reparation-des-appareils-electroniques-premiers-succes-pour-l-indice-de-reparabilite_6068400_4408996.html |
