@@ -311,4 +311,12 @@
 | Deneb | https://www.lemonde.fr/blog/autourduciel/2021/02/01/ouverture-de-la-meilleure-periode-pour-admirer-la-lumiere-zodiacale-en-europe/ || Screech | https://www.lemonde.fr/international/article/2021/02/02/vaccin-contre-le-covid-19-merkel-defend-l-approche-europeenne-face-aux-critiques_6068480_3210.html |
 | Cloud. | https://www.lemonde.fr/pixels/article/2021/02/02/fermeture-de-stadia-games-google-cesse-le-developpement-de-ses-propres-jeux-video_6068502_4408996.html |
 | Pig-Brain | https://www.lemonde.fr/culture/article/2021/02/02/brandon-cronenberg-cineaste-nos-consciences-sont-sans-cesse-hackees_6068460_3246.html |
-| Galaxy | https://www.lemonde.fr/pixels/article/2021/02/01/droit-a-la-reparation-des-appareils-electroniques-premiers-succes-pour-l-indice-de-reparabilite_6068400_4408996.html |
+| Galaxy | https://www.lemonde.fr/pixels/article/2021/02/01/droit-a-la-reparation-des-appareils-electroniques-premiers-succes-pour-l-indice-de-reparabilite_6068400_4408996.html || North | https://www.lemonde.fr/international/live/2021/02/03/que-revele-l-affaire-navalny-du-regime-de-poutine-posez-vos-questions-a-notre-correspondant_6068618_3210.html |
+| Marjory | https://www.lemonde.fr/big-browser/article/2021/02/02/marjorie-taylor-greene-l-elue-republicaine-ultraconservatrice-pro-qanon-qui-herisse-jusqu-a-son-propre-parti_6068527_4832693.html |
+| Pacific | https://www.lemonde.fr/big-browser/article/2021/02/02/marjorie-taylor-greene-l-elue-republicaine-ultraconservatrice-pro-qanon-qui-herisse-jusqu-a-son-propre-parti_6068527_4832693.html |
+| Jfk | https://www.lemonde.fr/big-browser/article/2021/02/02/marjorie-taylor-greene-l-elue-republicaine-ultraconservatrice-pro-qanon-qui-herisse-jusqu-a-son-propre-parti_6068527_4832693.html |
+| Why | https://www.lemonde.fr/big-browser/article/2021/02/02/marjorie-taylor-greene-l-elue-republicaine-ultraconservatrice-pro-qanon-qui-herisse-jusqu-a-son-propre-parti_6068527_4832693.html |
+| Dmd | https://www.lemonde.fr/politique/article/2021/02/02/a-l-assemblee-nationale-la-hausse-surprise-du-portefeuille-des-deputes-fait-debat_6068546_823448.html |
+| Hawthorne | https://www.lemonde.fr/economie/article/2021/02/03/amazon-debourse-plus-de-50-millions-d-euros-pour-regler-une-affaire-de-pourboires-detournes_6068602_3234.html |
+| Flex | https://www.lemonde.fr/economie/article/2021/02/03/amazon-debourse-plus-de-50-millions-d-euros-pour-regler-une-affaire-de-pourboires-detournes_6068602_3234.html |
+| Heavy | https://www.lemonde.fr/sciences/video/2021/02/03/un-prototype-de-fusee-spacex-s-ecrase-a-l-atterrissage_6068615_1650684.html |
