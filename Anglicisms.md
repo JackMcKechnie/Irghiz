@@ -319,4 +319,8 @@
 | Dmd | https://www.lemonde.fr/politique/article/2021/02/02/a-l-assemblee-nationale-la-hausse-surprise-du-portefeuille-des-deputes-fait-debat_6068546_823448.html |
 | Hawthorne | https://www.lemonde.fr/economie/article/2021/02/03/amazon-debourse-plus-de-50-millions-d-euros-pour-regler-une-affaire-de-pourboires-detournes_6068602_3234.html |
 | Flex | https://www.lemonde.fr/economie/article/2021/02/03/amazon-debourse-plus-de-50-millions-d-euros-pour-regler-une-affaire-de-pourboires-detournes_6068602_3234.html |
-| Heavy | https://www.lemonde.fr/sciences/video/2021/02/03/un-prototype-de-fusee-spacex-s-ecrase-a-l-atterrissage_6068615_1650684.html |
+| Heavy | https://www.lemonde.fr/sciences/video/2021/02/03/un-prototype-de-fusee-spacex-s-ecrase-a-l-atterrissage_6068615_1650684.html || Lawless | https://www.lemonde.fr/international/article/2021/02/04/protocole-nord-irlandais-regain-de-tension-entre-londres-et-bruxelles_6068755_3210.html |
+| Van-Tam | https://www.lemonde.fr/planete/article/2021/02/04/l-universite-d-oxford-etudie-l-efficacite-de-combiner-deux-doses-de-vaccins-contre-le-covid-19-differents_6068739_3244.html |
+| Hook | https://www.lemonde.fr/international/article/2021/02/04/etats-unis-les-republicains-tentent-de-masquer-leurs-divisions_6068706_3210.html |
+| Parkland | https://www.lemonde.fr/international/article/2021/02/04/etats-unis-les-republicains-tentent-de-masquer-leurs-divisions_6068706_3210.html |
+| Baskerville | https://www.lemonde.fr/planete/article/2021/02/04/en-australie-les-pompiers-parviennent-a-contenir-les-feux-pres-de-perth_6068747_3244.html |
