@@ -323,4 +323,9 @@
 | Van-Tam | https://www.lemonde.fr/planete/article/2021/02/04/l-universite-d-oxford-etudie-l-efficacite-de-combiner-deux-doses-de-vaccins-contre-le-covid-19-differents_6068739_3244.html |
 | Hook | https://www.lemonde.fr/international/article/2021/02/04/etats-unis-les-republicains-tentent-de-masquer-leurs-divisions_6068706_3210.html |
 | Parkland | https://www.lemonde.fr/international/article/2021/02/04/etats-unis-les-republicains-tentent-de-masquer-leurs-divisions_6068706_3210.html |
-| Baskerville | https://www.lemonde.fr/planete/article/2021/02/04/en-australie-les-pompiers-parviennent-a-contenir-les-feux-pres-de-perth_6068747_3244.html |
+| Baskerville | https://www.lemonde.fr/planete/article/2021/02/04/en-australie-les-pompiers-parviennent-a-contenir-les-feux-pres-de-perth_6068747_3244.html || Russian | https://www.lemonde.fr/international/article/2021/02/05/affaire-navalny-les-relations-russie-ue-severement-tendues-selon-le-chef-de-la-diplomatie-europeenne_6068888_3210.html |
+| Aimee | https://www.lemonde.fr/planete/article/2021/02/05/covid-19-a-l-hopital-d-arras-un-cluster-a-l-origine-de-quinze-jours-d-angoisse-et-de-tensions_6068830_3244.html |
+| Policy | https://www.lemonde.fr/planete/article/2021/02/05/creer-des-aires-marines-fortement-protegees-un-defi-pour-la-france_6068824_3244.html |
+| Shelby | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
+| Conducted | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
+| O’Brien | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
