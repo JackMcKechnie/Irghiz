@@ -328,4 +328,5 @@
 | Policy | https://www.lemonde.fr/planete/article/2021/02/05/creer-des-aires-marines-fortement-protegees-un-defi-pour-la-france_6068824_3244.html |
 | Shelby | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
 | Conducted | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
-| O’Brien | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
+| O’Brien | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html || Dtp | https://www.lemonde.fr/planete/article/2021/02/06/pekin-approuve-un-deuxieme-vaccin-contre-le-covid-19-fabrique-en-chine_6069019_3244.html |
+| Edwards | https://www.lemonde.fr/rugby/article/2021/02/05/tournoi-des-six-nations-2021-la-saison-2-des-bleus-de-fabien-galthie_6068863_1616937.html |
