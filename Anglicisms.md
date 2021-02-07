@@ -329,4 +329,10 @@
 | Shelby | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
 | Conducted | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html |
 | O’Brien | https://www.lemonde.fr/sport/article/2021/02/05/open-d-australie-reprise-des-matchs-preparatoires-apres-les-tests-negatifs-de-tous-les-joueurs_6068862_3242.html || Dtp | https://www.lemonde.fr/planete/article/2021/02/06/pekin-approuve-un-deuxieme-vaccin-contre-le-covid-19-fabrique-en-chine_6069019_3244.html |
-| Edwards | https://www.lemonde.fr/rugby/article/2021/02/05/tournoi-des-six-nations-2021-la-saison-2-des-bleus-de-fabien-galthie_6068863_1616937.html |
+| Edwards | https://www.lemonde.fr/rugby/article/2021/02/05/tournoi-des-six-nations-2021-la-saison-2-des-bleus-de-fabien-galthie_6068863_1616937.html || Ko | https://www.lemonde.fr/les-decodeurs/article/2021/02/07/grippe-gastro-bronchite-les-mesures-anti-covid-19-ont-permis-d-eviter-les-epidemies-saisonnieres_6069066_4355770.html |
+| Penguin | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
+| Press | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
+| Random | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
+| Book | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
+| Japan | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
+| Towns | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
