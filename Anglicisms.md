@@ -337,4 +337,6 @@
 | Japan | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html |
 | Towns | https://www.lemonde.fr/m-le-mag/article/2021/02/05/d-ocean-vuong-a-celeste-ng-en-passant-par-charles-yu-l-emergence-des-ecrivains-asiatiques-americains_6068938_4500055.html || Gael | https://www.lemonde.fr/sport/article/2021/02/08/open-d-australie-monfils-et-paire-sortis-d-entree-garcia-s-en-sort-osaka-et-serena-faciles_6069159_3242.html |
 | Garcia. | https://www.lemonde.fr/sport/article/2021/02/08/open-d-australie-monfils-et-paire-sortis-d-entree-garcia-s-en-sort-osaka-et-serena-faciles_6069159_3242.html |
-| Evian | https://www.lemonde.fr/afrique/article/2021/02/08/en-algerie-l-armee-demande-a-la-france-de-decontaminer-les-sites-des-essais-nucleaires_6069160_3212.html |
+| Evian | https://www.lemonde.fr/afrique/article/2021/02/08/en-algerie-l-armee-demande-a-la-france-de-decontaminer-les-sites-des-essais-nucleaires_6069160_3212.html || Intellectual | https://www.lemonde.fr/les-decodeurs/article/2021/02/09/openlux-la-fin-des-paradis-immateriels-pour-les-footballeurs-les-pop-stars-et-les-chefs-etoiles_6069262_4355770.html |
+| Classic | https://www.lemonde.fr/pixels/article/2021/02/09/on-a-teste-l-ordinateur-portable-a-deux-ecrans-d-asus-futuriste-ou-excessif_6069326_4408996.html |
+| Premiere | https://www.lemonde.fr/pixels/article/2021/02/09/on-a-teste-l-ordinateur-portable-a-deux-ecrans-d-asus-futuriste-ou-excessif_6069326_4408996.html |
