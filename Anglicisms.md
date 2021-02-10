@@ -339,4 +339,8 @@
 | Garcia. | https://www.lemonde.fr/sport/article/2021/02/08/open-d-australie-monfils-et-paire-sortis-d-entree-garcia-s-en-sort-osaka-et-serena-faciles_6069159_3242.html |
 | Evian | https://www.lemonde.fr/afrique/article/2021/02/08/en-algerie-l-armee-demande-a-la-france-de-decontaminer-les-sites-des-essais-nucleaires_6069160_3212.html || Intellectual | https://www.lemonde.fr/les-decodeurs/article/2021/02/09/openlux-la-fin-des-paradis-immateriels-pour-les-footballeurs-les-pop-stars-et-les-chefs-etoiles_6069262_4355770.html |
 | Classic | https://www.lemonde.fr/pixels/article/2021/02/09/on-a-teste-l-ordinateur-portable-a-deux-ecrans-d-asus-futuriste-ou-excessif_6069326_4408996.html |
-| Premiere | https://www.lemonde.fr/pixels/article/2021/02/09/on-a-teste-l-ordinateur-portable-a-deux-ecrans-d-asus-futuriste-ou-excessif_6069326_4408996.html |
+| Premiere | https://www.lemonde.fr/pixels/article/2021/02/09/on-a-teste-l-ordinateur-portable-a-deux-ecrans-d-asus-futuriste-ou-excessif_6069326_4408996.html || Salt | https://www.lemonde.fr/les-decodeurs/article/2021/02/10/openlux-xavier-niel-fait-escale-au-grand-duche-pour-controler-un-operateur-telecoms-suisse_6069400_4355770.html |
+| Storytelling | https://www.lemonde.fr/planete/article/2021/02/10/covid-19-la-chine-grande-gagnante-de-la-mission-d-enquete-de-l-oms_6069444_3244.html |
+| Oprah | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html |
+| Ebay | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html |
+| Leto | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html |
