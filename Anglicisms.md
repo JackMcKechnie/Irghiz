@@ -343,4 +343,13 @@
 | Storytelling | https://www.lemonde.fr/planete/article/2021/02/10/covid-19-la-chine-grande-gagnante-de-la-mission-d-enquete-de-l-oms_6069444_3244.html |
 | Oprah | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html |
 | Ebay | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html |
-| Leto | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html || Klan | https://www.lemonde.fr/disparitions/article/2021/02/11/larry-flynt-empereur-americain-du-porno-est-mort_6069579_3382.html |
+| Leto | https://www.lemonde.fr/pixels/article/2021/02/10/tout-comprendre-a-l-application-clubhouse-etoile-montante-des-reseaux-sociaux_6069436_4408996.html || Klan | https://www.lemonde.fr/disparitions/article/2021/02/11/larry-flynt-empereur-americain-du-porno-est-mort_6069579_3382.html || Abdul | https://www.lemonde.fr/les-decodeurs/article/2021/02/12/openlux-profils-sulfureux-et-argent-sale-prosperent-dans-le-centre-financier-du-grand-duche_6069676_4355770.html |
+| Television | https://www.lemonde.fr/economie/article/2021/02/12/la-chine-interdit-la-diffusion-de-la-chaine-de-television-britannique-bbc-world-news_6069706_3234.html |
+| Snowy | https://www.lemonde.fr/economie/video/2017/12/28/comment-la-neige-revele-que-les-trottoirs-sont-trop-petits_5235238_3234.html |
+| Return | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Spanish | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Robyn | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Armando | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Dixieland | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Mongo | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Mitchell | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
