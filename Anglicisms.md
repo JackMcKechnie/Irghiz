@@ -352,4 +352,9 @@
 | Armando | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
 | Dixieland | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
 | Mongo | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
-| Mitchell | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html |
+| Mitchell | https://www.lemonde.fr/disparitions/article/2021/02/12/mort-de-chick-corea-pianiste-en-mission_6069740_3382.html || Chr | https://www.lemonde.fr/sante/article/2021/02/13/covid-19-en-moselle-les-ecoles-restent-ouvertes-pas-de-confinement-local_6069854_1651302.html |
+| Than | https://www.lemonde.fr/international/article/2021/02/13/birmanie-la-pression-augmente-sur-les-militaires-qui-multiplient-les-arrestations_6069848_3210.html |
+| Sexton | https://www.lemonde.fr/sport/article/2021/02/13/rugby-le-cas-de-jonathan-sexton-illustre-la-problematique-de-la-gestion-des-commotions_6069823_3242.html |
+| Take | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html |
+| Armando’S | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html |
+| Dip | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html |
