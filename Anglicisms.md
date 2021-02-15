@@ -357,4 +357,10 @@
 | Sexton | https://www.lemonde.fr/sport/article/2021/02/13/rugby-le-cas-de-jonathan-sexton-illustre-la-problematique-de-la-gestion-des-commotions_6069823_3242.html |
 | Take | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html |
 | Armando’S | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html |
-| Dip | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html |
+| Dip | https://www.lemonde.fr/guides-d-achat/article/2021/02/12/les-meilleures-enceintes-pour-ordinateur_6069803_5306571.html || Obey | https://www.lemonde.fr/international/article/2021/02/15/en-birmanie-la-generation-z-sur-la-ligne-de-front-antijunte_6070006_3210.html |
+| Kerala | https://www.lemonde.fr/international/article/2021/02/15/des-dizaines-de-milliers-de-foyers-prives-d-eau-courante-a-new-delhi-apres-une-crue-dans-l-himalaya_6070012_3210.html |
+| Yamuna | https://www.lemonde.fr/international/article/2021/02/15/des-dizaines-de-milliers-de-foyers-prives-d-eau-courante-a-new-delhi-apres-une-crue-dans-l-himalaya_6070012_3210.html |
+| Especial | https://www.lemonde.fr/international/article/2021/02/15/la-rapporteuse-de-l-onu-juge-devastateurs-les-effets-des-sanctions-sur-le-venezuela_6070001_3210.html |
+| Museum | https://www.lemonde.fr/international/article/2021/02/15/a-new-york-les-ennuis-du-milliardaire-amateur-d-art-leon-black_6069951_3210.html |
+| Low | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html |
+| Cost | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html |
