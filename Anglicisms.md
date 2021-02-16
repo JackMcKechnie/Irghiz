@@ -363,4 +363,5 @@
 | Especial | https://www.lemonde.fr/international/article/2021/02/15/la-rapporteuse-de-l-onu-juge-devastateurs-les-effets-des-sanctions-sur-le-venezuela_6070001_3210.html |
 | Museum | https://www.lemonde.fr/international/article/2021/02/15/a-new-york-les-ennuis-du-milliardaire-amateur-d-art-leon-black_6069951_3210.html |
 | Low | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html |
-| Cost | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html |
+| Cost | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html || Angel | https://www.lemonde.fr/sport/article/2021/02/16/psg-la-litanie-des-blessures-l-espoir-de-quelques-retours_6070092_3242.html |
+| Witwatersrand | https://www.lemonde.fr/planete/article/2021/02/16/covid-19-la-strategie-tester-tracer-isoler-a-l-epreuve-des-variants_6070082_3244.html |
