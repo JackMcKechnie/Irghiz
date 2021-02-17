@@ -364,4 +364,6 @@
 | Museum | https://www.lemonde.fr/international/article/2021/02/15/a-new-york-les-ennuis-du-milliardaire-amateur-d-art-leon-black_6069951_3210.html |
 | Low | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html |
 | Cost | https://www.lemonde.fr/idees/article/2021/02/15/l-avenir-d-edf-et-d-air-france-se-joue-dans-le-huis-clos-du-berlaymont_6070005_3232.html || Angel | https://www.lemonde.fr/sport/article/2021/02/16/psg-la-litanie-des-blessures-l-espoir-de-quelques-retours_6070092_3242.html |
-| Witwatersrand | https://www.lemonde.fr/planete/article/2021/02/16/covid-19-la-strategie-tester-tracer-isoler-a-l-epreuve-des-variants_6070082_3244.html |
+| Witwatersrand | https://www.lemonde.fr/planete/article/2021/02/16/covid-19-la-strategie-tester-tracer-isoler-a-l-epreuve-des-variants_6070082_3244.html || Youtube. | https://www.lemonde.fr/afrique/article/2021/02/16/ma-peau-a-change-de-couleur-et-des-vergetures-sont-apparues-au-senegal-le-fleau-des-produits-pour-grossir_6070175_3212.html |
+| France-Press | https://www.lemonde.fr/international/article/2021/02/16/nouvelle-inculpation-pour-aung-san-suu-kyi_6070117_3210.html |
+| Co. | https://www.lemonde.fr/economie/article/2021/02/17/google-pret-a-payer-les-medias-australiens-pour-l-utilisation-de-leurs-contenus_6070256_3234.html |
