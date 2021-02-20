@@ -369,4 +369,14 @@
 | Co. | https://www.lemonde.fr/economie/article/2021/02/17/google-pret-a-payer-les-medias-australiens-pour-l-utilisation-de-leurs-contenus_6070256_3234.html || Happiness | https://www.lemonde.fr/emploi/article/2021/02/18/la-methode-agile-tant-vantee-en-management-est-la-risee-des-jeunes-sur-facebook_6070366_1698637.html || Gig | https://www.lemonde.fr/international/article/2021/02/19/la-cour-supreme-britannique-considere-que-les-chauffeurs-uber-sont-des-employes_6070534_3210.html |
 | World. | https://www.lemonde.fr/sciences/article/2021/02/19/mars-2020-la-saga-du-rover-perseverance-parti-a-la-recherche-de-traces-de-vie-sur-la-planete-rouge_6070483_1650684.html |
 | Roma | https://www.lemonde.fr/sport/article/2021/02/19/ligue-europa-lille-battu-par-l-ajax-amsterdam-manchester-united-tottenham-et-la-roma-mettent-une-option-sur-les-8es_6070473_3242.html |
-| Rangers | https://www.lemonde.fr/sport/article/2021/02/19/ligue-europa-lille-battu-par-l-ajax-amsterdam-manchester-united-tottenham-et-la-roma-mettent-une-option-sur-les-8es_6070473_3242.html |
+| Rangers | https://www.lemonde.fr/sport/article/2021/02/19/ligue-europa-lille-battu-par-l-ajax-amsterdam-manchester-united-tottenham-et-la-roma-mettent-une-option-sur-les-8es_6070473_3242.html || Today | https://www.lemonde.fr/sport/article/2021/02/20/open-d-australie-le-sacre-de-naomi-osaka-nouvelle-tete-d-affiche-du-tennis-feminin_6070671_3242.html |
+| Kids | https://www.lemonde.fr/m-perso/article/2021/02/20/un-apero-avec-michel-cymes-je-n-ai-pas-ete-a-la-hauteur-de-la-confiance-que-les-gens-m-accordent_6070621_4497916.html |
+| Hotel | https://www.lemonde.fr/televisions-radio/article/2021/02/20/faits-divers-gastronomie-populaire-et-empire-mediatique-nos-replays-du-week-end_6070619_1655027.html |
+| Scene | https://www.lemonde.fr/televisions-radio/article/2021/02/20/faits-divers-gastronomie-populaire-et-empire-mediatique-nos-replays-du-week-end_6070619_1655027.html |
+| Simeon | https://www.lemonde.fr/livres/article/2021/02/20/foucault-en-californie-de-simeon-wade-l-acid-test-reussi-du-philosophe_6070641_3260.html |
+| California | https://www.lemonde.fr/livres/article/2021/02/20/foucault-en-californie-de-simeon-wade-l-acid-test-reussi-du-philosophe_6070641_3260.html |
+| Heyday | https://www.lemonde.fr/livres/article/2021/02/20/foucault-en-californie-de-simeon-wade-l-acid-test-reussi-du-philosophe_6070641_3260.html |
+| Ministry | https://www.lemonde.fr/planete/article/2021/02/20/covid-19-la-nouvelle-zelande-lance-sa-campagne-de-vaccination_6070633_3244.html |
+| Marian | https://www.lemonde.fr/planete/article/2021/02/20/covid-19-la-nouvelle-zelande-lance-sa-campagne-de-vaccination_6070633_3244.html |
+| Bitcoin. | https://www.lemonde.fr/economie/article/2021/02/20/le-marche-du-bitcoin-depasse-les-1-000-milliards-de-dollars-faisant-craindre-l-explosion-de-la-bulle_6070665_3234.html |
+| Cranach | https://www.lemonde.fr/culture/article/2021/02/20/les-enigmes-du-collectionneur-et-marchand-d-art-giuliano-ruffini_6070629_3246.html |
