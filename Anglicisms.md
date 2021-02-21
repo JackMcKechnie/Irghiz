@@ -379,4 +379,10 @@
 | Ministry | https://www.lemonde.fr/planete/article/2021/02/20/covid-19-la-nouvelle-zelande-lance-sa-campagne-de-vaccination_6070633_3244.html |
 | Marian | https://www.lemonde.fr/planete/article/2021/02/20/covid-19-la-nouvelle-zelande-lance-sa-campagne-de-vaccination_6070633_3244.html |
 | Bitcoin. | https://www.lemonde.fr/economie/article/2021/02/20/le-marche-du-bitcoin-depasse-les-1-000-milliards-de-dollars-faisant-craindre-l-explosion-de-la-bulle_6070665_3234.html |
-| Cranach | https://www.lemonde.fr/culture/article/2021/02/20/les-enigmes-du-collectionneur-et-marchand-d-art-giuliano-ruffini_6070629_3246.html |
+| Cranach | https://www.lemonde.fr/culture/article/2021/02/20/les-enigmes-du-collectionneur-et-marchand-d-art-giuliano-ruffini_6070629_3246.html || Sandoval | https://www.lemonde.fr/international/article/2021/02/20/en-argentine-la-course-contre-la-montre-des-proces-des-crimes-de-la-dictature_6070636_3210.html |
+| Search | https://www.lemonde.fr/pixels/article/2021/02/20/mangas-des-gosses-des-bosses-et-des-tueurs-a-gages_6070620_4408996.html |
+| Destroy | https://www.lemonde.fr/pixels/article/2021/02/20/mangas-des-gosses-des-bosses-et-des-tueurs-a-gages_6070620_4408996.html |
+| Piece | https://www.lemonde.fr/pixels/article/2021/02/20/mangas-des-gosses-des-bosses-et-des-tueurs-a-gages_6070620_4408996.html |
+| True | https://www.lemonde.fr/international/article/2021/02/21/la-birmanie-se-prepare-aux-funerailles-de-la-premiere-victime-de-la-repression-militaire_6070693_3210.html |
+| Wii | https://www.lemonde.fr/pixels/article/2021/02/21/trente-cinq-ans-de-zelda-skyward-sword-l-episode-mal-aime-sera-reedite-en-hd_6070713_4408996.html |
+| Zelda. | https://www.lemonde.fr/pixels/article/2021/02/21/trente-cinq-ans-de-zelda-skyward-sword-l-episode-mal-aime-sera-reedite-en-hd_6070713_4408996.html |
