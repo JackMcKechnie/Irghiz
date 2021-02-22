@@ -385,4 +385,16 @@
 | Piece | https://www.lemonde.fr/pixels/article/2021/02/20/mangas-des-gosses-des-bosses-et-des-tueurs-a-gages_6070620_4408996.html |
 | True | https://www.lemonde.fr/international/article/2021/02/21/la-birmanie-se-prepare-aux-funerailles-de-la-premiere-victime-de-la-repression-militaire_6070693_3210.html |
 | Wii | https://www.lemonde.fr/pixels/article/2021/02/21/trente-cinq-ans-de-zelda-skyward-sword-l-episode-mal-aime-sera-reedite-en-hd_6070713_4408996.html |
-| Zelda. | https://www.lemonde.fr/pixels/article/2021/02/21/trente-cinq-ans-de-zelda-skyward-sword-l-episode-mal-aime-sera-reedite-en-hd_6070713_4408996.html |
+| Zelda. | https://www.lemonde.fr/pixels/article/2021/02/21/trente-cinq-ans-de-zelda-skyward-sword-l-episode-mal-aime-sera-reedite-en-hd_6070713_4408996.html || Rudyard | https://www.lemonde.fr/international/article/2021/02/22/manifestations-monstres-en-birmanie_6070765_3210.html |
+| Sabadell | https://www.lemonde.fr/afrique/article/2021/02/22/libye-le-ministre-de-l-interieur-vise-par-une-tentative-d-assassinat_6070777_3212.html |
+| Norland | https://www.lemonde.fr/afrique/article/2021/02/22/libye-le-ministre-de-l-interieur-vise-par-une-tentative-d-assassinat_6070777_3212.html |
+| Ramos | https://www.lemonde.fr/sport/article/2021/02/22/covid-19-cinq-nouveaux-cas-parmi-les-joueurs-de-l-equipe-de-france-de-rugby_6070796_3242.html |
+| Fly | https://www.lemonde.fr/international/article/2021/02/22/des-boeing-777-immobilises-et-sous-inspections-supplementaires-apres-l-incident-de-denver_6070754_3210.html |
+| Pgp | https://www.lemonde.fr/societe/article/2021/02/22/a-dubai-arrestation-d-un-important-trafiquant-de-drogue-de-marseille_6070745_3224.html |
+| Officially | https://www.lemonde.fr/sport/article/2021/02/22/preparations-succes-retraite-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6070771_3242.html |
+| I’Ve | https://www.lemonde.fr/sport/article/2021/02/22/preparations-succes-retraite-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6070771_3242.html |
+| Years | https://www.lemonde.fr/sport/article/2021/02/22/preparations-succes-retraite-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6070771_3242.html |
+| Helped | https://www.lemonde.fr/sport/article/2021/02/22/preparations-succes-retraite-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6070771_3242.html |
+| Ballroom | https://www.lemonde.fr/international/article/2021/02/22/la-famille-de-malcolm-x-demande-la-reouverture-de-l-enquete-sur-son-meurtre_6070758_3210.html |
+| Iss | https://www.lemonde.fr/planete/article/2021/02/21/coronavirus-l-australie-commence-a-vacciner-l-italie-s-inquiete-des-attroupements-le-point-sur-la-pandemie-dans-le-monde_6070720_3244.html |
+| Nap | https://www.lemonde.fr/musiques/article/2021/02/22/abd-al-malik-trenet-glam-rock-huit-ouvrages-autour-de-la-musique_6070739_1654986.html |
