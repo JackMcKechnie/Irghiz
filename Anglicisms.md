@@ -397,4 +397,7 @@
 | Helped | https://www.lemonde.fr/sport/article/2021/02/22/preparations-succes-retraite-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6070771_3242.html |
 | Ballroom | https://www.lemonde.fr/international/article/2021/02/22/la-famille-de-malcolm-x-demande-la-reouverture-de-l-enquete-sur-son-meurtre_6070758_3210.html |
 | Iss | https://www.lemonde.fr/planete/article/2021/02/21/coronavirus-l-australie-commence-a-vacciner-l-italie-s-inquiete-des-attroupements-le-point-sur-la-pandemie-dans-le-monde_6070720_3244.html |
-| Nap | https://www.lemonde.fr/musiques/article/2021/02/22/abd-al-malik-trenet-glam-rock-huit-ouvrages-autour-de-la-musique_6070739_1654986.html |
+| Nap | https://www.lemonde.fr/musiques/article/2021/02/22/abd-al-malik-trenet-glam-rock-huit-ouvrages-autour-de-la-musique_6070739_1654986.html || Access | https://www.lemonde.fr/musiques/live/2021/02/23/quelle-influence-daft-punk-a-t-il-eue-sur-la-scene-musicale_6070911_1654986.html |
+| Nile | https://www.lemonde.fr/musiques/live/2021/02/23/quelle-influence-daft-punk-a-t-il-eue-sur-la-scene-musicale_6070911_1654986.html |
+| Cud | https://www.lemonde.fr/planete/article/2021/02/23/covid-19-des-mesures-vont-etre-prises-pour-freiner-la-flambee-epidemique-a-dunkerque_6070884_3244.html |
+| Herman | https://www.lemonde.fr/economie/article/2021/02/23/l-union-europeenne-veut-renforcer-sa-souverainete-technologique_6070889_3234.html |
