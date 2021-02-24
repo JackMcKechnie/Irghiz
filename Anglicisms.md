@@ -400,4 +400,10 @@
 | Nap | https://www.lemonde.fr/musiques/article/2021/02/22/abd-al-malik-trenet-glam-rock-huit-ouvrages-autour-de-la-musique_6070739_1654986.html || Access | https://www.lemonde.fr/musiques/live/2021/02/23/quelle-influence-daft-punk-a-t-il-eue-sur-la-scene-musicale_6070911_1654986.html |
 | Nile | https://www.lemonde.fr/musiques/live/2021/02/23/quelle-influence-daft-punk-a-t-il-eue-sur-la-scene-musicale_6070911_1654986.html |
 | Cud | https://www.lemonde.fr/planete/article/2021/02/23/covid-19-des-mesures-vont-etre-prises-pour-freiner-la-flambee-epidemique-a-dunkerque_6070884_3244.html |
-| Herman | https://www.lemonde.fr/economie/article/2021/02/23/l-union-europeenne-veut-renforcer-sa-souverainete-technologique_6070889_3234.html |
+| Herman | https://www.lemonde.fr/economie/article/2021/02/23/l-union-europeenne-veut-renforcer-sa-souverainete-technologique_6070889_3234.html || Poly-Pathologies | https://www.lemonde.fr/emploi/article/2021/02/24/la-vaccination-anti-covid-fait-son-entree-en-entreprise_6071038_1698637.html |
+| Al-Assad. | https://www.lemonde.fr/international/article/2021/02/24/condamnation-historique-d-un-ex-agent-syrien-pour-complicite-de-crimes-contre-l-humanite_6071041_3210.html |
+| Tiger | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
+| Everyone | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
+| His | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
+| Tiger. | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
+| Goat | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
