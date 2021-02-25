@@ -406,4 +406,6 @@
 | Everyone | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
 | His | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
 | Tiger. | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
-| Goat | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html |
+| Goat | https://www.lemonde.fr/sport/article/2021/02/24/l-avenir-du-golfeur-tiger-woods-incertain-apres-un-accident-de-voiture_6070999_3242.html || Curiosity | https://www.lemonde.fr/sciences/article/2021/02/25/la-nasa-publie-une-photo-panoramique-impressionnante-de-mars_6071108_1650684.html |
+| Quintero | https://www.lemonde.fr/international/article/2021/02/25/l-union-europeenne-sanctionne-le-venezuela-caracas-expulse-son-ambassadrice_6071178_3210.html |
+| Wylie | https://www.lemonde.fr/pixels/article/2021/02/25/facebook-et-instagram-ferment-tous-les-comptes-de-l-armee-birmane_6071153_4408996.html |
