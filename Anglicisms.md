@@ -410,4 +410,12 @@
 | Quintero | https://www.lemonde.fr/international/article/2021/02/25/l-union-europeenne-sanctionne-le-venezuela-caracas-expulse-son-ambassadrice_6071178_3210.html |
 | Wylie | https://www.lemonde.fr/pixels/article/2021/02/25/facebook-et-instagram-ferment-tous-les-comptes-de-l-armee-birmane_6071153_4408996.html || Corbeil | https://www.lemonde.fr/planete/article/2021/02/26/les-variants-s-imposent-en-france-avec-une-grande-heterogeneite-selon-les-territoires_6071254_3244.html |
 | Stray | https://www.lemonde.fr/international/article/2021/02/25/une-vague-d-accusations-ciblant-la-k-pop-et-le-sport-ravive-les-debats-sur-le-harcelement-scolaire-en-coree-du-sud_6071219_3210.html |
-| College | https://www.lemonde.fr/international/article/2021/02/25/boris-johnson-veut-preserver-la-liberte-de-parole-dans-les-universites_6071233_3210.html |
+| College | https://www.lemonde.fr/international/article/2021/02/25/boris-johnson-veut-preserver-la-liberte-de-parole-dans-les-universites_6071233_3210.html || Bechtel | https://www.lemonde.fr/politique/live/2021/03/01/nicolas-sarkozy-condamne-pour-corruption-dans-l-affaire-des-ecoutes-posez-nous-vos-questions_6071584_823448.html |
+| Streisand | https://www.lemonde.fr/culture/article/2021/03/01/golden-globes-2021-nomadland-borat-2-et-the-crown-dominent-la-ceremonie_6071528_3246.html |
+| O’Connor | https://www.lemonde.fr/culture/article/2021/03/01/golden-globes-2021-nomadland-borat-2-et-the-crown-dominent-la-ceremonie_6071528_3246.html |
+| Chung | https://www.lemonde.fr/culture/article/2021/03/01/golden-globes-2021-nomadland-borat-2-et-the-crown-dominent-la-ceremonie_6071528_3246.html |
+| Creek | https://www.lemonde.fr/culture/article/2021/03/01/golden-globes-2021-nomadland-borat-2-et-the-crown-dominent-la-ceremonie_6071528_3246.html |
+| O’Hara | https://www.lemonde.fr/culture/article/2021/03/01/golden-globes-2021-nomadland-borat-2-et-the-crown-dominent-la-ceremonie_6071528_3246.html |
+| Much | https://www.lemonde.fr/culture/article/2021/03/01/golden-globes-2021-nomadland-borat-2-et-the-crown-dominent-la-ceremonie_6071528_3246.html |
+| Berkshire | https://www.lemonde.fr/economie/article/2021/03/01/berkshire-hathaway-warren-buffett-l-investisseur-le-plus-ecoute-d-amerique-n-a-plus-d-idee_6071552_3234.html |
+| Columbia | https://www.lemonde.fr/emploi/article/2021/03/01/l-argot-de-bureau-les-rex-sont-le-retroviseur-du-progres_6071506_1698637.html |
