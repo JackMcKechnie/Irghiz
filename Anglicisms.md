@@ -421,4 +421,4 @@
 | Columbia | https://www.lemonde.fr/emploi/article/2021/03/01/l-argot-de-bureau-les-rex-sont-le-retroviseur-du-progres_6071506_1698637.html || Voice | https://www.lemonde.fr/actualite-medias/article/2021/03/02/2020-mauvaise-annee-pour-les-journalistes-etrangers-en-chine_6071636_3236.html |
 | Chin | https://www.lemonde.fr/international/article/2021/03/02/trois-manifestants-dans-un-etat-critique-en-birmanie-arrestation-musclee-d-un-journaliste_6071671_3210.html |
 | Aye | https://www.lemonde.fr/international/article/2021/03/02/trois-manifestants-dans-un-etat-critique-en-birmanie-arrestation-musclee-d-un-journaliste_6071671_3210.html |
-| Jaeger | https://www.lemonde.fr/international/article/2021/03/02/une-elue-ecologiste-autrichienne-face-a-la-haine-en-ligne_6071625_3210.html |
+| Jaeger | https://www.lemonde.fr/international/article/2021/03/02/une-elue-ecologiste-autrichienne-face-a-la-haine-en-ligne_6071625_3210.html || Bone | https://www.lemonde.fr/culture/article/2021/03/03/le-collectif-la-horde-fait-danser-les-ecrans_6071749_3246.html |
