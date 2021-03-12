@@ -430,4 +430,10 @@
 | Falcon | https://www.lemonde.fr/disparitions/article/2021/03/08/mort-d-olivier-dassault-l-heritier-qui-avait-fait-de-la-politique-un-hobby_6072322_3382.html || Springs | https://www.lemonde.fr/economie/article/2021/03/09/la-reprise-economique-mondiale-passe-par-une-acceleration-de-la-vaccination-contre-le-covid-19_6072462_3234.html |
 | Bergamo | https://www.lemonde.fr/le-monde-et-vous/article/2021/03/09/le-monde-doublement-recompense-par-le-grand-prix-varenne_6072441_6065879.html || Rh | https://www.lemonde.fr/politique/article/2021/03/10/emmanuel-macron-bouscule-par-l-actualite-des-violences-entre-adolescents_6072538_823448.html || Alisha | https://www.lemonde.fr/societe/article/2021/03/11/meurtre-d-alisha-les-faits-de-menaces-et-harcelement-de-plus-en-plus-nombreux-chez-les-mineurs_6072715_3224.html |
 | Porn | https://www.lemonde.fr/societe/article/2021/03/11/meurtre-d-alisha-les-faits-de-menaces-et-harcelement-de-plus-en-plus-nombreux-chez-les-mineurs_6072715_3224.html |
-| Shaping | https://www.lemonde.fr/economie/article/2021/03/11/veolia-tente-de-seduire-les-salaries-de-suez-et-les-elus-locaux_6072725_3234.html |
+| Shaping | https://www.lemonde.fr/economie/article/2021/03/11/veolia-tente-de-seduire-les-salaries-de-suez-et-les-elus-locaux_6072725_3234.html || Carpenters | https://www.lemonde.fr/m-le-mag/article/2021/03/11/les-galeries-c-est-permis-cinq-expos-design-a-decouvrir-a-paris_6072797_4500055.html |
+| Workshop | https://www.lemonde.fr/m-le-mag/article/2021/03/11/les-galeries-c-est-permis-cinq-expos-design-a-decouvrir-a-paris_6072797_4500055.html |
+| Gallery | https://www.lemonde.fr/m-le-mag/article/2021/03/11/les-galeries-c-est-permis-cinq-expos-design-a-decouvrir-a-paris_6072797_4500055.html |
+| Reunited | https://www.lemonde.fr/m-le-mag/article/2021/03/11/les-galeries-c-est-permis-cinq-expos-design-a-decouvrir-a-paris_6072797_4500055.html |
+| Granville | https://www.lemonde.fr/m-le-mag/article/2021/03/11/les-galeries-c-est-permis-cinq-expos-design-a-decouvrir-a-paris_6072797_4500055.html |
+| Uncle | https://www.lemonde.fr/international/article/2021/03/12/le-policier-accuse-du-meurtre-de-george-floyd-vise-par-un-troisieme-chef-d-inculpation_6072854_3210.html |
+| Melendez | https://www.lemonde.fr/international/article/2021/03/12/au-perou-trente-ans-de-prison-requis-contre-keiko-fujimori_6072891_3210.html |
