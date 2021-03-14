@@ -437,4 +437,10 @@
 | Granville | https://www.lemonde.fr/m-le-mag/article/2021/03/11/les-galeries-c-est-permis-cinq-expos-design-a-decouvrir-a-paris_6072797_4500055.html |
 | Uncle | https://www.lemonde.fr/international/article/2021/03/12/le-policier-accuse-du-meurtre-de-george-floyd-vise-par-un-troisieme-chef-d-inculpation_6072854_3210.html |
 | Melendez | https://www.lemonde.fr/international/article/2021/03/12/au-perou-trente-ans-de-prison-requis-contre-keiko-fujimori_6072891_3210.html || Mallet | https://www.lemonde.fr/economie/article/2021/03/12/covid-19-les-transports-publics-francais-en-souffrance-mais-resilients_6072890_3234.html |
-| Cretin | https://www.lemonde.fr/sport/article/2021/03/13/tournoi-des-six-nations-pour-les-bleus-un-crunch-pour-clore-l-episode-covid_6072981_3242.html |
+| Cretin | https://www.lemonde.fr/sport/article/2021/03/13/tournoi-des-six-nations-pour-les-bleus-un-crunch-pour-clore-l-episode-covid_6072981_3242.html || Ferguson. | https://www.lemonde.fr/societe/article/2021/03/14/des-vies-au-rythme-de-l-epidemie_6073052_3224.html |
+| Grant | https://www.lemonde.fr/sport/article/2021/03/13/tournoi-des-six-nations-2021-les-bleus-echouent-a-prendre-la-forteresse-anglaise_6073034_3242.html |
+| Labs | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
+| Jack'S | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
+| Gb | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
+| Bentley | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
+| Al-Salt | https://www.lemonde.fr/planete/article/2021/03/14/en-jordanie-sept-patients-atteints-du-covid-19-meurent-a-cause-d-une-panne-d-oxygene_6073073_3244.html |
