@@ -443,4 +443,5 @@
 | Jack'S | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
 | Gb | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
 | Bentley | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
-| Al-Salt | https://www.lemonde.fr/planete/article/2021/03/14/en-jordanie-sept-patients-atteints-du-covid-19-meurent-a-cause-d-une-panne-d-oxygene_6073073_3244.html |
+| Al-Salt | https://www.lemonde.fr/planete/article/2021/03/14/en-jordanie-sept-patients-atteints-du-covid-19-meurent-a-cause-d-une-panne-d-oxygene_6073073_3244.html || Ismail | https://www.lemonde.fr/international/article/2021/03/15/premiere-plainte-en-russie-contre-les-mercenaires-wagner-pour-des-exactions-commises-en-syrie_6073172_3210.html |
+| Nudge | https://www.lemonde.fr/emploi/article/2021/03/15/l-argot-de-bureau-le-nudge-une-injonction-qui-ne-dit-pas-son-nom_6073117_1698637.html |
