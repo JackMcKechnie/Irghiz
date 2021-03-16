@@ -444,4 +444,6 @@
 | Gb | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
 | Bentley | https://www.lemonde.fr/blog/filiu/2021/03/14/pourquoi-israel-reussit-tellement-mieux-que-la-france-sa-vaccination-anti-covid19/ |
 | Al-Salt | https://www.lemonde.fr/planete/article/2021/03/14/en-jordanie-sept-patients-atteints-du-covid-19-meurent-a-cause-d-une-panne-d-oxygene_6073073_3244.html || Ismail | https://www.lemonde.fr/international/article/2021/03/15/premiere-plainte-en-russie-contre-les-mercenaires-wagner-pour-des-exactions-commises-en-syrie_6073172_3210.html |
-| Nudge | https://www.lemonde.fr/emploi/article/2021/03/15/l-argot-de-bureau-le-nudge-une-injonction-qui-ne-dit-pas-son-nom_6073117_1698637.html |
+| Nudge | https://www.lemonde.fr/emploi/article/2021/03/15/l-argot-de-bureau-le-nudge-une-injonction-qui-ne-dit-pas-son-nom_6073117_1698637.html || Fidelity | https://www.lemonde.fr/economie/article/2021/03/16/levees-de-fonds-les-start-up-du-paiement-pulverisent-les-records_6073280_3234.html |
+| Metropolitan | https://www.lemonde.fr/international/article/2021/03/16/au-royaume-uni-le-meurtre-de-sarah-everard-provoque-un-debat-inedit-sur-les-violences-faites-aux-femmes_6073253_3210.html |
+| Syria | https://www.lemonde.fr/international/article/2021/03/16/asma-al-assad-premiere-dame-de-syrie-passee-des-bonnes-uvres-aux-basses-uvres_6073246_3210.html |
