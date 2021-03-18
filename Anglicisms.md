@@ -450,4 +450,5 @@
 | Advocacy | https://www.lemonde.fr/international/article/2021/03/17/etats-unis-au-moins-huit-morts-apres-trois-fusillades-dans-des-salons-de-massage-a-atlanta-et-ses-environs_6073400_3210.html |
 | Telegraph | https://www.lemonde.fr/international/article/2021/03/17/les-britanniques-defendent-le-vaccin-astrazeneca-apres-une-serie-de-suspensions-dans-l-ue_6073452_3210.html |
 | Maps | https://www.lemonde.fr/afrique/article/2021/03/17/au-niger-58-morts-dans-des-attaques-pres-du-mali_6073426_3212.html |
-| Abed | https://www.lemonde.fr/planete/article/2021/03/17/covid-19-l-autorite-palestinienne-recoit-60-000-doses-de-vaccin_6073462_3244.html |
+| Abed | https://www.lemonde.fr/planete/article/2021/03/17/covid-19-l-autorite-palestinienne-recoit-60-000-doses-de-vaccin_6073462_3244.html || Garth | https://www.lemonde.fr/planete/article/2021/03/18/ile-de-france-et-hauts-de-france-de-nouvelles-restrictions-annoncees-jeudi-soir_6073585_3244.html |
+| That’S | https://www.lemonde.fr/international/article/2021/03/18/bataille-des-vaccins-l-union-europeenne-hausse-le-ton-contre-astrazeneca-et-londres_6073558_3210.html |
