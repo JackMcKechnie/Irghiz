@@ -451,4 +451,8 @@
 | Telegraph | https://www.lemonde.fr/international/article/2021/03/17/les-britanniques-defendent-le-vaccin-astrazeneca-apres-une-serie-de-suspensions-dans-l-ue_6073452_3210.html |
 | Maps | https://www.lemonde.fr/afrique/article/2021/03/17/au-niger-58-morts-dans-des-attaques-pres-du-mali_6073426_3212.html |
 | Abed | https://www.lemonde.fr/planete/article/2021/03/17/covid-19-l-autorite-palestinienne-recoit-60-000-doses-de-vaccin_6073462_3244.html || Garth | https://www.lemonde.fr/planete/article/2021/03/18/ile-de-france-et-hauts-de-france-de-nouvelles-restrictions-annoncees-jeudi-soir_6073585_3244.html |
-| That’S | https://www.lemonde.fr/international/article/2021/03/18/bataille-des-vaccins-l-union-europeenne-hausse-le-ton-contre-astrazeneca-et-londres_6073558_3210.html |
+| That’S | https://www.lemonde.fr/international/article/2021/03/18/bataille-des-vaccins-l-union-europeenne-hausse-le-ton-contre-astrazeneca-et-londres_6073558_3210.html || Walk | https://www.lemonde.fr/sport/live/2021/03/19/tirage-au-sort-de-la-ligue-des-champions-quel-adversaire-pour-le-psg-en-quarts_6073718_3242.html |
+| Scientist | https://www.lemonde.fr/planete/article/2021/03/19/covid-19-apres-les-variants-les-recombinants-du-sars-cov-2-arrivent_6073671_3244.html |
+| Pulp | https://www.lemonde.fr/societe/live/2021/03/19/un-an-apres-le-premier-confinement-la-culture-a-l-arret_6073696_3224.html |
+| Gem | https://www.lemonde.fr/societe/live/2021/03/19/un-an-apres-le-premier-confinement-la-culture-a-l-arret_6073696_3224.html |
+| Act | https://www.lemonde.fr/afrique/article/2021/03/19/apres-la-mort-du-president-magufuli-le-mystere-plane-sur-l-ampleur-du-covid-19-en-tanzanie_6073728_3212.html |
