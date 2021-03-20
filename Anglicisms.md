@@ -455,4 +455,9 @@
 | Scientist | https://www.lemonde.fr/planete/article/2021/03/19/covid-19-apres-les-variants-les-recombinants-du-sars-cov-2-arrivent_6073671_3244.html |
 | Pulp | https://www.lemonde.fr/societe/live/2021/03/19/un-an-apres-le-premier-confinement-la-culture-a-l-arret_6073696_3224.html |
 | Gem | https://www.lemonde.fr/societe/live/2021/03/19/un-an-apres-le-premier-confinement-la-culture-a-l-arret_6073696_3224.html |
-| Act | https://www.lemonde.fr/afrique/article/2021/03/19/apres-la-mort-du-president-magufuli-le-mystere-plane-sur-l-ampleur-du-covid-19-en-tanzanie_6073728_3212.html |
+| Act | https://www.lemonde.fr/afrique/article/2021/03/19/apres-la-mort-du-president-magufuli-le-mystere-plane-sur-l-ampleur-du-covid-19-en-tanzanie_6073728_3212.html || Bayeux | https://www.lemonde.fr/planete/article/2021/03/20/le-gouvernement-envisage-de-renoncer-aux-attestations-en-journee-dans-les-departements-reconfines_6073872_3244.html |
+| Copper. | https://www.lemonde.fr/international/article/2021/03/19/la-serbie-sas-d-entree-vers-l-europe-pour-pekin_6073757_3210.html |
+| Cassel | https://www.lemonde.fr/international/article/2021/03/20/allemagne-affrontements-au-cours-d-une-manifestation-contre-les-restrictions-sanitaires_6073880_3210.html |
+| Bursa | https://www.lemonde.fr/societe/article/2021/03/20/djihadisme-quand-la-delinquance-predispose-a-la-violence-plus-que-la-religion_6073861_3224.html |
+| Conquest | https://www.lemonde.fr/culture/article/2021/03/20/la-restauration-de-la-tapisserie-de-bayeux-cree-des-accrocs-dans-la-diplomatie-franco-britannique_6073834_3246.html |
+| Reykjavik | https://www.lemonde.fr/international/article/2021/03/20/en-islande-une-eruption-volcanique-est-en-cours-a-fagradalsfjall-pres-de-reykjavik_6073824_3210.html |
