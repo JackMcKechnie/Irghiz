@@ -460,4 +460,11 @@
 | Cassel | https://www.lemonde.fr/international/article/2021/03/20/allemagne-affrontements-au-cours-d-une-manifestation-contre-les-restrictions-sanitaires_6073880_3210.html |
 | Bursa | https://www.lemonde.fr/societe/article/2021/03/20/djihadisme-quand-la-delinquance-predispose-a-la-violence-plus-que-la-religion_6073861_3224.html |
 | Conquest | https://www.lemonde.fr/culture/article/2021/03/20/la-restauration-de-la-tapisserie-de-bayeux-cree-des-accrocs-dans-la-diplomatie-franco-britannique_6073834_3246.html |
-| Reykjavik | https://www.lemonde.fr/international/article/2021/03/20/en-islande-une-eruption-volcanique-est-en-cours-a-fagradalsfjall-pres-de-reykjavik_6073824_3210.html |
+| Reykjavik | https://www.lemonde.fr/international/article/2021/03/20/en-islande-une-eruption-volcanique-est-en-cours-a-fagradalsfjall-pres-de-reykjavik_6073824_3210.html || Harding | https://www.lemonde.fr/m-styles/article/2021/03/20/envie-d-air-frais-et-de-vent-dans-les-cheveux-cinq-idees-de-rando-a-velo_6073898_4497319.html |
+| Naturally | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
+| March | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
+| Host | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
+| Known | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
+| Uk | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
+| Abate | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
+| Cs-Mag | https://www.lemonde.fr/culture/article/2021/03/21/je-ne-suis-pas-une-salope-je-suis-une-journaliste-le-documentaire-coup-de-poing-de-marie-portolano_6073953_3246.html |
