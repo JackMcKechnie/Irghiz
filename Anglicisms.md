@@ -467,4 +467,6 @@
 | Known | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
 | Uk | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
 | Abate | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
-| Cs-Mag | https://www.lemonde.fr/culture/article/2021/03/21/je-ne-suis-pas-une-salope-je-suis-une-journaliste-le-documentaire-coup-de-poing-de-marie-portolano_6073953_3246.html |
+| Cs-Mag | https://www.lemonde.fr/culture/article/2021/03/21/je-ne-suis-pas-une-salope-je-suis-une-journaliste-le-documentaire-coup-de-poing-de-marie-portolano_6073953_3246.html || Kern. | https://www.lemonde.fr/societe/article/2021/03/22/dans-les-coulisses-de-la-reouverture-de-la-mosquee-de-pantin_6073988_3224.html |
+| Roderick | https://www.lemonde.fr/international/article/2021/03/22/joe-biden-face-a-une-premiere-crise-a-la-frontiere-avec-le-mexique_6073993_3210.html |
+| Africa | https://www.lemonde.fr/afrique/article/2021/03/22/la-tunisie-envoie-dans-l-espace-son-premier-satellite-fait-maison_6074045_3212.html |
