@@ -469,4 +469,13 @@
 | Abate | https://www.lemonde.fr/blog/realitesbiomedicales/2021/03/21/des-variants-du-sars-cov-2-peuvent-infecter-des-chats-et-chiens-de-compagnie-et-meme-des-souris/ |
 | Cs-Mag | https://www.lemonde.fr/culture/article/2021/03/21/je-ne-suis-pas-une-salope-je-suis-une-journaliste-le-documentaire-coup-de-poing-de-marie-portolano_6073953_3246.html || Kern. | https://www.lemonde.fr/societe/article/2021/03/22/dans-les-coulisses-de-la-reouverture-de-la-mosquee-de-pantin_6073988_3224.html |
 | Roderick | https://www.lemonde.fr/international/article/2021/03/22/joe-biden-face-a-une-premiere-crise-a-la-frontiere-avec-le-mexique_6073993_3210.html |
-| Africa | https://www.lemonde.fr/afrique/article/2021/03/22/la-tunisie-envoie-dans-l-espace-son-premier-satellite-fait-maison_6074045_3212.html |
+| Africa | https://www.lemonde.fr/afrique/article/2021/03/22/la-tunisie-envoie-dans-l-espace-son-premier-satellite-fait-maison_6074045_3212.html || Shipping | https://www.lemonde.fr/economie/article/2021/03/24/le-canal-de-suez-bloque-plusieurs-heures-a-cause-d-un-cargo-echoue-en-travers_6074287_3234.html |
+| Lanes | https://www.lemonde.fr/economie/article/2021/03/24/le-canal-de-suez-bloque-plusieurs-heures-a-cause-d-un-cargo-echoue-en-travers_6074287_3234.html |
+| Haynes | https://www.lemonde.fr/sport/article/2021/03/24/julie-pomagalski-championne-du-monde-de-snowboardcross-en-1999-meurt-dans-une-avalanche_6074269_3242.html |
+| Lake | https://www.lemonde.fr/sport/article/2021/03/24/julie-pomagalski-championne-du-monde-de-snowboardcross-en-1999-meurt-dans-une-avalanche_6074269_3242.html |
+| Ellis | https://www.lemonde.fr/cinema/article/2021/03/23/droles-intrigants-grincants-dix-courts-metrages-a-decouvrir-en-ligne_6074219_3476.html |
+| Ellis. | https://www.lemonde.fr/cinema/article/2021/03/23/droles-intrigants-grincants-dix-courts-metrages-a-decouvrir-en-ligne_6074219_3476.html |
+| Ca. | https://www.lemonde.fr/cinema/article/2021/03/23/droles-intrigants-grincants-dix-courts-metrages-a-decouvrir-en-ligne_6074219_3476.html |
+| Rhapsody | https://www.lemonde.fr/cinema/article/2021/03/23/droles-intrigants-grincants-dix-courts-metrages-a-decouvrir-en-ligne_6074219_3476.html |
+| Jato | https://www.lemonde.fr/international/article/2021/03/24/au-bresil-le-juge-sergio-moro-qui-a-condamne-lula-declare-partial-par-la-cour-supreme_6074225_3210.html |
+| Owens | https://www.lemonde.fr/m-styles/article/2021/03/24/les-creatrices-de-design-a-suivre-en-2021-7-10-wendy-andreu_6074263_4497319.html |
