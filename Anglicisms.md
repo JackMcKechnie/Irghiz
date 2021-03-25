@@ -478,4 +478,8 @@
 | Ca. | https://www.lemonde.fr/cinema/article/2021/03/23/droles-intrigants-grincants-dix-courts-metrages-a-decouvrir-en-ligne_6074219_3476.html |
 | Rhapsody | https://www.lemonde.fr/cinema/article/2021/03/23/droles-intrigants-grincants-dix-courts-metrages-a-decouvrir-en-ligne_6074219_3476.html |
 | Jato | https://www.lemonde.fr/international/article/2021/03/24/au-bresil-le-juge-sergio-moro-qui-a-condamne-lula-declare-partial-par-la-cour-supreme_6074225_3210.html |
-| Owens | https://www.lemonde.fr/m-styles/article/2021/03/24/les-creatrices-de-design-a-suivre-en-2021-7-10-wendy-andreu_6074263_4497319.html |
+| Owens | https://www.lemonde.fr/m-styles/article/2021/03/24/les-creatrices-de-design-a-suivre-en-2021-7-10-wendy-andreu_6074263_4497319.html || C-Tap | https://www.lemonde.fr/afrique/article/2021/03/24/vaccins-contre-le-covid-19-l-afrique-reve-de-s-affranchir-des-laboratoires-occidentaux_6074333_3212.html |
+| Laramie | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
+| Mead | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
+| Ramirez | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
+| Campaign | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
