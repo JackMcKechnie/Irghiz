@@ -482,4 +482,7 @@
 | Laramie | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
 | Mead | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
 | Ramirez | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
-| Campaign | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html |
+| Campaign | https://www.lemonde.fr/big-browser/article/2021/03/24/etats-unis-aaron-appelhans-premier-sherif-noir-du-wyoming_6074338_4832693.html || Melting | https://www.lemonde.fr/international/article/2021/03/26/l-offensive-de-pekin-pour-faire-oublier-le-virus-chinois_6074498_3210.html |
+| Belt | https://www.lemonde.fr/international/article/2021/03/26/l-offensive-de-pekin-pour-faire-oublier-le-virus-chinois_6074498_3210.html |
+| Patna | https://www.lemonde.fr/economie/article/2021/03/26/dans-le-bihar-les-paysans-indiens-livres-a-la-loi-du-marche_6074508_3234.html |
+| Aberdeen | https://www.lemonde.fr/economie/article/2021/03/26/deliveroo-la-precarite-n-est-pas-un-bon-modele-economique_6074544_3234.html |
