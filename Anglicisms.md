@@ -488,4 +488,11 @@
 | Aberdeen | https://www.lemonde.fr/economie/article/2021/03/26/deliveroo-la-precarite-n-est-pas-un-bon-modele-economique_6074544_3234.html || Shan | https://www.lemonde.fr/international/article/2021/03/27/journee-des-forces-armees-de-nouvelles-manifestations-reprimees-en-birmanie_6074648_3210.html |
 | Armed | https://www.lemonde.fr/international/article/2021/03/27/journee-des-forces-armees-de-nouvelles-manifestations-reprimees-en-birmanie_6074648_3210.html |
 | Nellie | https://www.lemonde.fr/livres/article/2021/03/26/homme-singe-folie-campagne-de-russie-le-plein-de-bd-pour-le-printemps_6074630_3260.html |
-| Lloyd’S | https://www.lemonde.fr/afrique/article/2021/03/27/canal-de-suez-le-proprietaire-du-navire-echoue-en-travers-espere-un-deblocage-ce-samedi-soir_6074668_3212.html |
+| Lloyd’S | https://www.lemonde.fr/afrique/article/2021/03/27/canal-de-suez-le-proprietaire-du-navire-echoue-en-travers-espere-un-deblocage-ce-samedi-soir_6074668_3212.html || During | https://www.lemonde.fr/sport/article/2021/03/27/renault-confie-le-volant-a-alpine-sur-les-pistes-de-formule-1_6074688_3242.html |
+| Third | https://www.lemonde.fr/sport/article/2021/03/27/renault-confie-le-volant-a-alpine-sur-les-pistes-de-formule-1_6074688_3242.html |
+| City | https://www.lemonde.fr/sport/article/2021/03/27/renault-confie-le-volant-a-alpine-sur-les-pistes-de-formule-1_6074688_3242.html |
+| Rs | https://www.lemonde.fr/sport/article/2021/03/27/renault-confie-le-volant-a-alpine-sur-les-pistes-de-formule-1_6074688_3242.html |
+| Sulawesi | https://www.lemonde.fr/international/article/2021/03/28/indonesie-une-bombe-soupconnee-d-etre-a-l-origine-de-l-explosion-pres-de-la-cathedrale-de-makassar_6074736_3210.html |
+| Md | https://www.lemonde.fr/international/article/2021/03/28/indonesie-une-bombe-soupconnee-d-etre-a-l-origine-de-l-explosion-pres-de-la-cathedrale-de-makassar_6074736_3210.html |
+| Female | https://www.lemonde.fr/m-perso/article/2021/03/27/qui-fera-le-bonheur-des-exclus-du-sexe_6074710_4497916.html |
+| Better | https://www.lemonde.fr/m-perso/article/2021/03/27/qui-fera-le-bonheur-des-exclus-du-sexe_6074710_4497916.html |
