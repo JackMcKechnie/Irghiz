@@ -497,4 +497,8 @@
 | Female | https://www.lemonde.fr/m-perso/article/2021/03/27/qui-fera-le-bonheur-des-exclus-du-sexe_6074710_4497916.html |
 | Better | https://www.lemonde.fr/m-perso/article/2021/03/27/qui-fera-le-bonheur-des-exclus-du-sexe_6074710_4497916.html || Mediator | https://www.lemonde.fr/societe/article/2021/03/29/scandale-du-mediator-les-laboratoires-servier-condamnes-a-2-7-millions-d-euros-d-amende_6074840_3224.html |
 | Curtis | https://www.lemonde.fr/culture/article/2021/03/29/arts-une-tete-d-oba-en-bronze-restituee-prochainement-au-nigeria-par-l-ecosse_6074816_3246.html |
-| Kitchen | https://www.lemonde.fr/m-perso/article/2021/03/27/gastronomie-la-pate-miso-bonne-a-tout-faire_6074711_4497916.html |
+| Kitchen | https://www.lemonde.fr/m-perso/article/2021/03/27/gastronomie-la-pate-miso-bonne-a-tout-faire_6074711_4497916.html || Last | https://www.lemonde.fr/economie/article/2021/03/30/apres-le-brexit-la-lutte-entre-les-places-financieres-europeennes-pour-attirer-les-banquiers_6074906_3234.html |
+| Least | https://www.lemonde.fr/economie/article/2021/03/30/apres-le-brexit-la-lutte-entre-les-places-financieres-europeennes-pour-attirer-les-banquiers_6074906_3234.html |
+| Slack. | https://www.lemonde.fr/economie/article/2021/03/29/slack-l-application-devenue-championne-du-teletravail-qui-n-y-croyait-guere_6074863_3234.html |
+| Between | https://www.lemonde.fr/idees/article/2021/03/30/joe-biden-est-en-passe-d-accomplir-une-revolution-economique-aux-etats-unis_6074947_3232.html |
+| Bronx | https://www.lemonde.fr/idees/article/2021/03/30/joe-biden-est-en-passe-d-accomplir-une-revolution-economique-aux-etats-unis_6074947_3232.html |
