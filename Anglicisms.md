@@ -504,4 +504,4 @@
 | Bronx | https://www.lemonde.fr/idees/article/2021/03/30/joe-biden-est-en-passe-d-accomplir-une-revolution-economique-aux-etats-unis_6074947_3232.html || Whitaker | https://www.lemonde.fr/international/article/2021/03/31/en-poussant-les-chefs-de-l-armee-a-demissionner-bolsonaro-a-voulu-faire-une-demonstration-de-force_6075097_3210.html |
 | Dato | https://www.lemonde.fr/economie/article/2021/03/31/travail-force-malaise-en-malaisie_6075098_3234.html |
 | Meow. | https://www.lemonde.fr/economie/article/2021/03/31/travail-force-malaise-en-malaisie_6075098_3234.html |
-| Chen. | https://www.lemonde.fr/economie/article/2021/03/31/deliveroo-un-ogre-a-l-equilibre-economique-fragile_6075077_3234.html |
+| Chen. | https://www.lemonde.fr/economie/article/2021/03/31/deliveroo-un-ogre-a-l-equilibre-economique-fragile_6075077_3234.html || Safe | https://www.lemonde.fr/les-decodeurs/article/2021/03/31/racise-privilege-blanc-intersectionnalite-le-lexique-pour-comprendre-le-debat-autour-des-reunions-non-mixtes_6075153_4355770.html |
