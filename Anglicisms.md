@@ -510,4 +510,13 @@
 | Stevie | https://www.lemonde.fr/economie/article/2021/04/02/sony-music-publishing-s-offre-mrs-robinson_6075330_3234.html |
 | Nicks | https://www.lemonde.fr/economie/article/2021/04/02/sony-music-publishing-s-offre-mrs-robinson_6075330_3234.html |
 | Songs | https://www.lemonde.fr/economie/article/2021/04/02/sony-music-publishing-s-offre-mrs-robinson_6075330_3234.html |
-| Queens | https://www.lemonde.fr/economie/article/2021/04/02/sony-music-publishing-s-offre-mrs-robinson_6075330_3234.html |
+| Queens | https://www.lemonde.fr/economie/article/2021/04/02/sony-music-publishing-s-offre-mrs-robinson_6075330_3234.html || Flags | https://www.lemonde.fr/economie/article/2021/04/03/l-economie-americaine-chauffee-a-bloc-par-sa-sortie-de-la-crise-du-covid-19_6075447_3234.html |
+| Discovery | https://www.lemonde.fr/economie/article/2021/04/03/l-economie-americaine-chauffee-a-bloc-par-sa-sortie-de-la-crise-du-covid-19_6075447_3234.html |
+| Blackstone | https://www.lemonde.fr/economie/article/2021/04/03/l-economie-americaine-chauffee-a-bloc-par-sa-sortie-de-la-crise-du-covid-19_6075447_3234.html |
+| Agar | https://www.lemonde.fr/afrique/article/2021/04/01/ethiopie-jetees-par-leurs-employeurs-libanais-les-bonnes-tentent-de-se-reconstruire_6075285_3212.html |
+| Eden | https://www.lemonde.fr/afrique/article/2021/04/01/ethiopie-jetees-par-leurs-employeurs-libanais-les-bonnes-tentent-de-se-reconstruire_6075285_3212.html |
+| Fancy | https://www.lemonde.fr/big-browser/article/2021/04/02/henry-every-le-pirate-le-plus-recherche-du-xviie-siecle-refait-surface-en-nouvelle-angleterre_6075415_4832693.html |
+| Surat | https://www.lemonde.fr/big-browser/article/2021/04/02/henry-every-le-pirate-le-plus-recherche-du-xviie-siecle-refait-surface-en-nouvelle-angleterre_6075415_4832693.html |
+| Thief’S | https://www.lemonde.fr/big-browser/article/2021/04/02/henry-every-le-pirate-le-plus-recherche-du-xviie-siecle-refait-surface-en-nouvelle-angleterre_6075415_4832693.html |
+| Regulatory | https://www.lemonde.fr/planete/article/2021/04/03/vaccin-d-astrazeneca-sept-personnes-mortes-de-thromboses-sur-30-cas-identifies-au-royaume-uni_6075480_3244.html |
+| White | https://www.lemonde.fr/m-le-mag/article/2021/04/02/avec-joe-biden-toute-la-diversite-des-etats-unis-au-pouvoir_6075391_4500055.html |
