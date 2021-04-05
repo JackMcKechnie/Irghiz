@@ -519,4 +519,9 @@
 | Surat | https://www.lemonde.fr/big-browser/article/2021/04/02/henry-every-le-pirate-le-plus-recherche-du-xviie-siecle-refait-surface-en-nouvelle-angleterre_6075415_4832693.html |
 | Thief’S | https://www.lemonde.fr/big-browser/article/2021/04/02/henry-every-le-pirate-le-plus-recherche-du-xviie-siecle-refait-surface-en-nouvelle-angleterre_6075415_4832693.html |
 | Regulatory | https://www.lemonde.fr/planete/article/2021/04/03/vaccin-d-astrazeneca-sept-personnes-mortes-de-thromboses-sur-30-cas-identifies-au-royaume-uni_6075480_3244.html |
-| White | https://www.lemonde.fr/m-le-mag/article/2021/04/02/avec-joe-biden-toute-la-diversite-des-etats-unis-au-pouvoir_6075391_4500055.html |
+| White | https://www.lemonde.fr/m-le-mag/article/2021/04/02/avec-joe-biden-toute-la-diversite-des-etats-unis-au-pouvoir_6075391_4500055.html || Cole | https://www.lemonde.fr/planete/article/2021/04/05/bons-plans-et-bouche-a-oreille-comment-certains-francais-se-font-vacciner-hors-les-clous-contre-le-covid-19_6075578_3244.html |
+| Yeshivot | https://www.lemonde.fr/m-le-mag/article/2021/04/02/elles-sont-la-honte-de-leur-famille-de-jeunes-rebelles-chez-les-ultraorthodoxes-d-israel_6075389_4500055.html |
+| Park. | https://www.lemonde.fr/sport/article/2021/04/05/bidons-seringues-valises-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6075580_3242.html |
+| Blend | https://www.lemonde.fr/m-le-mag/article/2021/04/04/aerer-se-mefier-des-produits-menagers-sept-conseils-pour-un-air-interieur-sain_6075563_4500055.html |
+| Emil | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html |
+| Helms | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html |
