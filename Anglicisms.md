@@ -524,4 +524,4 @@
 | Park. | https://www.lemonde.fr/sport/article/2021/04/05/bidons-seringues-valises-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6075580_3242.html |
 | Blend | https://www.lemonde.fr/m-le-mag/article/2021/04/04/aerer-se-mefier-des-produits-menagers-sept-conseils-pour-un-air-interieur-sain_6075563_4500055.html |
 | Emil | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html |
-| Helms | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html |
+| Helms | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html || Al-Sharif. | https://www.lemonde.fr/international/article/2021/04/05/en-jordanie-l-affaire-du-prince-hamza-divise-le-royaume_6075573_3210.html |
