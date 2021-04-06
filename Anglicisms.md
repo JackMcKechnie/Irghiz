@@ -524,4 +524,9 @@
 | Park. | https://www.lemonde.fr/sport/article/2021/04/05/bidons-seringues-valises-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6075580_3242.html |
 | Blend | https://www.lemonde.fr/m-le-mag/article/2021/04/04/aerer-se-mefier-des-produits-menagers-sept-conseils-pour-un-air-interieur-sain_6075563_4500055.html |
 | Emil | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html |
-| Helms | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html || Al-Sharif. | https://www.lemonde.fr/international/article/2021/04/05/en-jordanie-l-affaire-du-prince-hamza-divise-le-royaume_6075573_3210.html |
+| Helms | https://www.lemonde.fr/planete/article/2021/04/05/covid-19-dans-le-monde-l-immunite-collective-pourra-etre-atteinte-dans-l-ue-a-la-mi-juillet_6075577_3244.html || Al-Sharif. | https://www.lemonde.fr/international/article/2021/04/05/en-jordanie-l-affaire-du-prince-hamza-divise-le-royaume_6075573_3210.html || Planned | https://www.lemonde.fr/planete/live/2021/04/06/covid-19-en-direct-le-vaccinodrome-du-stade-de-france-ouvre-ses-portes-debut-d-une-campagne-massive_6075692_3244.html |
+| Month. | https://www.lemonde.fr/planete/live/2021/04/06/covid-19-en-direct-le-vaccinodrome-du-stade-de-france-ouvre-ses-portes-debut-d-une-campagne-massive_6075692_3244.html |
+| Noelle | https://www.lemonde.fr/planete/live/2021/04/06/covid-19-en-direct-le-vaccinodrome-du-stade-de-france-ouvre-ses-portes-debut-d-une-campagne-massive_6075692_3244.html |
+| Ny | https://www.lemonde.fr/actualite-medias/live/2021/04/06/en-direct-posez-vos-questions-sur-le-monde-son-fonctionnement-ses-choix-editoriaux_6075689_3236.html |
+| Inv | https://www.lemonde.fr/economie/article/2021/04/06/le-rapport-qui-acte-la-fin-de-la-croissance-folle-des-plateformes-vtc_6075711_3234.html |
+| Dag | https://www.lemonde.fr/afrique/article/2021/04/06/au-mozambique-un-nombre-important-de-djihadistes-tues-a-palma-selon-l-armee_6075715_3212.html |
