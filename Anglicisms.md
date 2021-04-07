@@ -529,4 +529,5 @@
 | Noelle | https://www.lemonde.fr/planete/live/2021/04/06/covid-19-en-direct-le-vaccinodrome-du-stade-de-france-ouvre-ses-portes-debut-d-une-campagne-massive_6075692_3244.html |
 | Ny | https://www.lemonde.fr/actualite-medias/live/2021/04/06/en-direct-posez-vos-questions-sur-le-monde-son-fonctionnement-ses-choix-editoriaux_6075689_3236.html |
 | Inv | https://www.lemonde.fr/economie/article/2021/04/06/le-rapport-qui-acte-la-fin-de-la-croissance-folle-des-plateformes-vtc_6075711_3234.html |
-| Dag | https://www.lemonde.fr/afrique/article/2021/04/06/au-mozambique-un-nombre-important-de-djihadistes-tues-a-palma-selon-l-armee_6075715_3212.html |
+| Dag | https://www.lemonde.fr/afrique/article/2021/04/06/au-mozambique-un-nombre-important-de-djihadistes-tues-a-palma-selon-l-armee_6075715_3212.html || Francois | https://www.lemonde.fr/politique/article/2021/04/07/francois-ruffin-macron-qui-decide-seul-pour-toute-la-france-ce-n-est-plus-tolerable_6075801_823448.html |
+| Psychiatry. | https://www.lemonde.fr/planete/article/2021/04/07/covid-19-un-patient-sur-trois-souffrirait-de-problemes-psychologiques-ou-neurologiques-ulterieurs_6075789_3244.html |
