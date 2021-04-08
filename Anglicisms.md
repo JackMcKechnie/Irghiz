@@ -530,4 +530,8 @@
 | Ny | https://www.lemonde.fr/actualite-medias/live/2021/04/06/en-direct-posez-vos-questions-sur-le-monde-son-fonctionnement-ses-choix-editoriaux_6075689_3236.html |
 | Inv | https://www.lemonde.fr/economie/article/2021/04/06/le-rapport-qui-acte-la-fin-de-la-croissance-folle-des-plateformes-vtc_6075711_3234.html |
 | Dag | https://www.lemonde.fr/afrique/article/2021/04/06/au-mozambique-un-nombre-important-de-djihadistes-tues-a-palma-selon-l-armee_6075715_3212.html || Francois | https://www.lemonde.fr/politique/article/2021/04/07/francois-ruffin-macron-qui-decide-seul-pour-toute-la-france-ce-n-est-plus-tolerable_6075801_823448.html |
-| Psychiatry. | https://www.lemonde.fr/planete/article/2021/04/07/covid-19-un-patient-sur-trois-souffrirait-de-problemes-psychologiques-ou-neurologiques-ulterieurs_6075789_3244.html |
+| Psychiatry. | https://www.lemonde.fr/planete/article/2021/04/07/covid-19-un-patient-sur-trois-souffrirait-de-problemes-psychologiques-ou-neurologiques-ulterieurs_6075789_3244.html || Protest. | https://www.lemonde.fr/international/article/2021/04/08/boris-johnson-condamne-une-nouvelle-nuit-de-violences-en-irlande-du-nord_6075990_3210.html |
+| Dark | https://www.lemonde.fr/societe/article/2021/04/08/affaire-haurus-six-personnes-renvoyees-devant-la-justice_6076004_3224.html |
+| Alamo | https://www.lemonde.fr/football/article/2021/04/08/ligue-des-champions-un-psg-toujours-aussi-insaisissable-surprend-le-bayern-munich_6075947_1616938.html |
+| Mount | https://www.lemonde.fr/football/article/2021/04/08/ligue-des-champions-un-psg-toujours-aussi-insaisissable-surprend-le-bayern-munich_6075947_1616938.html |
+| Deliberate. | https://www.lemonde.fr/international/article/2021/04/07/a-ankara-ursula-von-der-leyen-fait-les-frais-d-une-tres-sexiste-faute-de-protocole_6075893_3210.html |
