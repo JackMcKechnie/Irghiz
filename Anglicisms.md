@@ -537,4 +537,10 @@
 | Deliberate. | https://www.lemonde.fr/international/article/2021/04/07/a-ankara-ursula-von-der-leyen-fait-les-frais-d-une-tres-sexiste-faute-de-protocole_6075893_3210.html || Springfield | https://www.lemonde.fr/international/article/2021/04/09/en-irlande-du-nord-les-emeutes-se-nourrissent-du-sentiment-de-trahison-des-unionistes-apres-le-brexit_6076098_3210.html || Mirror | https://www.lemonde.fr/international/article/2021/04/10/mort-du-prince-philip-la-presse-britannique-rend-hommage-au-serviteur-le-plus-loyal-de-la-grande-bretagne_6076300_3210.html |
 | Longest | https://www.lemonde.fr/international/article/2021/04/10/mort-du-prince-philip-la-presse-britannique-rend-hommage-au-serviteur-le-plus-loyal-de-la-grande-bretagne_6076300_3210.html |
 | Missy | https://www.lemonde.fr/disparitions/article/2021/04/09/le-rappeur-americain-dmx-meurt-a-l-age-de-50-ans_6076239_3382.html |
-| Up. | https://www.lemonde.fr/disparitions/article/2021/04/09/le-rappeur-americain-dmx-meurt-a-l-age-de-50-ans_6076239_3382.html |
+| Up. | https://www.lemonde.fr/disparitions/article/2021/04/09/le-rappeur-americain-dmx-meurt-a-l-age-de-50-ans_6076239_3382.html || Estrada | https://www.lemonde.fr/international/article/2021/04/09/au-bresil-une-operation-anticorruption-aux-methodes-contestables_6076204_3210.html |
+| Teller | https://www.lemonde.fr/m-le-mag/article/2021/04/09/du-prophete-a-designe-coupable-tahar-rahim-propulse-dans-une-carriere-internationale_6076091_4500055.html |
+| Dz | https://www.lemonde.fr/blog/filiu/2021/04/11/scandale-de-debauche-en-public-a-dubai/ |
+| Bohemia | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
+| Virtual | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
+| Gun | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
+| Medal | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
