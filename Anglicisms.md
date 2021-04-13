@@ -543,4 +543,8 @@
 | Bohemia | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
 | Virtual | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
 | Gun | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
-| Medal | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html |
+| Medal | https://www.lemonde.fr/pixels/article/2021/04/10/six-days-in-fallujah-quand-le-sous-texte-politique-d-un-jeu-video-fait-polemique_6076292_4408996.html || Alps | https://www.lemonde.fr/planete/article/2021/04/13/le-japon-va-rejeter-dans-l-ocean-l-eau-contaminee-de-fukushima_6076540_3244.html |
+| Processing | https://www.lemonde.fr/planete/article/2021/04/13/le-japon-va-rejeter-dans-l-ocean-l-eau-contaminee-de-fukushima_6076540_3244.html |
+| Knoxville | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
+| Austin-East | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
+| Columbine | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
