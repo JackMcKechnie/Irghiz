@@ -547,4 +547,6 @@
 | Processing | https://www.lemonde.fr/planete/article/2021/04/13/le-japon-va-rejeter-dans-l-ocean-l-eau-contaminee-de-fukushima_6076540_3244.html |
 | Knoxville | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
 | Austin-East | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
-| Columbine | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
+| Columbine | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html || Burn | https://www.lemonde.fr/planete/article/2021/04/14/un-avenir-sans-fumee-la-guerre-secrete-de-philip-morris-contre-l-oms_6076704_3244.html |
+| Smoke-Free | https://www.lemonde.fr/planete/article/2021/04/14/un-avenir-sans-fumee-la-guerre-secrete-de-philip-morris-contre-l-oms_6076704_3244.html |
+| Bund | https://www.lemonde.fr/economie/article/2021/04/14/en-depit-de-la-pandemie-de-covid-19-lvmh-est-au-sommet-de-son-art_6076727_3234.html |
