@@ -549,4 +549,6 @@
 | Austin-East | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html |
 | Columbine | https://www.lemonde.fr/international/article/2021/04/13/etats-unis-une-fusillade-dans-un-lycee-du-tennessee-fait-plusieurs-blesses_6076533_3210.html || Burn | https://www.lemonde.fr/planete/article/2021/04/14/un-avenir-sans-fumee-la-guerre-secrete-de-philip-morris-contre-l-oms_6076704_3244.html |
 | Smoke-Free | https://www.lemonde.fr/planete/article/2021/04/14/un-avenir-sans-fumee-la-guerre-secrete-de-philip-morris-contre-l-oms_6076704_3244.html |
-| Bund | https://www.lemonde.fr/economie/article/2021/04/14/en-depit-de-la-pandemie-de-covid-19-lvmh-est-au-sommet-de-son-art_6076727_3234.html |
+| Bund | https://www.lemonde.fr/economie/article/2021/04/14/en-depit-de-la-pandemie-de-covid-19-lvmh-est-au-sommet-de-son-art_6076727_3234.html || Fatality | https://www.lemonde.fr/planete/live/2021/04/15/la-france-deplore-plus-de-100-000-morts-du-covid-19-suivez-les-dernieres-informations-et-posez-vos-questions_6076846_3244.html |
+| Legal | https://www.lemonde.fr/planete/article/2021/04/15/covid-19-la-suspension-des-vols-venant-du-bresil-une-mesure-jugee-tardive-et-insuffisante_6076863_3244.html |
+| Jackson | https://www.lemonde.fr/economie/article/2021/04/15/bourse-bernard-madoff-l-aveuglement-et-la-complaisance-en-heritage_6076852_3234.html |
