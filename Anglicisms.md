@@ -554,4 +554,5 @@
 | Jackson | https://www.lemonde.fr/economie/article/2021/04/15/bourse-bernard-madoff-l-aveuglement-et-la-complaisance-en-heritage_6076852_3234.html || Scala | https://www.lemonde.fr/culture/article/2021/04/16/nomme-directeur-musical-de-l-opera-de-paris-gustavo-dudamel-ouvre-une-nouvelle-ere_6077006_3246.html |
 | Bowl | https://www.lemonde.fr/culture/article/2021/04/16/nomme-directeur-musical-de-l-opera-de-paris-gustavo-dudamel-ouvre-une-nouvelle-ere_6077006_3246.html |
 | Kerry | https://www.lemonde.fr/international/article/2021/04/16/pekin-cree-un-couac-diplomatique-autour-d-un-sommet-sur-le-climat_6077015_3210.html |
-| Boer | https://www.lemonde.fr/international/article/2021/04/16/pekin-cree-un-couac-diplomatique-autour-d-un-sommet-sur-le-climat_6077015_3210.html |
+| Boer | https://www.lemonde.fr/international/article/2021/04/16/pekin-cree-un-couac-diplomatique-autour-d-un-sommet-sur-le-climat_6077015_3210.html || Yemen | https://www.lemonde.fr/blog/filiu/2021/04/18/pourquoi-la-france-perd-sur-les-deux-tableaux-en-algerie/ |
+| Edition. | https://www.lemonde.fr/culture/article/2021/04/17/the-who-sell-out-indemodable-chef-d-uvre-pop_6077115_3246.html |
