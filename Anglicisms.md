@@ -555,4 +555,12 @@
 | Bowl | https://www.lemonde.fr/culture/article/2021/04/16/nomme-directeur-musical-de-l-opera-de-paris-gustavo-dudamel-ouvre-une-nouvelle-ere_6077006_3246.html |
 | Kerry | https://www.lemonde.fr/international/article/2021/04/16/pekin-cree-un-couac-diplomatique-autour-d-un-sommet-sur-le-climat_6077015_3210.html |
 | Boer | https://www.lemonde.fr/international/article/2021/04/16/pekin-cree-un-couac-diplomatique-autour-d-un-sommet-sur-le-climat_6077015_3210.html || Yemen | https://www.lemonde.fr/blog/filiu/2021/04/18/pourquoi-la-france-perd-sur-les-deux-tableaux-en-algerie/ |
-| Edition. | https://www.lemonde.fr/culture/article/2021/04/17/the-who-sell-out-indemodable-chef-d-uvre-pop_6077115_3246.html 
+| Edition. | https://www.lemonde.fr/culture/article/2021/04/17/the-who-sell-out-indemodable-chef-d-uvre-pop_6077115_3246.html | Stamford | https://www.lemonde.fr/football/article/2021/04/21/l-atletico-madrid-et-l-inter-milan-se-retirent-a-leur-tour-du-projet-de-super-ligue-de-football_6077536_1616938.html |
+| Beyond | https://www.lemonde.fr/economie/article/2021/04/21/pionnier-de-la-motorisation-hybride-toyota-se-met-enfin-au-tout-electrique_6077519_3234.html |
+| C-Hr | https://www.lemonde.fr/economie/article/2021/04/21/pionnier-de-la-motorisation-hybride-toyota-se-met-enfin-au-tout-electrique_6077519_3234.html |
+| Involved | https://www.lemonde.fr/international/article/2021/04/21/manifestations-dans-l-ohio-apres-la-mort-d-une-jeune-femme-noire-americaine-tuee-par-la-police_6077537_3210.html |
+| Welcome | https://www.lemonde.fr/international/article/2021/04/21/la-cour-constitutionnelle-allemande-rejette-un-recours-contre-le-plan-de-relance-europeen_6077520_3210.html |
+| Hampton | https://www.lemonde.fr/culture/article/2021/04/21/les-huit-films-en-lice-pour-l-oscar-supreme-du-meilleur-long-metrage_6077524_3246.html |
+| Panthers | https://www.lemonde.fr/culture/article/2021/04/21/les-huit-films-en-lice-pour-l-oscar-supreme-du-meilleur-long-metrage_6077524_3246.html |
+| Mulligan | https://www.lemonde.fr/culture/article/2021/04/21/les-huit-films-en-lice-pour-l-oscar-supreme-du-meilleur-long-metrage_6077524_3246.html |
+| Lech | https://www.lemonde.fr/idees/article/2021/04/21/la-guerre-froide-avait-ses-rassurantes-certitudes-aujourd-hui-nos-lignes-rouges-sont-brouillees_6077479_3232.html |
