@@ -566,4 +566,8 @@
 | Lech | https://www.lemonde.fr/idees/article/2021/04/21/la-guerre-froide-avait-ses-rassurantes-certitudes-aujourd-hui-nos-lignes-rouges-sont-brouillees_6077479_3232.html || Ina | https://www.lemonde.fr/disparitions/article/2021/04/22/l-historien-francais-marc-ferro-est-mort_6077641_3382.html |
 | Disney’S | https://www.lemonde.fr/planete/article/2021/04/21/covid-19-en-france-les-voyageurs-venant-d-inde-soumis-eux-aussi-a-un-isolement-obligatoire-de-dix-jours_6077545_3244.html |
 | Newport | https://www.lemonde.fr/planete/article/2021/04/21/covid-19-en-france-les-voyageurs-venant-d-inde-soumis-eux-aussi-a-un-isolement-obligatoire-de-dix-jours_6077545_3244.html |
-| Boone | https://www.lemonde.fr/economie/article/2021/04/22/danone-le-choix-du-successeur-d-emmanuel-faber-est-imminent_6077649_3234.html |
+| Boone | https://www.lemonde.fr/economie/article/2021/04/22/danone-le-choix-du-successeur-d-emmanuel-faber-est-imminent_6077649_3234.html || Blantyre | https://www.lemonde.fr/planete/article/2021/04/23/covid-19-la-solidarite-mondiale-a-la-peine-pour-l-acces-aux-vaccins-aux-traitements-et-aux-tests_6077725_3244.html |
+| Spike. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/04/22/covid-19-ce-quon-sait-et-ce-quon-ignore-sur-le-variant-indien/ |
+| Concern | https://www.lemonde.fr/blog/realitesbiomedicales/2021/04/22/covid-19-ce-quon-sait-et-ce-quon-ignore-sur-le-variant-indien/ |
+| Crawford | https://www.lemonde.fr/blog/realitesbiomedicales/2021/04/22/covid-19-ce-quon-sait-et-ce-quon-ignore-sur-le-variant-indien/ |
+| Antibodies. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/04/22/covid-19-ce-quon-sait-et-ce-quon-ignore-sur-le-variant-indien/ |
