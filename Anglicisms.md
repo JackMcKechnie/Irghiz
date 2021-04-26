@@ -580,4 +580,14 @@
 | Kef | https://www.lemonde.fr/guides-d-achat/article/2020/04/11/les-meilleurs-amplis-de-home-cinema_6036348_5306571.html |
 | Anthem | https://www.lemonde.fr/guides-d-achat/article/2020/04/11/les-meilleurs-amplis-de-home-cinema_6036348_5306571.html |
 | Anthem. | https://www.lemonde.fr/guides-d-achat/article/2020/04/11/les-meilleurs-amplis-de-home-cinema_6036348_5306571.html |
-| Pioneer | https://www.lemonde.fr/guides-d-achat/article/2020/04/11/les-meilleurs-amplis-de-home-cinema_6036348_5306571.html |
+| Pioneer | https://www.lemonde.fr/guides-d-achat/article/2020/04/11/les-meilleurs-amplis-de-home-cinema_6036348_5306571.html || Scraping | https://www.lemonde.fr/pixels/article/2021/04/26/facebook-linkedin-clubhouse-des-fuites-de-donnees-personnelles-tres-problematiques_6078108_4408996.html |
+| Alarm | https://www.lemonde.fr/international/article/2021/04/26/naufrage-de-130-migrants-en-mediterranee-le-moment-de-la-honte-selon-le-pape-francois_6078102_3210.html |
+| Biology. | https://www.lemonde.fr/sciences/article/2021/04/25/debarrassees-des-rats-les-iles-eparses-retrouvent-leur-biodiversite_6078017_1650684.html |
+| English | https://www.lemonde.fr/football/article/2021/04/26/football-contre-le-racisme-en-ligne-les-clubs-anglais-annoncent-un-boycott-des-reseaux-sociaux_6078095_1616938.html |
+| Swansea | https://www.lemonde.fr/football/article/2021/04/26/football-contre-le-racisme-en-ligne-les-clubs-anglais-annoncent-un-boycott-des-reseaux-sociaux_6078095_1616938.html |
+| Giro | https://www.lemonde.fr/sport/article/2021/04/26/le-sourire-avant-le-ko-pongiste-precoce-et-chauffeur-du-dimanche-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6078057_3242.html |
+| Barcelona | https://www.lemonde.fr/sport/article/2021/04/26/le-sourire-avant-le-ko-pongiste-precoce-et-chauffeur-du-dimanche-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6078057_3242.html |
+| Crashed | https://www.lemonde.fr/sport/article/2021/04/26/le-sourire-avant-le-ko-pongiste-precoce-et-chauffeur-du-dimanche-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6078057_3242.html |
+| Truth. | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html |
+| Walters | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html |
+| Nothing | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html |
