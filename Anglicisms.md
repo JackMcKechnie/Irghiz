@@ -590,4 +590,4 @@
 | Crashed | https://www.lemonde.fr/sport/article/2021/04/26/le-sourire-avant-le-ko-pongiste-precoce-et-chauffeur-du-dimanche-ce-qu-il-fallait-aussi-retenir-du-week-end-sportif_6078057_3242.html |
 | Truth. | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html |
 | Walters | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html |
-| Nothing | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html |
+| Nothing | https://www.lemonde.fr/sport/article/2021/04/26/super-ligue-les-supporters-ne-veulent-plus-voir-leurs-clubs-transformes-en-decor-touristique-ou-en-marques-mondiales_6078079_3242.html || Kris | https://www.lemonde.fr/economie/article/2021/04/27/mindgeek-la-sulfureuse-sex-tech-de-montreal_6078170_3234.html |
