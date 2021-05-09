@@ -608,4 +608,4 @@
 | Riley | https://www.lemonde.fr/culture/article/2021/05/06/selection-albums-marie-andree-joerger-snorre-kirk-maxwell-farrington-amp-le-superhomard-ponta-preta-et-7-jaws_6079384_3246.html |
 | Basie | https://www.lemonde.fr/culture/article/2021/05/06/selection-albums-marie-andree-joerger-snorre-kirk-maxwell-farrington-amp-le-superhomard-ponta-preta-et-7-jaws_6079384_3246.html |
 | Early | https://www.lemonde.fr/culture/article/2021/05/06/selection-albums-marie-andree-joerger-snorre-kirk-maxwell-farrington-amp-le-superhomard-ponta-preta-et-7-jaws_6079384_3246.html |
-| Times. | https://www.lemonde.fr/economie/article/2021/05/08/liberty-steel-cherche-des-repreneurs-eventuels-pour-ascoval-et-hayange_6079607_3234.html |
+| Times. | https://www.lemonde.fr/economie/article/2021/05/08/liberty-steel-cherche-des-repreneurs-eventuels-pour-ascoval-et-hayange_6079607_3234.html || Vita | https://www.lemonde.fr/livres/article/2021/05/09/a-bonne-distance-de-dante-entre-les-silences_6079632_3260.html |
