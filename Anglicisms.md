@@ -608,4 +608,13 @@
 | Riley | https://www.lemonde.fr/culture/article/2021/05/06/selection-albums-marie-andree-joerger-snorre-kirk-maxwell-farrington-amp-le-superhomard-ponta-preta-et-7-jaws_6079384_3246.html |
 | Basie | https://www.lemonde.fr/culture/article/2021/05/06/selection-albums-marie-andree-joerger-snorre-kirk-maxwell-farrington-amp-le-superhomard-ponta-preta-et-7-jaws_6079384_3246.html |
 | Early | https://www.lemonde.fr/culture/article/2021/05/06/selection-albums-marie-andree-joerger-snorre-kirk-maxwell-farrington-amp-le-superhomard-ponta-preta-et-7-jaws_6079384_3246.html |
-| Times. | https://www.lemonde.fr/economie/article/2021/05/08/liberty-steel-cherche-des-repreneurs-eventuels-pour-ascoval-et-hayange_6079607_3234.html || Vita | https://www.lemonde.fr/livres/article/2021/05/09/a-bonne-distance-de-dante-entre-les-silences_6079632_3260.html |
+| Times. | https://www.lemonde.fr/economie/article/2021/05/08/liberty-steel-cherche-des-repreneurs-eventuels-pour-ascoval-et-hayange_6079607_3234.html || Vita | https://www.lemonde.fr/livres/article/2021/05/09/a-bonne-distance-de-dante-entre-les-silences_6079632_3260.html || Lateral | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Assay | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Grub | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Asymptomatic | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Antibody | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Neutralizing | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Persist | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Committee | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Review | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Mind | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
