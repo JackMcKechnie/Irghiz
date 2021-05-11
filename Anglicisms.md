@@ -617,4 +617,6 @@
 | Persist | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
 | Committee | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
 | Review | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
-| Mind | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
+| Mind | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html || Success | https://www.lemonde.fr/planete/article/2021/05/11/covid-19-dans-le-monde-la-riposte-aux-variants-s-organise_6079808_3244.html |
+| Lambeth | https://www.lemonde.fr/planete/article/2021/05/11/astrazeneca-la-confiance-des-britanniques-ne-flechit-pas_6079844_3244.html |
+| Hartford | https://www.lemonde.fr/planete/article/2021/05/10/covid-19-dans-le-monde-le-vaccin-de-johnson-amp-johnson-pour-tous-les-adultes-en-allemagne-la-grece-rouvre-ses-ecoles_6079746_3244.html |
