@@ -619,4 +619,5 @@
 | Review | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html |
 | Mind | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html || Success | https://www.lemonde.fr/planete/article/2021/05/11/covid-19-dans-le-monde-la-riposte-aux-variants-s-organise_6079808_3244.html |
 | Lambeth | https://www.lemonde.fr/planete/article/2021/05/11/astrazeneca-la-confiance-des-britanniques-ne-flechit-pas_6079844_3244.html |
-| Hartford | https://www.lemonde.fr/planete/article/2021/05/10/covid-19-dans-le-monde-le-vaccin-de-johnson-amp-johnson-pour-tous-les-adultes-en-allemagne-la-grece-rouvre-ses-ecoles_6079746_3244.html |
+| Hartford | https://www.lemonde.fr/planete/article/2021/05/10/covid-19-dans-le-monde-le-vaccin-de-johnson-amp-johnson-pour-tous-les-adultes-en-allemagne-la-grece-rouvre-ses-ecoles_6079746_3244.html || Rn-Union | https://www.lemonde.fr/politique/article/2021/05/12/regionales-en-paca-renaud-muselier-annonce-qu-il-y-aura-des-membres-lrm-sur-sa-liste-mais-pas-de-ministre-ni-de-parlementaire_6079981_823448.html |
+| Olympia | https://www.lemonde.fr/culture/article/2021/05/12/l-olympia-rouvre-ses-portes-en-juin-avec-le-festival-des-inrocks_6079991_3246.html |
