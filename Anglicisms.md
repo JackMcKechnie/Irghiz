@@ -620,4 +620,11 @@
 | Mind | https://www.lemonde.fr/les-decodeurs/article/2021/05/10/comment-bien-lire-et-comprendre-une-etude-scientifique_6079705_4355770.html || Success | https://www.lemonde.fr/planete/article/2021/05/11/covid-19-dans-le-monde-la-riposte-aux-variants-s-organise_6079808_3244.html |
 | Lambeth | https://www.lemonde.fr/planete/article/2021/05/11/astrazeneca-la-confiance-des-britanniques-ne-flechit-pas_6079844_3244.html |
 | Hartford | https://www.lemonde.fr/planete/article/2021/05/10/covid-19-dans-le-monde-le-vaccin-de-johnson-amp-johnson-pour-tous-les-adultes-en-allemagne-la-grece-rouvre-ses-ecoles_6079746_3244.html || Rn-Union | https://www.lemonde.fr/politique/article/2021/05/12/regionales-en-paca-renaud-muselier-annonce-qu-il-y-aura-des-membres-lrm-sur-sa-liste-mais-pas-de-ministre-ni-de-parlementaire_6079981_823448.html |
-| Olympia | https://www.lemonde.fr/culture/article/2021/05/12/l-olympia-rouvre-ses-portes-en-juin-avec-le-festival-des-inrocks_6079991_3246.html |
+| Olympia | https://www.lemonde.fr/culture/article/2021/05/12/l-olympia-rouvre-ses-portes-en-juin-avec-le-festival-des-inrocks_6079991_3246.html || Helene | https://www.lemonde.fr/societe/article/2021/05/13/le-president-lrm-de-la-region-guadeloupe-mis-en-garde-a-vue-plus-de-trente-heures-pour-detournement-de-fonds-publics_6080091_3224.html |
+| Valenzuela | https://www.lemonde.fr/societe/article/2021/05/13/le-president-lrm-de-la-region-guadeloupe-mis-en-garde-a-vue-plus-de-trente-heures-pour-detournement-de-fonds-publics_6080091_3224.html |
+| Rendering | https://www.lemonde.fr/economie/article/2021/05/11/saint-ouen-un-territoire-en-pleine-mutation-qui-s-apprete-a-accueillir-le-chu-grand-paris-nord_6079881_3234.html |
+| Only | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
+| Crispy | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
+| Concords | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
+| Sleep | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
+| Sacks | https://www.lemonde.fr/sciences/article/2021/05/12/autobiographie-d-un-poulpe-les-fables-symbiotiques-de-vinciane-despret_6079944_1650684.html |
