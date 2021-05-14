@@ -627,4 +627,9 @@
 | Crispy | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
 | Concords | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
 | Sleep | https://www.lemonde.fr/pixels/article/2021/05/13/gagner-sa-vie-en-dormant-comment-des-videastes-diffusent-leur-sommeil-en-direct_6080054_4408996.html |
-| Sacks | https://www.lemonde.fr/sciences/article/2021/05/12/autobiographie-d-un-poulpe-les-fables-symbiotiques-de-vinciane-despret_6079944_1650684.html |
+| Sacks | https://www.lemonde.fr/sciences/article/2021/05/12/autobiographie-d-un-poulpe-les-fables-symbiotiques-de-vinciane-despret_6079944_1650684.html || Augmented | https://www.lemonde.fr/international/article/2021/05/14/des-milliers-de-soldats-israeliens-se-massent-autour-de-gaza_6080170_3210.html |
+| Vidal-Revel | https://www.lemonde.fr/economie/article/2021/05/14/a-europe-1-la-direction-dediabolise-bollore_6080189_3234.html |
+| Nordic | https://www.lemonde.fr/international/article/2021/05/14/en-suede-les-dessous-peu-reluisants-de-la-tele-realite_6080139_3210.html |
+| Undefined | https://www.lemonde.fr/planete/article/2021/05/13/vaccination-anti-covid-pour-les-plus-de-18-ans-ou-et-comment-prendre-rendez-vous_6080114_3244.html |
+| Clement | https://www.lemonde.fr/societe/article/2021/05/13/cevennes-un-appel-a-temoins-lance-pour-retrouver-le-suspect-du-double-meurtre_6080098_3224.html |
+| Jutland. | https://www.lemonde.fr/economie/article/2021/05/13/dans-les-pays-nordiques-les-etudiants-sont-moins-sujets-a-la-crise_6080062_3234.html |
