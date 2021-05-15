@@ -632,4 +632,7 @@
 | Nordic | https://www.lemonde.fr/international/article/2021/05/14/en-suede-les-dessous-peu-reluisants-de-la-tele-realite_6080139_3210.html |
 | Undefined | https://www.lemonde.fr/planete/article/2021/05/13/vaccination-anti-covid-pour-les-plus-de-18-ans-ou-et-comment-prendre-rendez-vous_6080114_3244.html |
 | Clement | https://www.lemonde.fr/societe/article/2021/05/13/cevennes-un-appel-a-temoins-lance-pour-retrouver-le-suspect-du-double-meurtre_6080098_3224.html |
-| Jutland. | https://www.lemonde.fr/economie/article/2021/05/13/dans-les-pays-nordiques-les-etudiants-sont-moins-sujets-a-la-crise_6080062_3234.html |
+| Jutland. | https://www.lemonde.fr/economie/article/2021/05/13/dans-les-pays-nordiques-les-etudiants-sont-moins-sujets-a-la-crise_6080062_3234.html || Corp | https://www.lemonde.fr/pixels/article/2021/05/15/karmine-corp-un-club-atypique-au-sommet-de-l-e-sport-francais_6080299_4408996.html |
+| Legends | https://www.lemonde.fr/pixels/article/2021/05/15/karmine-corp-un-club-atypique-au-sommet-de-l-e-sport-francais_6080299_4408996.html |
+| Legends. | https://www.lemonde.fr/pixels/article/2021/05/15/karmine-corp-un-club-atypique-au-sommet-de-l-e-sport-francais_6080299_4408996.html |
+| Levy | https://www.lemonde.fr/m-perso/article/2021/05/15/un-apero-avec-aurelie-valognes-en-ecrivant-j-ai-tout-lache-je-pleurais-beaucoup_6080269_4497916.html |
