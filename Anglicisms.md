@@ -635,4 +635,12 @@
 | Jutland. | https://www.lemonde.fr/economie/article/2021/05/13/dans-les-pays-nordiques-les-etudiants-sont-moins-sujets-a-la-crise_6080062_3234.html || Corp | https://www.lemonde.fr/pixels/article/2021/05/15/karmine-corp-un-club-atypique-au-sommet-de-l-e-sport-francais_6080299_4408996.html |
 | Legends | https://www.lemonde.fr/pixels/article/2021/05/15/karmine-corp-un-club-atypique-au-sommet-de-l-e-sport-francais_6080299_4408996.html |
 | Legends. | https://www.lemonde.fr/pixels/article/2021/05/15/karmine-corp-un-club-atypique-au-sommet-de-l-e-sport-francais_6080299_4408996.html |
-| Levy | https://www.lemonde.fr/m-perso/article/2021/05/15/un-apero-avec-aurelie-valognes-en-ecrivant-j-ai-tout-lache-je-pleurais-beaucoup_6080269_4497916.html |
+| Levy | https://www.lemonde.fr/m-perso/article/2021/05/15/un-apero-avec-aurelie-valognes-en-ecrivant-j-ai-tout-lache-je-pleurais-beaucoup_6080269_4497916.html || Yellowstone | https://www.lemonde.fr/international/article/2021/05/16/israel-palestine-nouveaux-bombardements-meurtriers-a-gaza-le-domicile-du-chef-du-hamas-vise-par-l-armee_6080356_3210.html |
+| Bate | https://www.lemonde.fr/m-le-mag/article/2021/05/14/dans-les-favelas-de-rio-les-narcopentecotistes-persecutent-les-pratiquants-de-candomble_6080233_4500055.html |
+| Walled | https://www.lemonde.fr/blog/filiu/2021/05/16/le-mythe-des-balles-en-caoutchouc-israeliennes/ |
+| Ajar | https://www.lemonde.fr/blog/filiu/2021/05/16/le-mythe-des-balles-en-caoutchouc-israeliennes/ |
+| Bad | https://www.lemonde.fr/blog/filiu/2021/05/16/le-mythe-des-balles-en-caoutchouc-israeliennes/ |
+| Rubber | https://www.lemonde.fr/blog/filiu/2021/05/16/le-mythe-des-balles-en-caoutchouc-israeliennes/ |
+| Maia | https://www.lemonde.fr/m-perso/article/2021/05/16/sexualite-quand-les-femmes-ont-peur-des-hommes_6080327_4497916.html |
+| Dating | https://www.lemonde.fr/m-perso/article/2021/05/16/sexualite-quand-les-femmes-ont-peur-des-hommes_6080327_4497916.html |
+| Gonzalez | https://www.lemonde.fr/societe/article/2021/05/15/sans-la-fete-j-ai-le-sentiment-d-avoir-perdu-le-sel-de-ma-vie_6080322_3224.html |
