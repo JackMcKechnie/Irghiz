@@ -643,4 +643,8 @@
 | Rubber | https://www.lemonde.fr/blog/filiu/2021/05/16/le-mythe-des-balles-en-caoutchouc-israeliennes/ |
 | Maia | https://www.lemonde.fr/m-perso/article/2021/05/16/sexualite-quand-les-femmes-ont-peur-des-hommes_6080327_4497916.html |
 | Dating | https://www.lemonde.fr/m-perso/article/2021/05/16/sexualite-quand-les-femmes-ont-peur-des-hommes_6080327_4497916.html |
-| Gonzalez | https://www.lemonde.fr/societe/article/2021/05/15/sans-la-fete-j-ai-le-sentiment-d-avoir-perdu-le-sel-de-ma-vie_6080322_3224.html |
+| Gonzalez | https://www.lemonde.fr/societe/article/2021/05/15/sans-la-fete-j-ai-le-sentiment-d-avoir-perdu-le-sel-de-ma-vie_6080322_3224.html || Pietermaritzburg | https://www.lemonde.fr/afrique/article/2021/05/17/afrique-du-sud-le-proces-pour-corruption-de-l-ancien-president-jacob-zuma-reporte-au-26-mai_6080459_3212.html |
+| Wkly | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
+| Outbreak | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
+| Chest. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
+| Korea. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
