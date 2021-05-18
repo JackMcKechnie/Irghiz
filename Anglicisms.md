@@ -647,4 +647,4 @@
 | Wkly | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
 | Outbreak | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
 | Chest. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
-| Korea. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
+| Korea. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ 
