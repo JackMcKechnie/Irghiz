@@ -647,4 +647,5 @@
 | Wkly | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
 | Outbreak | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
 | Chest. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ |
-| Korea. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ 
+| Korea. | https://www.lemonde.fr/blog/realitesbiomedicales/2021/05/17/covid-19-clusters-dans-des-salles-de-sport-aux-etats-unis/ | Keepers | https://www.lemonde.fr/international/article/2021/05/19/assaut-du-capitole-la-justice-americaine-a-deja-inculpe-plus-de-quatre-cents-emeutiers_6080707_3210.html |
+| Seen | https://www.lemonde.fr/m-le-mag/article/2021/05/19/au-centre-pompidou-hito-steyerl-demele-les-ficelles-qui-manipulent-nos-cerveaux-connectes_6080683_4500055.html |
