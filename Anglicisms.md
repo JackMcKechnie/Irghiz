@@ -651,4 +651,8 @@
 | Seen | https://www.lemonde.fr/m-le-mag/article/2021/05/19/au-centre-pompidou-hito-steyerl-demele-les-ficelles-qui-manipulent-nos-cerveaux-connectes_6080683_4500055.html || Yunnan | https://www.lemonde.fr/les-decodeurs/article/2021/05/20/origine-du-sars-cov-2-un-an-et-demi-apres-plus-de-questions-que-de-reponses_6080863_4355770.html |
 | Arctic | https://www.lemonde.fr/planete/article/2021/05/20/l-arctique-se-rechauffe-trois-fois-plus-vite-que-la-planete-selon-un-rapport-du-psea_6080887_3244.html |
 | Pip | https://www.lemonde.fr/societe/article/2021/05/20/protheses-mammaires-pip-le-certificateur-tuv-reconnu-coupable-par-la-cour-d-appel-de-paris_6080866_3224.html |
-| Task | https://www.lemonde.fr/international/article/2021/05/20/le-danemark-va-rapatrier-des-familles-de-djihadistes-detenues-en-syrie_6080839_3210.html |
+| Task | https://www.lemonde.fr/international/article/2021/05/20/le-danemark-va-rapatrier-des-familles-de-djihadistes-detenues-en-syrie_6080839_3210.html || Railways | https://www.lemonde.fr/economie/article/2021/05/21/le-plus-grand-changement-ferroviaire-depuis-vingt-cinq-ans-au-royaume-uni-l-etat-reprend-le-controle-des-trains_6081008_3234.html |
+| Architect | https://www.lemonde.fr/culture/article/2021/05/14/musees-et-expositions-30-idees-de-sortie-pour-la-reouverture-des-lieux-culturels_6080138_3246.html |
+| Sherrie | https://www.lemonde.fr/culture/article/2021/05/14/musees-et-expositions-30-idees-de-sortie-pour-la-reouverture-des-lieux-culturels_6080138_3246.html |
+| Atacama | https://www.lemonde.fr/big-browser/article/2021/05/21/le-surprenant-et-fructueux-trafic-international-de-cactus_6081064_4832693.html |
+| Shandong | https://www.lemonde.fr/planete/article/2021/05/21/covid-19-dans-le-monde-le-bresil-a-detecte-des-premiers-cas-de-variant-indien_6080956_3244.html |
