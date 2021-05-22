@@ -655,4 +655,8 @@
 | Architect | https://www.lemonde.fr/culture/article/2021/05/14/musees-et-expositions-30-idees-de-sortie-pour-la-reouverture-des-lieux-culturels_6080138_3246.html |
 | Sherrie | https://www.lemonde.fr/culture/article/2021/05/14/musees-et-expositions-30-idees-de-sortie-pour-la-reouverture-des-lieux-culturels_6080138_3246.html |
 | Atacama | https://www.lemonde.fr/big-browser/article/2021/05/21/le-surprenant-et-fructueux-trafic-international-de-cactus_6081064_4832693.html |
-| Shandong | https://www.lemonde.fr/planete/article/2021/05/21/covid-19-dans-le-monde-le-bresil-a-detecte-des-premiers-cas-de-variant-indien_6080956_3244.html |
+| Shandong | https://www.lemonde.fr/planete/article/2021/05/21/covid-19-dans-le-monde-le-bresil-a-detecte-des-premiers-cas-de-variant-indien_6080956_3244.html || Adult | https://www.lemonde.fr/societe/article/2021/05/22/nous-arrivons-quand-le-mal-est-fait-la-justice-applique-la-loi-elle-ne-la-fait-pas_6081142_3224.html |
+| Gif | https://www.lemonde.fr/sport/live/2021/05/22/toulouse-la-rochelle-suivez-en-direct-la-finale-de-la-coupe-d-europe-de-rugby-2021_6081154_3242.html |
+| Tokens | https://www.lemonde.fr/culture/article/2021/05/20/les-maisons-de-ventes-cedent-a-la-fievre-des-nft-uvres-virtuelles_6080917_3246.html |
+| Destiny | https://www.lemonde.fr/culture/article/2021/05/22/eurovision-2021-l-italie-et-la-france-favorites-des-bookmakers_6081160_3246.html |
+| Ops | https://www.lemonde.fr/planete/article/2021/05/22/covid-19-dans-le-monde-l-allemagne-classe-la-grande-bretagne-comme-zone-de-mutation-des-variants_6081103_3244.html |
