@@ -659,4 +659,9 @@
 | Gif | https://www.lemonde.fr/sport/live/2021/05/22/toulouse-la-rochelle-suivez-en-direct-la-finale-de-la-coupe-d-europe-de-rugby-2021_6081154_3242.html |
 | Tokens | https://www.lemonde.fr/culture/article/2021/05/20/les-maisons-de-ventes-cedent-a-la-fievre-des-nft-uvres-virtuelles_6080917_3246.html |
 | Destiny | https://www.lemonde.fr/culture/article/2021/05/22/eurovision-2021-l-italie-et-la-france-favorites-des-bookmakers_6081160_3246.html |
-| Ops | https://www.lemonde.fr/planete/article/2021/05/22/covid-19-dans-le-monde-l-allemagne-classe-la-grande-bretagne-comme-zone-de-mutation-des-variants_6081103_3244.html |
+| Ops | https://www.lemonde.fr/planete/article/2021/05/22/covid-19-dans-le-monde-l-allemagne-classe-la-grande-bretagne-comme-zone-de-mutation-des-variants_6081103_3244.html || Americana | https://www.lemonde.fr/blog/filiu/2021/05/23/gagnants-et-perdants-de-la-crise-de-gaza/ |
+| Curtis. | https://www.lemonde.fr/culture/article/2021/05/23/l-operation-meuble-sur-france-5-quand-40-000-foyers-juifs-parisiens-etaient-livres-a-la-razzia-des-nazis_6081220_3246.html |
+| Gallery. | https://www.lemonde.fr/international/article/2021/05/23/le-journaliste-de-la-bbc-qui-a-interroge-lady-di-en-1995-s-excuse-et-se-defend_6081211_3210.html |
+| Anti-Money | https://www.lemonde.fr/idees/article/2021/05/23/argent-on-est-en-train-de-permettre-a-des-bitcoins-sales-de-devenir-des-bitcoins-propres_6081188_3232.html |
+| Stability | https://www.lemonde.fr/idees/article/2021/05/23/argent-on-est-en-train-de-permettre-a-des-bitcoins-sales-de-devenir-des-bitcoins-propres_6081188_3232.html |
+| Wooden | https://www.lemonde.fr/culture/article/2021/05/22/musique-les-dix-merveilles-de-l-album-deja-vu-nees-dans-les-tourments_6081120_3246.html |
