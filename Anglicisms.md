@@ -664,4 +664,6 @@
 | Gallery. | https://www.lemonde.fr/international/article/2021/05/23/le-journaliste-de-la-bbc-qui-a-interroge-lady-di-en-1995-s-excuse-et-se-defend_6081211_3210.html |
 | Anti-Money | https://www.lemonde.fr/idees/article/2021/05/23/argent-on-est-en-train-de-permettre-a-des-bitcoins-sales-de-devenir-des-bitcoins-propres_6081188_3232.html |
 | Stability | https://www.lemonde.fr/idees/article/2021/05/23/argent-on-est-en-train-de-permettre-a-des-bitcoins-sales-de-devenir-des-bitcoins-propres_6081188_3232.html |
-| Wooden | https://www.lemonde.fr/culture/article/2021/05/22/musique-les-dix-merveilles-de-l-album-deja-vu-nees-dans-les-tourments_6081120_3246.html |
+| Wooden | https://www.lemonde.fr/culture/article/2021/05/22/musique-les-dix-merveilles-de-l-album-deja-vu-nees-dans-les-tourments_6081120_3246.html || Borges | https://www.lemonde.fr/international/article/2021/05/24/en-baisse-dans-les-sondages-jair-bolsonaro-multiplie-les-rassemblements-a-plus-d-un-an-de-la-presidentielle_6081286_3210.html |
+| Castillo | https://www.lemonde.fr/international/article/2021/05/24/au-perou-la-droite-fait-bloc-pour-contrer-le-communiste-castillo_6081273_3210.html |
+| Faridabad | https://www.lemonde.fr/planete/article/2021/05/24/covid-19-dans-le-monde-le-japon-accelere-la-vaccination-avant-les-jeux-olympiques-l-inde-submergee-par-les-morts_6081252_3244.html |
