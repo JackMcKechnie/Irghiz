@@ -666,4 +666,8 @@
 | Stability | https://www.lemonde.fr/idees/article/2021/05/23/argent-on-est-en-train-de-permettre-a-des-bitcoins-sales-de-devenir-des-bitcoins-propres_6081188_3232.html |
 | Wooden | https://www.lemonde.fr/culture/article/2021/05/22/musique-les-dix-merveilles-de-l-album-deja-vu-nees-dans-les-tourments_6081120_3246.html || Borges | https://www.lemonde.fr/international/article/2021/05/24/en-baisse-dans-les-sondages-jair-bolsonaro-multiplie-les-rassemblements-a-plus-d-un-an-de-la-presidentielle_6081286_3210.html |
 | Castillo | https://www.lemonde.fr/international/article/2021/05/24/au-perou-la-droite-fait-bloc-pour-contrer-le-communiste-castillo_6081273_3210.html |
-| Faridabad | https://www.lemonde.fr/planete/article/2021/05/24/covid-19-dans-le-monde-le-japon-accelere-la-vaccination-avant-les-jeux-olympiques-l-inde-submergee-par-les-morts_6081252_3244.html |
+| Faridabad | https://www.lemonde.fr/planete/article/2021/05/24/covid-19-dans-le-monde-le-japon-accelere-la-vaccination-avant-les-jeux-olympiques-l-inde-submergee-par-les-morts_6081252_3244.html || Cvs. | https://www.lemonde.fr/economie/article/2021/05/25/l-economie-allemande-a-traverse-un-trou-d-air-au-premier-trimestre-et-attend-un-rebond_6081406_3234.html |
+| Etudes | https://www.lemonde.fr/societe/article/2021/05/25/reforme-des-etudes-de-sante-course-d-obstacles-pour-le-passage-en-deuxieme-annee_6081396_3224.html |
+| Pass | https://www.lemonde.fr/societe/article/2021/05/25/reforme-des-etudes-de-sante-course-d-obstacles-pour-le-passage-en-deuxieme-annee_6081396_3224.html |
+| Aristides | https://www.lemonde.fr/culture/article/2021/05/25/les-justes-turcs-un-trop-long-silence-sur-public-senat-l-autre-tabou-du-genocide-armenien_6081400_3246.html |
+| Fleury. | https://www.lemonde.fr/culture/article/2021/05/25/les-justes-turcs-un-trop-long-silence-sur-public-senat-l-autre-tabou-du-genocide-armenien_6081400_3246.html |
