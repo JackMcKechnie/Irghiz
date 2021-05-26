@@ -670,4 +670,4 @@
 | Etudes | https://www.lemonde.fr/societe/article/2021/05/25/reforme-des-etudes-de-sante-course-d-obstacles-pour-le-passage-en-deuxieme-annee_6081396_3224.html |
 | Pass | https://www.lemonde.fr/societe/article/2021/05/25/reforme-des-etudes-de-sante-course-d-obstacles-pour-le-passage-en-deuxieme-annee_6081396_3224.html |
 | Aristides | https://www.lemonde.fr/culture/article/2021/05/25/les-justes-turcs-un-trop-long-silence-sur-public-senat-l-autre-tabou-du-genocide-armenien_6081400_3246.html |
-| Fleury. | https://www.lemonde.fr/culture/article/2021/05/25/les-justes-turcs-un-trop-long-silence-sur-public-senat-l-autre-tabou-du-genocide-armenien_6081400_3246.html |
+| Fleury. | https://www.lemonde.fr/culture/article/2021/05/25/les-justes-turcs-un-trop-long-silence-sur-public-senat-l-autre-tabou-du-genocide-armenien_6081400_3246.html || Chinatown | https://www.lemonde.fr/international/article/2021/05/26/bangkok-fait-ses-adieux-a-sa-gare-iconique-et-signe-la-fin-d-une-epoque_6081452_3210.html |
