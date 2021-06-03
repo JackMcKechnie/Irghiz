@@ -676,4 +676,5 @@
 | Yates. | https://www.lemonde.fr/sport/article/2021/05/30/cyclisme-le-colombien-egan-bernal-remporte-son-premier-tour-d-italie_6082097_3242.html |
 | Bala | https://www.lemonde.fr/international/article/2021/05/28/vingt-ans-apres-leur-intervention-en-afghanistan-les-americains-s-en-vont-sur-un-sentiment-d-echec_6081907_3210.html |
 | Gp | https://www.lemonde.fr/sport/article/2021/05/30/moto-le-pilote-jason-dupasquier-meurt-a-l-age-de-19-ans-des-suites-d-un-accident-survenu-lors-du-grand-prix-d-italie_6082080_3242.html || -Vii. | https://www.lemonde.fr/societe/article/2021/06/02/a-l-universite-de-paris-climat-deletere-au-departement-d-etudes-psychanalytiques_6082493_3224.html |
-| Cherbourg | https://www.lemonde.fr/blog/autourduciel/2021/06/01/une-eclipse-de-soleil-dans-le-ciel-de-juin/ |
+| Cherbourg | https://www.lemonde.fr/blog/autourduciel/2021/06/01/une-eclipse-de-soleil-dans-le-ciel-de-juin/ || Terminator | https://www.lemonde.fr/big-browser/article/2021/06/03/l-utilisation-de-drones-tueurs-en-libye-reveille-le-spectre-de-robot-de-combats-autonomes_6082724_4832693.html |
+| Weapons | https://www.lemonde.fr/big-browser/article/2021/06/03/l-utilisation-de-drones-tueurs-en-libye-reveille-le-spectre-de-robot-de-combats-autonomes_6082724_4832693.html |
