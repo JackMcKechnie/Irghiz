@@ -680,4 +680,8 @@
 | Weapons | https://www.lemonde.fr/big-browser/article/2021/06/03/l-utilisation-de-drones-tueurs-en-libye-reveille-le-spectre-de-robot-de-combats-autonomes_6082724_4832693.html || Believe | https://www.lemonde.fr/politique/article/2021/06/10/regionales-2021-la-dynamique-en-trompe-l-oeil-du-rassemblement-national_6083599_823448.html |
 | Eclipse | https://www.lemonde.fr/sciences/article/2021/06/10/eclipse-partielle-de-soleil-ou-et-quand-l-observer_6083596_1650684.html |
 | Annapolis | https://www.lemonde.fr/economie/article/2021/06/10/climat-les-banques-europeennes-mal-preparees-a-la-perte-de-valeur-de-leurs-actifs-fossiles_6083587_3234.html |
-| One-Cent | https://www.lemonde.fr/argent/article/2021/06/10/philatelie-et-numismatique-deux-encheres-millionnaires-records_6083585_1657007.html |
+| One-Cent | https://www.lemonde.fr/argent/article/2021/06/10/philatelie-et-numismatique-deux-encheres-millionnaires-records_6083585_1657007.html || Contracting | https://www.lemonde.fr/politique/article/2021/06/12/une-marche-des-libertes-contre-l-extreme-droite-dans-140-villes-en-france_6083854_823448.html |
+| Wembley | https://www.lemonde.fr/sport/article/2021/06/12/euro-2021-le-danois-christian-eriksen-victime-d-un-malaise-le-match-contre-la-finlande-interrompu_6083907_3242.html |
+| Gallegos | https://www.lemonde.fr/international/article/2021/06/12/amlo-n-a-plus-les-coudees-franches-pour-transformer-le-mexique_6083868_3210.html |
+| Unzipped | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html |
+| Lips | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html |
