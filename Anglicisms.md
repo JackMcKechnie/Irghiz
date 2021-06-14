@@ -684,4 +684,4 @@
 | Wembley | https://www.lemonde.fr/sport/article/2021/06/12/euro-2021-le-danois-christian-eriksen-victime-d-un-malaise-le-match-contre-la-finlande-interrompu_6083907_3242.html |
 | Gallegos | https://www.lemonde.fr/international/article/2021/06/12/amlo-n-a-plus-les-coudees-franches-pour-transformer-le-mexique_6083868_3210.html |
 | Unzipped | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html |
-| Lips | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html |
+| Lips | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html || Sub-21 | https://www.lemonde.fr/sport/article/2021/06/14/la-gazette-de-l-euro-2021-dedicace-apaisement-et-retour-a-la-maison_6084027_3242.html |
