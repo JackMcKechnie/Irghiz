@@ -684,4 +684,10 @@
 | Wembley | https://www.lemonde.fr/sport/article/2021/06/12/euro-2021-le-danois-christian-eriksen-victime-d-un-malaise-le-match-contre-la-finlande-interrompu_6083907_3242.html |
 | Gallegos | https://www.lemonde.fr/international/article/2021/06/12/amlo-n-a-plus-les-coudees-franches-pour-transformer-le-mexique_6083868_3210.html |
 | Unzipped | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html |
-| Lips | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html || Sub-21 | https://www.lemonde.fr/sport/article/2021/06/14/la-gazette-de-l-euro-2021-dedicace-apaisement-et-retour-a-la-maison_6084027_3242.html |
+| Lips | https://www.lemonde.fr/culture/article/2021/06/12/a-marseille-le-stade-velodrome-retrace-la-gloire-des-rolling-stones_6083883_3246.html || Sub-21 | https://www.lemonde.fr/sport/article/2021/06/14/la-gazette-de-l-euro-2021-dedicace-apaisement-et-retour-a-la-maison_6084027_3242.html || Rolex | https://www.lemonde.fr/politique/article/2021/06/15/regionales-2021-la-majorite-sous-pression-face-au-risque-rn_6084156_823448.html |
+| Drastic | https://www.lemonde.fr/planete/article/2021/06/15/covid-19-a-wuhan-dans-les-laboratoires-et-sur-les-marches-des-animaux-inattendus_6084172_3244.html |
+| Comprehensive | https://www.lemonde.fr/international/article/2021/06/15/brexit-le-royaume-uni-conclut-un-accord-commercial-historique-avec-l-australie_6084217_3210.html |
+| Trans-Pacific | https://www.lemonde.fr/international/article/2021/06/15/brexit-le-royaume-uni-conclut-un-accord-commercial-historique-avec-l-australie_6084217_3210.html |
+| Cush | https://www.lemonde.fr/culture/article/2021/06/15/apocalypse-dieu-de-la-malice-vengeance-maternelle-et-gym-tonique-nos-idees-de-series_6084143_3246.html |
+| Cod | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html |
+| Josiah | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html |
