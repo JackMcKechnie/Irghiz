@@ -690,4 +690,5 @@
 | Trans-Pacific | https://www.lemonde.fr/international/article/2021/06/15/brexit-le-royaume-uni-conclut-un-accord-commercial-historique-avec-l-australie_6084217_3210.html |
 | Cush | https://www.lemonde.fr/culture/article/2021/06/15/apocalypse-dieu-de-la-malice-vengeance-maternelle-et-gym-tonique-nos-idees-de-series_6084143_3246.html |
 | Cod | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html |
-| Josiah | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html |
+| Josiah | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html || Kowloon | https://www.lemonde.fr/international/article/2021/06/20/a-hongkong-le-apple-daily-aux-abois-tient-tete-aux-autorites_6084919_3210.html |
+| Sinatra | https://www.lemonde.fr/international/article/2021/06/20/l-ex-speaker-du-parlement-britannique-john-bercow-lache-les-conservateurs-pour-les-travaillistes_6084924_3210.html |
