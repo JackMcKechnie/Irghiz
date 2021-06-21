@@ -691,4 +691,5 @@
 | Cush | https://www.lemonde.fr/culture/article/2021/06/15/apocalypse-dieu-de-la-malice-vengeance-maternelle-et-gym-tonique-nos-idees-de-series_6084143_3246.html |
 | Cod | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html |
 | Josiah | https://www.lemonde.fr/big-browser/article/2021/06/14/deja-rescape-d-un-crash-un-pecheur-americain-survit-apres-avoir-ete-avale-par-une-baleine_6084138_4832693.html || Kowloon | https://www.lemonde.fr/international/article/2021/06/20/a-hongkong-le-apple-daily-aux-abois-tient-tete-aux-autorites_6084919_3210.html |
-| Sinatra | https://www.lemonde.fr/international/article/2021/06/20/l-ex-speaker-du-parlement-britannique-john-bercow-lache-les-conservateurs-pour-les-travaillistes_6084924_3210.html |
+| Sinatra | https://www.lemonde.fr/international/article/2021/06/20/l-ex-speaker-du-parlement-britannique-john-bercow-lache-les-conservateurs-pour-les-travaillistes_6084924_3210.html || Nilsson | https://www.lemonde.fr/international/article/2021/06/21/en-suede-la-coalition-chute-sur-la-liberalisation-des-loyers_6085077_3210.html |
+| Unity | https://www.lemonde.fr/afrique/article/2021/06/21/jour-de-vote-en-ethiopie-nous-sommes-la-pour-choisir-un-gouvernement-fort-capable-de-retablir-la-paix_6085079_3212.html |
