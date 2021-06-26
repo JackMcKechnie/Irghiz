@@ -696,4 +696,5 @@
 | Rna. | https://www.lemonde.fr/les-decodeurs/article/2021/06/23/regionales-2021-visualisez-les-retraits-fusions-et-alliances-de-l-entre-deux-tours_6085342_4355770.html || Spears | https://www.lemonde.fr/international/article/2021/06/23/la-question-migratoire-revient-au-conseil-europeen_6085347_3210.html |
 | Belga | https://www.lemonde.fr/planete/article/2021/06/24/en-belgique-une-vaste-pollution-des-sols-fait-scandale_6085500_3244.html |
 | Murat | https://www.lemonde.fr/international/article/2021/06/24/aux-etats-unis-et-dans-l-ue-le-retour-en-grace-d-erdogan-en-froid-avec-poutine_6085509_3210.html |
-| Economist | https://www.lemonde.fr/economie/article/2021/06/24/alain-weill-va-quitter-ses-fonctions-de-pdg-d-altice-france-et-de-sfr_6085529_3234.html |
+| Economist | https://www.lemonde.fr/economie/article/2021/06/24/alain-weill-va-quitter-ses-fonctions-de-pdg-d-altice-france-et-de-sfr_6085529_3234.html || Loren | https://www.lemonde.fr/planete/article/2021/06/26/australie-la-ville-de-sydney-entierement-confinee-en-raison-de-la-progression-du-variant-delta_6085783_3244.html |
+| Very | https://www.lemonde.fr/culture/article/2021/06/25/plongee-dans-l-histoire-hugo-en-majeste-transidentite-onze-bd-pour-bien-aborder-l-ete_6085761_3246.html |
