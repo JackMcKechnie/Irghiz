@@ -697,4 +697,10 @@
 | Belga | https://www.lemonde.fr/planete/article/2021/06/24/en-belgique-une-vaste-pollution-des-sols-fait-scandale_6085500_3244.html |
 | Murat | https://www.lemonde.fr/international/article/2021/06/24/aux-etats-unis-et-dans-l-ue-le-retour-en-grace-d-erdogan-en-froid-avec-poutine_6085509_3210.html |
 | Economist | https://www.lemonde.fr/economie/article/2021/06/24/alain-weill-va-quitter-ses-fonctions-de-pdg-d-altice-france-et-de-sfr_6085529_3234.html || Loren | https://www.lemonde.fr/planete/article/2021/06/26/australie-la-ville-de-sydney-entierement-confinee-en-raison-de-la-progression-du-variant-delta_6085783_3244.html |
-| Very | https://www.lemonde.fr/culture/article/2021/06/25/plongee-dans-l-histoire-hugo-en-majeste-transidentite-onze-bd-pour-bien-aborder-l-ete_6085761_3246.html |
+| Very | https://www.lemonde.fr/culture/article/2021/06/25/plongee-dans-l-histoire-hugo-en-majeste-transidentite-onze-bd-pour-bien-aborder-l-ete_6085761_3246.html || Resort | https://www.lemonde.fr/economie/article/2021/06/30/danone-le-plan-social-concernerait-pres-de-1-200-postes-en-france_6086360_3234.html |
+| Mullah | https://www.lemonde.fr/culture/article/2021/06/30/midnight-traveler-entre-l-afghanistan-et-l-europe-une-chronique-filmee-de-l-abandon-et-de-l-attente_6086328_3246.html |
+| Shoe | https://www.lemonde.fr/sport/article/2021/06/30/tour-de-france-2021-la-gazette-chaussure-chronoman-et-momie_6086307_3242.html |
+| While | https://www.lemonde.fr/sport/article/2021/06/30/tour-de-france-2021-la-gazette-chaussure-chronoman-et-momie_6086307_3242.html |
+| Burnaby | https://www.lemonde.fr/planete/article/2021/06/30/le-canada-subit-une-canicule-des-dizaines-de-morts-subites-dans-la-region-de-vancouver_6086286_3244.html |
+| Motor | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html |
+| Manufacturers | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html |
