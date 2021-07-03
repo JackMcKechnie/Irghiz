@@ -703,4 +703,6 @@
 | While | https://www.lemonde.fr/sport/article/2021/06/30/tour-de-france-2021-la-gazette-chaussure-chronoman-et-momie_6086307_3242.html |
 | Burnaby | https://www.lemonde.fr/planete/article/2021/06/30/le-canada-subit-une-canicule-des-dizaines-de-morts-subites-dans-la-region-de-vancouver_6086286_3244.html |
 | Motor | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html |
-| Manufacturers | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html |
+| Manufacturers | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html || Rn. | https://www.lemonde.fr/politique/article/2021/07/03/a-perpignan-entre-650-et-3-000-manifestants-contre-le-congres-du-rn_6086887_823448.html |
+| Cat. | https://www.lemonde.fr/sport/article/2021/07/03/tour-de-france-2021-nouveau-tour-de-force-de-tadej-pogacar-qui-recupere-le-maillot-jaune_6086885_3242.html |
+| Hicks | https://www.lemonde.fr/football/article/2021/07/03/euro-2021-a-londres-la-cite-hlm-de-kirby-estate-ses-700-drapeaux-anglais-et-l-immense-espoir-d-une-victoire_6086865_1616938.html |
