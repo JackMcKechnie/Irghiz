@@ -705,4 +705,8 @@
 | Motor | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html |
 | Manufacturers | https://www.lemonde.fr/economie/article/2021/06/30/entre-brexit-et-electrification-l-industrie-automobile-britannique-craint-le-pire_6086368_3234.html || Rn. | https://www.lemonde.fr/politique/article/2021/07/03/a-perpignan-entre-650-et-3-000-manifestants-contre-le-congres-du-rn_6086887_823448.html |
 | Cat. | https://www.lemonde.fr/sport/article/2021/07/03/tour-de-france-2021-nouveau-tour-de-force-de-tadej-pogacar-qui-recupere-le-maillot-jaune_6086885_3242.html |
-| Hicks | https://www.lemonde.fr/football/article/2021/07/03/euro-2021-a-londres-la-cite-hlm-de-kirby-estate-ses-700-drapeaux-anglais-et-l-immense-espoir-d-une-victoire_6086865_1616938.html |
+| Hicks | https://www.lemonde.fr/football/article/2021/07/03/euro-2021-a-londres-la-cite-hlm-de-kirby-estate-ses-700-drapeaux-anglais-et-l-immense-espoir-d-une-victoire_6086865_1616938.html || Peters | https://www.lemonde.fr/sport/article/2021/07/04/tour-de-france-2021-ben-o-connor-s-impose-a-tignes-au-terme-d-une-neuvieme-etape-dantesque_6086969_3242.html |
+| Bueno | https://www.lemonde.fr/campus/article/2021/07/04/pour-les-etudiants-les-plus-en-difficulte-la-precarite-ne-disparait-pas-pendant-l-ete_6086911_4401467.html |
+| Delaney | https://www.lemonde.fr/les-decodeurs/article/2021/07/04/marine-le-pen-incendies-au-canada-et-a-chypre-euro-2021-les-cinq-infos-a-retenir-du-week-end_6086968_4355770.html |
+| Kandahar | https://www.lemonde.fr/les-decodeurs/article/2021/07/04/marine-le-pen-incendies-au-canada-et-a-chypre-euro-2021-les-cinq-infos-a-retenir-du-week-end_6086968_4355770.html |
+| Limassol | https://www.lemonde.fr/climat/article/2021/07/03/dans-le-sud-de-chypre-un-enorme-incendie-attise-par-la-chaleur-l-ue-et-israel-a-la-rescousse_6086899_1652612.html |
