@@ -709,4 +709,7 @@
 | Bueno | https://www.lemonde.fr/campus/article/2021/07/04/pour-les-etudiants-les-plus-en-difficulte-la-precarite-ne-disparait-pas-pendant-l-ete_6086911_4401467.html |
 | Delaney | https://www.lemonde.fr/les-decodeurs/article/2021/07/04/marine-le-pen-incendies-au-canada-et-a-chypre-euro-2021-les-cinq-infos-a-retenir-du-week-end_6086968_4355770.html |
 | Kandahar | https://www.lemonde.fr/les-decodeurs/article/2021/07/04/marine-le-pen-incendies-au-canada-et-a-chypre-euro-2021-les-cinq-infos-a-retenir-du-week-end_6086968_4355770.html |
-| Limassol | https://www.lemonde.fr/climat/article/2021/07/03/dans-le-sud-de-chypre-un-enorme-incendie-attise-par-la-chaleur-l-ue-et-israel-a-la-rescousse_6086899_1652612.html |
+| Limassol | https://www.lemonde.fr/climat/article/2021/07/03/dans-le-sud-de-chypre-un-enorme-incendie-attise-par-la-chaleur-l-ue-et-israel-a-la-rescousse_6086899_1652612.html || Ortega | https://www.lemonde.fr/international/article/2021/07/05/il-est-inimaginable-que-des-elections-libres-et-transparentes-aient-lieu-au-nicaragua_6087052_3210.html |
+| Chamorro | https://www.lemonde.fr/international/article/2021/07/05/il-est-inimaginable-que-des-elections-libres-et-transparentes-aient-lieu-au-nicaragua_6087052_3210.html |
+| Secondary | https://www.lemonde.fr/afrique/article/2021/07/05/des-hommes-armes-enlevent-140-lyceens-au-nigeria_6087076_3212.html |
+| Brodsky | https://www.lemonde.fr/culture/article/2021/07/04/tiago-rodrigues-tchekhov-est-le-meilleur-ami-des-acteurs_6086974_3246.html |
