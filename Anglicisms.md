@@ -712,4 +712,9 @@
 | Limassol | https://www.lemonde.fr/climat/article/2021/07/03/dans-le-sud-de-chypre-un-enorme-incendie-attise-par-la-chaleur-l-ue-et-israel-a-la-rescousse_6086899_1652612.html || Ortega | https://www.lemonde.fr/international/article/2021/07/05/il-est-inimaginable-que-des-elections-libres-et-transparentes-aient-lieu-au-nicaragua_6087052_3210.html |
 | Chamorro | https://www.lemonde.fr/international/article/2021/07/05/il-est-inimaginable-que-des-elections-libres-et-transparentes-aient-lieu-au-nicaragua_6087052_3210.html |
 | Secondary | https://www.lemonde.fr/afrique/article/2021/07/05/des-hommes-armes-enlevent-140-lyceens-au-nigeria_6087076_3212.html |
-| Brodsky | https://www.lemonde.fr/culture/article/2021/07/04/tiago-rodrigues-tchekhov-est-le-meilleur-ami-des-acteurs_6086974_3246.html |
+| Brodsky | https://www.lemonde.fr/culture/article/2021/07/04/tiago-rodrigues-tchekhov-est-le-meilleur-ami-des-acteurs_6086974_3246.html || Taffy | https://www.lemonde.fr/economie/article/2021/07/10/creations-d-emplois-et-relocalisations-la-reprise-est-a-l-uvre-en-france-plus-vite-que-prevu_6087798_3234.html |
+| Wimbledon | https://www.lemonde.fr/sport/article/2021/07/10/wimbledon-avec-ashley-barty-l-australie-a-une-marche-de-reconquerir-le-gazon-londonien_6087817_3242.html |
+| Wimbledon. | https://www.lemonde.fr/sport/article/2021/07/10/wimbledon-avec-ashley-barty-l-australie-a-une-marche-de-reconquerir-le-gazon-londonien_6087817_3242.html |
+| Goolagong | https://www.lemonde.fr/sport/article/2021/07/10/wimbledon-avec-ashley-barty-l-australie-a-une-marche-de-reconquerir-le-gazon-londonien_6087817_3242.html |
+| Malvern | https://www.lemonde.fr/societe/article/2021/07/10/c-etait-quand-notre-derniere-boite-de-nuit-en-bretagne-les-jeunes-savourent-une-liberte-retrouvee_6087799_3224.html |
+| Dries. | https://www.lemonde.fr/planete/article/2021/07/09/ca-ne-sert-a-rien-je-prefere-attendre-plongee-dans-la-france-recalcitrante-au-vaccin-contre-le-covid-19_6087636_3244.html |
