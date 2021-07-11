@@ -717,4 +717,12 @@
 | Wimbledon. | https://www.lemonde.fr/sport/article/2021/07/10/wimbledon-avec-ashley-barty-l-australie-a-une-marche-de-reconquerir-le-gazon-londonien_6087817_3242.html |
 | Goolagong | https://www.lemonde.fr/sport/article/2021/07/10/wimbledon-avec-ashley-barty-l-australie-a-une-marche-de-reconquerir-le-gazon-londonien_6087817_3242.html |
 | Malvern | https://www.lemonde.fr/societe/article/2021/07/10/c-etait-quand-notre-derniere-boite-de-nuit-en-bretagne-les-jeunes-savourent-une-liberte-retrouvee_6087799_3224.html |
-| Dries. | https://www.lemonde.fr/planete/article/2021/07/09/ca-ne-sert-a-rien-je-prefere-attendre-plongee-dans-la-france-recalcitrante-au-vaccin-contre-le-covid-19_6087636_3244.html |
+| Dries. | https://www.lemonde.fr/planete/article/2021/07/09/ca-ne-sert-a-rien-je-prefere-attendre-plongee-dans-la-france-recalcitrante-au-vaccin-contre-le-covid-19_6087636_3244.html || Promoting | https://www.lemonde.fr/economie/article/2021/07/11/concurrence-biden-defenseur-des-petits-contre-les-gros_6087920_3234.html |
+| Trade | https://www.lemonde.fr/economie/article/2021/07/11/concurrence-biden-defenseur-des-petits-contre-les-gros_6087920_3234.html |
+| Agricultural | https://www.lemonde.fr/planete/video/2021/07/11/comment-le-changement-climatique-va-bouleverser-l-humanite_6087906_3244.html |
+| Goodwin | https://www.lemonde.fr/international/article/2021/07/11/covid-19-la-fermeture-des-frontieres-aux-non-vaccines-decidee-par-malte-est-contraire-aux-regles-europeennes_6087902_3210.html |
+| Guadalquivir | https://www.lemonde.fr/international/article/2021/07/11/l-espagne-et-les-etats-unis-confrontes-a-de-fortes-vagues-de-chaleur_6087909_3210.html |
+| Galactic | https://www.lemonde.fr/sciences/article/2021/07/11/richard-branson-atteint-l-espace-a-bord-d-un-vaisseau-vss-unity-de-virgin-galactic_6087917_1650684.html |
+| Into | https://www.lemonde.fr/sciences/article/2021/07/11/richard-branson-atteint-l-espace-a-bord-d-un-vaisseau-vss-unity-de-virgin-galactic_6087917_1650684.html |
+| Musk. | https://www.lemonde.fr/sciences/article/2021/07/11/richard-branson-atteint-l-espace-a-bord-d-un-vaisseau-vss-unity-de-virgin-galactic_6087917_1650684.html |
+| Martinez | https://www.lemonde.fr/international/article/2021/07/11/haiti-martine-moise-la-veuve-du-president-assassine-veut-poursuivre-la-bataille-de-son-mari_6087874_3210.html |
