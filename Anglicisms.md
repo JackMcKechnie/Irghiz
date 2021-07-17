@@ -725,4 +725,7 @@
 | Galactic | https://www.lemonde.fr/sciences/article/2021/07/11/richard-branson-atteint-l-espace-a-bord-d-un-vaisseau-vss-unity-de-virgin-galactic_6087917_1650684.html |
 | Into | https://www.lemonde.fr/sciences/article/2021/07/11/richard-branson-atteint-l-espace-a-bord-d-un-vaisseau-vss-unity-de-virgin-galactic_6087917_1650684.html |
 | Musk. | https://www.lemonde.fr/sciences/article/2021/07/11/richard-branson-atteint-l-espace-a-bord-d-un-vaisseau-vss-unity-de-virgin-galactic_6087917_1650684.html |
-| Martinez | https://www.lemonde.fr/international/article/2021/07/11/haiti-martine-moise-la-veuve-du-president-assassine-veut-poursuivre-la-bataille-de-son-mari_6087874_3210.html |
+| Martinez | https://www.lemonde.fr/international/article/2021/07/11/haiti-martine-moise-la-veuve-du-president-assassine-veut-poursuivre-la-bataille-de-son-mari_6087874_3210.html || Leos | https://www.lemonde.fr/culture/article/2021/07/17/festival-de-cannes-2021-avant-le-palmares-le-jury-delibere-et-aucun-favori-ne-se-degage-nettement_6088596_3246.html |
+| Quick-Step | https://www.lemonde.fr/sport/article/2021/07/17/tour-de-france-2021-wout-van-aert-remporte-le-dernier-contre-la-montre-tadej-pogacar-vers-un-second-sacre_6088600_3242.html |
+| Feminist | https://www.lemonde.fr/series-d-ete/article/2021/07/17/notre-corps-est-un-reservoir-de-savoir-faire-de-resistances_6088553_3451060.html |
+| Marriott | https://www.lemonde.fr/culture/article/2021/07/17/cannes-2021-les-intranquilles-dans-la-tete-d-un-peintre-maniaco-depressif-avec-damien-bonnard_6088563_3246.html |
