@@ -728,4 +728,8 @@
 | Martinez | https://www.lemonde.fr/international/article/2021/07/11/haiti-martine-moise-la-veuve-du-president-assassine-veut-poursuivre-la-bataille-de-son-mari_6087874_3210.html || Leos | https://www.lemonde.fr/culture/article/2021/07/17/festival-de-cannes-2021-avant-le-palmares-le-jury-delibere-et-aucun-favori-ne-se-degage-nettement_6088596_3246.html |
 | Quick-Step | https://www.lemonde.fr/sport/article/2021/07/17/tour-de-france-2021-wout-van-aert-remporte-le-dernier-contre-la-montre-tadej-pogacar-vers-un-second-sacre_6088600_3242.html |
 | Feminist | https://www.lemonde.fr/series-d-ete/article/2021/07/17/notre-corps-est-un-reservoir-de-savoir-faire-de-resistances_6088553_3451060.html |
-| Marriott | https://www.lemonde.fr/culture/article/2021/07/17/cannes-2021-les-intranquilles-dans-la-tete-d-un-peintre-maniaco-depressif-avec-damien-bonnard_6088563_3246.html |
+| Marriott | https://www.lemonde.fr/culture/article/2021/07/17/cannes-2021-les-intranquilles-dans-la-tete-d-un-peintre-maniaco-depressif-avec-damien-bonnard_6088563_3246.html || Cassia | https://www.lemonde.fr/planete/article/2021/07/20/covid-19-le-port-du-masque-redevient-obligatoire-en-exterieur-dans-45-communes-de-charente-maritime_6088846_3244.html |
+| Victims | https://www.lemonde.fr/international/article/2021/07/20/inondations-en-allemagne-angela-merkel-defend-le-systeme-d-alerte-tandis-que-le-bilan-s-alourdit_6088946_3210.html |
+| Floods. | https://www.lemonde.fr/international/article/2021/07/20/inondations-en-allemagne-angela-merkel-defend-le-systeme-d-alerte-tandis-que-le-bilan-s-alourdit_6088946_3210.html |
+| Hidden | https://www.lemonde.fr/pixels/article/2021/07/20/tristan-t90-berry-le-fin-analyste-des-competitions-d-age-of-empires-ii_6088945_4408996.html |
+| Counter-Strike | https://www.lemonde.fr/pixels/article/2021/07/20/tristan-t90-berry-le-fin-analyste-des-competitions-d-age-of-empires-ii_6088945_4408996.html |
