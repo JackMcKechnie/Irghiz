@@ -732,4 +732,4 @@
 | Victims | https://www.lemonde.fr/international/article/2021/07/20/inondations-en-allemagne-angela-merkel-defend-le-systeme-d-alerte-tandis-que-le-bilan-s-alourdit_6088946_3210.html |
 | Floods. | https://www.lemonde.fr/international/article/2021/07/20/inondations-en-allemagne-angela-merkel-defend-le-systeme-d-alerte-tandis-que-le-bilan-s-alourdit_6088946_3210.html |
 | Hidden | https://www.lemonde.fr/pixels/article/2021/07/20/tristan-t90-berry-le-fin-analyste-des-competitions-d-age-of-empires-ii_6088945_4408996.html |
-| Counter-Strike | https://www.lemonde.fr/pixels/article/2021/07/20/tristan-t90-berry-le-fin-analyste-des-competitions-d-age-of-empires-ii_6088945_4408996.html |
+| Counter-Strike | https://www.lemonde.fr/pixels/article/2021/07/20/tristan-t90-berry-le-fin-analyste-des-competitions-d-age-of-empires-ii_6088945_4408996.html || Delete | https://www.lemonde.fr/international/article/2021/07/21/liverpool-perd-sa-place-au-patrimoine-mondial-de-l-unesco_6089053_3210.html |
