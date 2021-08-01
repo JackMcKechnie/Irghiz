@@ -737,4 +737,9 @@
 | Aguirre | https://www.lemonde.fr/sport/article/2021/07/22/jo-2021-la-france-de-gignac-et-thauvin-etrillee-par-le-mexique-a-l-ouverture-du-tournoi-de-football_6089186_3242.html |
 | Lucky | https://www.lemonde.fr/societe/article/2021/07/22/artiste-ou-delinquant-un-rappeur-lyonnais-va-etre-juge-en-aout-pour-des-rodeos_6089151_3224.html || Boat | https://www.lemonde.fr/planete/article/2021/07/23/intemperies-en-chine-cernes-par-les-eaux-des-habitants-evacues-par-un-pont-flottant_6089280_3244.html |
 | Several | https://www.lemonde.fr/planete/article/2021/07/23/intemperies-en-chine-cernes-par-les-eaux-des-habitants-evacues-par-un-pont-flottant_6089280_3244.html |
-| Crabbe | https://www.lemonde.fr/culture/article/2021/07/23/arnaque-a-hollywood-les-papys-du-cinema-reunis-dans-un-faux-western_6089278_3246.html |
+| Crabbe | https://www.lemonde.fr/culture/article/2021/07/23/arnaque-a-hollywood-les-papys-du-cinema-reunis-dans-un-faux-western_6089278_3246.html || Lamont | https://www.lemonde.fr/sport/article/2021/08/01/jo-de-tokyo-2021-l-italien-lamont-marcell-jacobs-un-outsider-nouveau-roi-du-100-metres_6090223_3242.html |
+| Running | https://www.lemonde.fr/sport/article/2021/08/01/jo-de-tokyo-2021-l-italien-lamont-marcell-jacobs-un-outsider-nouveau-roi-du-100-metres_6090223_3242.html |
+| Meat | https://www.lemonde.fr/m-le-mag/article/2021/07/30/cellules-souches-bioreacteurs-et-imprimantes-3d-a-l-aube-du-steak-eprouvette_6090048_4500055.html |
+| Microcosmos. | https://www.lemonde.fr/sciences/article/2021/08/01/comment-un-papillon-a-fait-alliance-avec-un-virus-pour-combattre-une-guepe_6090235_1650684.html |
+| Mountains | https://www.lemonde.fr/series-d-ete/article/2021/08/01/kei-miller-un-ecrivain-au-diapason-de-la-jamaique_6090217_3451060.html |
+| Rivers | https://www.lemonde.fr/series-d-ete/article/2021/08/01/kei-miller-un-ecrivain-au-diapason-de-la-jamaique_6090217_3451060.html |
