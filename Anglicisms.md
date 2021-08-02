@@ -742,4 +742,6 @@
 | Meat | https://www.lemonde.fr/m-le-mag/article/2021/07/30/cellules-souches-bioreacteurs-et-imprimantes-3d-a-l-aube-du-steak-eprouvette_6090048_4500055.html |
 | Microcosmos. | https://www.lemonde.fr/sciences/article/2021/08/01/comment-un-papillon-a-fait-alliance-avec-un-virus-pour-combattre-une-guepe_6090235_1650684.html |
 | Mountains | https://www.lemonde.fr/series-d-ete/article/2021/08/01/kei-miller-un-ecrivain-au-diapason-de-la-jamaique_6090217_3451060.html |
-| Rivers | https://www.lemonde.fr/series-d-ete/article/2021/08/01/kei-miller-un-ecrivain-au-diapason-de-la-jamaique_6090217_3451060.html |
+| Rivers | https://www.lemonde.fr/series-d-ete/article/2021/08/01/kei-miller-un-ecrivain-au-diapason-de-la-jamaique_6090217_3451060.html || Bubble | https://www.lemonde.fr/sport/live/2021/08/02/jo-de-tokyo-2021-en-direct-samir-ait-said-en-finale-des-anneaux-quiquampoix-champion-olympique-au-tir_6090284_3242.html |
+| Hoy. | https://www.lemonde.fr/sport/live/2021/08/02/jo-de-tokyo-2021-en-direct-samir-ait-said-en-finale-des-anneaux-quiquampoix-champion-olympique-au-tir_6090284_3242.html |
+| Charlottenburg | https://www.lemonde.fr/planete/article/2021/08/01/covid-19-dans-le-monde-l-allemagne-prevoit-une-troisieme-dose-pour-les-personnes-vulnerables_6090246_3244.html |
