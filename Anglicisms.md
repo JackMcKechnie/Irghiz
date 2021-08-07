@@ -747,4 +747,11 @@
 | Charlottenburg | https://www.lemonde.fr/planete/article/2021/08/01/covid-19-dans-le-monde-l-allemagne-prevoit-une-troisieme-dose-pour-les-personnes-vulnerables_6090246_3244.html || Bartholomew | https://www.lemonde.fr/sport/article/2021/08/05/jo-de-tokyo-2021-une-premiere-et-derniere-en-or-pour-le-karateka-steven-da-costa_6090643_3242.html |
 | Lala | https://www.lemonde.fr/planete/article/2021/08/05/en-grece-et-en-turquie-des-centaines-d-incendies-font-toujours-rage_6090619_3244.html |
 | Hughes | https://www.lemonde.fr/international/article/2021/08/05/l-australie-va-dedommager-les-aborigenes-de-la-generation-volee_6090595_3210.html |
-| Beaumont | https://www.lemonde.fr/sport/live/2021/08/05/jo-de-tokyo-2021-en-direct-suivez-la-demi-finale-des-bleus-au-handball-contre-l-egypte_6090599_3242.html |
+| Beaumont | https://www.lemonde.fr/sport/live/2021/08/05/jo-de-tokyo-2021-en-direct-suivez-la-demi-finale-des-bleus-au-handball-contre-l-egypte_6090599_3242.html || Beatlemania | https://www.lemonde.fr/sport/live/2021/08/07/jo-de-tokyo-2021-les-bleues-vont-elles-decrocher-le-bronze-en-basket-la-petite-finale-en-direct_6090815_3242.html |
+| Horse | https://www.lemonde.fr/sport/live/2021/08/07/jo-de-tokyo-2021-les-bleues-vont-elles-decrocher-le-bronze-en-basket-la-petite-finale-en-direct_6090815_3242.html |
+| Kerr. | https://www.lemonde.fr/sport/live/2021/08/07/jo-de-tokyo-2021-les-bleues-vont-elles-decrocher-le-bronze-en-basket-la-petite-finale-en-direct_6090815_3242.html |
+| Pap | https://www.lemonde.fr/international/article/2021/08/07/la-pologne-en-conflit-avec-l-union-europeenne-fait-machine-arriere-avec-son-nouveau-regime-disciplinaire-des-juges_6090842_3210.html |
+| Bize. | https://www.lemonde.fr/televisions-radio/article/2021/08/07/escapade-gourmande-portrait-d-artiste-utopie-musicale-les-replays-du-week-end_6090795_1655027.html |
+| Jump | https://www.lemonde.fr/televisions-radio/article/2021/08/07/naomi-osaka-sur-netflix-dans-la-tete-d-une-championne-de-tennis_6090846_1655027.html |
+| Netflix. | https://www.lemonde.fr/televisions-radio/article/2021/08/07/naomi-osaka-sur-netflix-dans-la-tete-d-une-championne-de-tennis_6090846_1655027.html |
+| Tivoli | https://www.lemonde.fr/m-le-mag/article/2021/08/04/les-jardins-de-bomarzo-monstres-amp-cie-en-italie_6090565_4500055.html |
