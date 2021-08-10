@@ -754,4 +754,4 @@
 | Bize. | https://www.lemonde.fr/televisions-radio/article/2021/08/07/escapade-gourmande-portrait-d-artiste-utopie-musicale-les-replays-du-week-end_6090795_1655027.html |
 | Jump | https://www.lemonde.fr/televisions-radio/article/2021/08/07/naomi-osaka-sur-netflix-dans-la-tete-d-une-championne-de-tennis_6090846_1655027.html |
 | Netflix. | https://www.lemonde.fr/televisions-radio/article/2021/08/07/naomi-osaka-sur-netflix-dans-la-tete-d-une-championne-de-tennis_6090846_1655027.html |
-| Tivoli | https://www.lemonde.fr/m-le-mag/article/2021/08/04/les-jardins-de-bomarzo-monstres-amp-cie-en-italie_6090565_4500055.html |
+| Tivoli | https://www.lemonde.fr/m-le-mag/article/2021/08/04/les-jardins-de-bomarzo-monstres-amp-cie-en-italie_6090565_4500055.html || View | https://www.lemonde.fr/politique/article/2021/08/09/dans-les-communes-des-concertations-citoyennes-pour-remobiliser-les-citoyens_6090996_823448.html |
