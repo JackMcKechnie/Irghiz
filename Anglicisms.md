@@ -754,4 +754,8 @@
 | Bize. | https://www.lemonde.fr/televisions-radio/article/2021/08/07/escapade-gourmande-portrait-d-artiste-utopie-musicale-les-replays-du-week-end_6090795_1655027.html |
 | Jump | https://www.lemonde.fr/televisions-radio/article/2021/08/07/naomi-osaka-sur-netflix-dans-la-tete-d-une-championne-de-tennis_6090846_1655027.html |
 | Netflix. | https://www.lemonde.fr/televisions-radio/article/2021/08/07/naomi-osaka-sur-netflix-dans-la-tete-d-une-championne-de-tennis_6090846_1655027.html |
-| Tivoli | https://www.lemonde.fr/m-le-mag/article/2021/08/04/les-jardins-de-bomarzo-monstres-amp-cie-en-italie_6090565_4500055.html || View | https://www.lemonde.fr/politique/article/2021/08/09/dans-les-communes-des-concertations-citoyennes-pour-remobiliser-les-citoyens_6090996_823448.html |
+| Tivoli | https://www.lemonde.fr/m-le-mag/article/2021/08/04/les-jardins-de-bomarzo-monstres-amp-cie-en-italie_6090565_4500055.html || View | https://www.lemonde.fr/politique/article/2021/08/09/dans-les-communes-des-concertations-citoyennes-pour-remobiliser-les-citoyens_6090996_823448.html || Nuclear | https://www.lemonde.fr/economie/article/2021/08/10/la-course-aux-petits-reacteurs-nucleaires-est-lancee_6091112_3234.html |
+| Samar | https://www.lemonde.fr/international/article/2021/08/10/ils-veulent-aller-vite-nous-expulser-detruire-les-maisons-dans-la-ville-sainte-la-bataille-pour-jerusalem-est_6091111_3210.html |
+| Physical | https://www.lemonde.fr/disparitions/article/2021/08/10/le-physicien-americain-steven-weinberg-est-mort_6091115_3382.html |
+| Avast | https://www.lemonde.fr/economie/article/2021/08/11/le-groupe-de-securite-informatique-nortonlifelock-rachete-avast-pour-8-milliards-de-dollars_6091152_3234.html |
+| Levy. | https://www.lemonde.fr/culture/article/2021/08/11/passion-simple-free-guy-rouge-les-films-a-l-affiche-cette-semaine_6091122_3246.html |
