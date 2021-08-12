@@ -758,4 +758,11 @@
 | Samar | https://www.lemonde.fr/international/article/2021/08/10/ils-veulent-aller-vite-nous-expulser-detruire-les-maisons-dans-la-ville-sainte-la-bataille-pour-jerusalem-est_6091111_3210.html |
 | Physical | https://www.lemonde.fr/disparitions/article/2021/08/10/le-physicien-americain-steven-weinberg-est-mort_6091115_3382.html |
 | Avast | https://www.lemonde.fr/economie/article/2021/08/11/le-groupe-de-securite-informatique-nortonlifelock-rachete-avast-pour-8-milliards-de-dollars_6091152_3234.html |
-| Levy. | https://www.lemonde.fr/culture/article/2021/08/11/passion-simple-free-guy-rouge-les-films-a-l-affiche-cette-semaine_6091122_3246.html |
+| Levy. | https://www.lemonde.fr/culture/article/2021/08/11/passion-simple-free-guy-rouge-les-films-a-l-affiche-cette-semaine_6091122_3246.html || Things | https://www.lemonde.fr/societe/article/2021/08/12/covid-19-aux-antilles-un-nouveau-pic-epidemique-inedit-menace-de-saturer-le-systeme-hospitalier_6091249_3224.html |
+| Ruiz | https://www.lemonde.fr/m-le-mag/article/2021/08/12/un-appel-d-offres-pour-recruter-des-communicants-de-crise-aupres-des-procureurs_6091223_4500055.html |
+| Friar | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
+| Henley-On-Thames | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
+| Pity | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
+| Hear | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
+| Down. | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
+| Hitchcock’S | https://www.lemonde.fr/disparitions/article/2021/08/12/mort-de-patricia-hitchcock-fille-du-realisateur-alfred-hitchcock_6091261_3382.html |
