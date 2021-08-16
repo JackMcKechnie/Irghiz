@@ -765,4 +765,7 @@
 | Pity | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
 | Hear | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
 | Down. | https://www.lemonde.fr/culture/article/2021/08/12/une-nouvelle-reedition-de-all-things-must-pass-album-mythique-de-george-harrison_6091217_3246.html |
-| Hitchcock’S | https://www.lemonde.fr/disparitions/article/2021/08/12/mort-de-patricia-hitchcock-fille-du-realisateur-alfred-hitchcock_6091261_3382.html |
+| Hitchcock’S | https://www.lemonde.fr/disparitions/article/2021/08/12/mort-de-patricia-hitchcock-fille-du-realisateur-alfred-hitchcock_6091261_3382.html || -De-France | https://www.lemonde.fr/planete/article/2021/08/16/les-antilles-submergees-par-une-quatrieme-vague-sans-precedent-de-covid-19_6091527_3244.html |
+| Farmers | https://www.lemonde.fr/sport/article/2021/08/16/menacee-de-faillite-la-ligue-1-promet-enfin-du-spectacle_6091557_3242.html |
+| Battles | https://www.lemonde.fr/sport/article/2021/08/16/menacee-de-faillite-la-ligue-1-promet-enfin-du-spectacle_6091557_3242.html |
+| Stanford | https://www.lemonde.fr/campus/article/2021/08/16/dans-le-classement-de-shanghai-l-universite-paris-saclay-se-hisse-a-la-treizieme-place_6091562_4401467.html |
