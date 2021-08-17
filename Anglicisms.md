@@ -768,4 +768,12 @@
 | Hitchcock’S | https://www.lemonde.fr/disparitions/article/2021/08/12/mort-de-patricia-hitchcock-fille-du-realisateur-alfred-hitchcock_6091261_3382.html || -De-France | https://www.lemonde.fr/planete/article/2021/08/16/les-antilles-submergees-par-une-quatrieme-vague-sans-precedent-de-covid-19_6091527_3244.html |
 | Farmers | https://www.lemonde.fr/sport/article/2021/08/16/menacee-de-faillite-la-ligue-1-promet-enfin-du-spectacle_6091557_3242.html |
 | Battles | https://www.lemonde.fr/sport/article/2021/08/16/menacee-de-faillite-la-ligue-1-promet-enfin-du-spectacle_6091557_3242.html |
-| Stanford | https://www.lemonde.fr/campus/article/2021/08/16/dans-le-classement-de-shanghai-l-universite-paris-saclay-se-hisse-a-la-treizieme-place_6091562_4401467.html |
+| Stanford | https://www.lemonde.fr/campus/article/2021/08/16/dans-le-classement-de-shanghai-l-universite-paris-saclay-se-hisse-a-la-treizieme-place_6091562_4401467.html || Melanie | https://www.lemonde.fr/international/live/2021/08/17/talibans-en-afghanistan-un-retour-a-la-case-depart-posez-vos-questions_6091632_3210.html |
+| Dino | https://www.lemonde.fr/livres/article/2021/08/15/chroniques-de-caladan-le-duc-de-brian-herbert-et-kevin-anderson-dune-univers-litteraire-en-expansion-infinie_6091482_3260.html |
+| Diary | https://www.lemonde.fr/culture/video/2021/08/15/rap-business-pourquoi-le-rap-domine-le-marche-de-la-musique_6091492_3246.html |
+| Montessori | https://www.lemonde.fr/m-le-mag/article/2021/08/17/le-rappeur-soso-maness-parvenu-a-l-age-de-raison_6091601_4500055.html |
+| Bro-4 | https://www.lemonde.fr/sciences/article/2021/08/17/nouveau-succes-pour-le-lanceur-europeen-vega-qui-place-cinq-satellites-sur-orbite_6091626_1650684.html |
+| Passengers | https://www.lemonde.fr/sciences/article/2021/08/17/nouveau-succes-pour-le-lanceur-europeen-vega-qui-place-cinq-satellites-sur-orbite_6091626_1650684.html |
+| Stern | https://www.lemonde.fr/afrique/article/2021/08/16/meme-quand-les-conflits-cessent-le-viol-se-perpetue-en-rdc-le-fleau-des-violences-sexuelles_6091589_3212.html |
+| Bronte | https://www.lemonde.fr/afrique/article/2021/08/16/meme-quand-les-conflits-cessent-le-viol-se-perpetue-en-rdc-le-fleau-des-violences-sexuelles_6091589_3212.html |
+| Schultz. | https://www.lemonde.fr/economie/article/2021/08/17/hachette-livre-va-acquerir-l-editeur-americain-workman-publishing_6091638_3234.html |
