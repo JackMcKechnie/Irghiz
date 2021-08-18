@@ -776,4 +776,8 @@
 | Passengers | https://www.lemonde.fr/sciences/article/2021/08/17/nouveau-succes-pour-le-lanceur-europeen-vega-qui-place-cinq-satellites-sur-orbite_6091626_1650684.html |
 | Stern | https://www.lemonde.fr/afrique/article/2021/08/16/meme-quand-les-conflits-cessent-le-viol-se-perpetue-en-rdc-le-fleau-des-violences-sexuelles_6091589_3212.html |
 | Bronte | https://www.lemonde.fr/afrique/article/2021/08/16/meme-quand-les-conflits-cessent-le-viol-se-perpetue-en-rdc-le-fleau-des-violences-sexuelles_6091589_3212.html |
-| Schultz. | https://www.lemonde.fr/economie/article/2021/08/17/hachette-livre-va-acquerir-l-editeur-americain-workman-publishing_6091638_3234.html |
+| Schultz. | https://www.lemonde.fr/economie/article/2021/08/17/hachette-livre-va-acquerir-l-editeur-americain-workman-publishing_6091638_3234.html || Dover | https://www.lemonde.fr/les-decodeurs/article/2021/08/18/faux-deces-chiffres-mal-interpretes-comment-les-antivaccins-sement-le-doute-sur-les-effets-secondaires_6091696_4355770.html |
+| Talkies | https://www.lemonde.fr/international/article/2021/08/18/plus-de-1-000-civils-ont-ete-tues-depuis-le-coup-d-etat-militaire-en-birmanie_6091739_3210.html |
+| Some | https://www.lemonde.fr/pixels/article/2021/08/18/c-est-trompeur-twitter-teste-un-nouvel-outil-pour-lutter-contre-la-desinformation_6091727_4408996.html |
+| Humanitarian | https://www.lemonde.fr/international/article/2021/08/18/a-hongkong-quatre-etudiants-arretes-pour-apologie-du-terrorisme_6091728_3210.html |
+| Pathway | https://www.lemonde.fr/idees/article/2021/08/18/eloi-laurent-le-rapport-du-giec-ouvre-un-chemin-d-espoir-pour-l-humanite-au-milieu-du-chaos-climatique_6091686_3232.html |
