@@ -780,4 +780,6 @@
 | Talkies | https://www.lemonde.fr/international/article/2021/08/18/plus-de-1-000-civils-ont-ete-tues-depuis-le-coup-d-etat-militaire-en-birmanie_6091739_3210.html |
 | Some | https://www.lemonde.fr/pixels/article/2021/08/18/c-est-trompeur-twitter-teste-un-nouvel-outil-pour-lutter-contre-la-desinformation_6091727_4408996.html |
 | Humanitarian | https://www.lemonde.fr/international/article/2021/08/18/a-hongkong-quatre-etudiants-arretes-pour-apologie-du-terrorisme_6091728_3210.html |
-| Pathway | https://www.lemonde.fr/idees/article/2021/08/18/eloi-laurent-le-rapport-du-giec-ouvre-un-chemin-d-espoir-pour-l-humanite-au-milieu-du-chaos-climatique_6091686_3232.html |
+| Pathway | https://www.lemonde.fr/idees/article/2021/08/18/eloi-laurent-le-rapport-du-giec-ouvre-un-chemin-d-espoir-pour-l-humanite-au-milieu-du-chaos-climatique_6091686_3232.html || Zweig | https://www.lemonde.fr/series-d-ete/article/2021/08/18/etienne-klein-plagiaire-a-l-insu-de-son-plein-gre_6091756_3451060.html |
+| Edith | https://www.lemonde.fr/series-d-ete/article/2021/08/19/en-route-pour-maastricht-la-mission-impossible-d-edith-cresson_6091780_3451060.html |
+| Weiss | https://www.lemonde.fr/economie/article/2021/08/19/wall-street-et-la-city-veulent-en-finir-avec-la-domination-des-hommes-blancs-dans-les-conseils-d-administration_6091779_3234.html |
