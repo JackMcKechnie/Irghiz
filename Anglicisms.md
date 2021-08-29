@@ -782,4 +782,6 @@
 | Humanitarian | https://www.lemonde.fr/international/article/2021/08/18/a-hongkong-quatre-etudiants-arretes-pour-apologie-du-terrorisme_6091728_3210.html |
 | Pathway | https://www.lemonde.fr/idees/article/2021/08/18/eloi-laurent-le-rapport-du-giec-ouvre-un-chemin-d-espoir-pour-l-humanite-au-milieu-du-chaos-climatique_6091686_3232.html || Zweig | https://www.lemonde.fr/series-d-ete/article/2021/08/18/etienne-klein-plagiaire-a-l-insu-de-son-plein-gre_6091756_3451060.html |
 | Edith | https://www.lemonde.fr/series-d-ete/article/2021/08/19/en-route-pour-maastricht-la-mission-impossible-d-edith-cresson_6091780_3451060.html |
-| Weiss | https://www.lemonde.fr/economie/article/2021/08/19/wall-street-et-la-city-veulent-en-finir-avec-la-domination-des-hommes-blancs-dans-les-conseils-d-administration_6091779_3234.html 
+| Weiss | https://www.lemonde.fr/economie/article/2021/08/19/wall-street-et-la-city-veulent-en-finir-avec-la-domination-des-hommes-blancs-dans-les-conseils-d-administration_6091779_3234.html | Taranto | https://www.lemonde.fr/sport/article/2021/08/29/jeux-paralympiques-de-tokyo-la-rameuse-nathalie-benoit-decroche-le-bronze_6092666_3242.html |
+| Kaka | https://www.lemonde.fr/sport/article/2021/08/27/le-real-madrid-en-quete-de-renaissance-et-d-identite_6092562_3242.html |
+| Ice | https://www.lemonde.fr/m-perso/article/2021/08/29/paroles-d-enfants-c-est-pas-vraiment-un-gouter-c-est-un-petit-apero_6092687_4497916.html |
