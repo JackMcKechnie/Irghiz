@@ -784,4 +784,5 @@
 | Edith | https://www.lemonde.fr/series-d-ete/article/2021/08/19/en-route-pour-maastricht-la-mission-impossible-d-edith-cresson_6091780_3451060.html |
 | Weiss | https://www.lemonde.fr/economie/article/2021/08/19/wall-street-et-la-city-veulent-en-finir-avec-la-domination-des-hommes-blancs-dans-les-conseils-d-administration_6091779_3234.html | Taranto | https://www.lemonde.fr/sport/article/2021/08/29/jeux-paralympiques-de-tokyo-la-rameuse-nathalie-benoit-decroche-le-bronze_6092666_3242.html |
 | Kaka | https://www.lemonde.fr/sport/article/2021/08/27/le-real-madrid-en-quete-de-renaissance-et-d-identite_6092562_3242.html |
-| Ice | https://www.lemonde.fr/m-perso/article/2021/08/29/paroles-d-enfants-c-est-pas-vraiment-un-gouter-c-est-un-petit-apero_6092687_4497916.html |
+| Ice | https://www.lemonde.fr/m-perso/article/2021/08/29/paroles-d-enfants-c-est-pas-vraiment-un-gouter-c-est-un-petit-apero_6092687_4497916.html || Genocide | https://www.lemonde.fr/politique/article/2021/08/31/a-sept-mois-de-la-presidentielle-emmanuel-macron-veut-repasser-a-l-offensive-sur-la-securite_6092863_823448.html |
+| Skype | https://www.lemonde.fr/pixels/article/2021/08/31/covid-19-des-centaines-de-milliers-de-resultats-de-tests-antigeniques-etaient-accessibles-en-ligne_6092880_4408996.html |
