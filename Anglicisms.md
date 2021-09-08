@@ -793,4 +793,4 @@
 | Yokosuka | https://www.lemonde.fr/international/article/2021/09/07/face-a-son-voisin-chinois-le-japon-renforce-sa-cooperation-militaire_6093718_3210.html |
 | Members | https://www.lemonde.fr/international/article/2021/09/07/en-afghanistan-les-talibans-tirent-en-l-air-pour-disperser-une-manifestation-contre-le-pakistan-a-kaboul_6093698_3210.html |
 | Reporting | https://www.lemonde.fr/m-le-mag/article/2021/09/07/mathieu-persan-illustrateur-courtise-de-couvertures-de-romans_6093713_4500055.html |
-| Tiny | https://www.lemonde.fr/m-le-mag/article/2021/09/07/mathieu-persan-illustrateur-courtise-de-couvertures-de-romans_6093713_4500055.html |
+| Tiny | https://www.lemonde.fr/m-le-mag/article/2021/09/07/mathieu-persan-illustrateur-courtise-de-couvertures-de-romans_6093713_4500055.html 
