@@ -793,4 +793,10 @@
 | Yokosuka | https://www.lemonde.fr/international/article/2021/09/07/face-a-son-voisin-chinois-le-japon-renforce-sa-cooperation-militaire_6093718_3210.html |
 | Members | https://www.lemonde.fr/international/article/2021/09/07/en-afghanistan-les-talibans-tirent-en-l-air-pour-disperser-une-manifestation-contre-le-pakistan-a-kaboul_6093698_3210.html |
 | Reporting | https://www.lemonde.fr/m-le-mag/article/2021/09/07/mathieu-persan-illustrateur-courtise-de-couvertures-de-romans_6093713_4500055.html |
-| Tiny | https://www.lemonde.fr/m-le-mag/article/2021/09/07/mathieu-persan-illustrateur-courtise-de-couvertures-de-romans_6093713_4500055.html| Wagram | https://www.lemonde.fr/planete/article/2021/09/11/nouvelle-mobilisation-contre-le-passe-sanitaire-avant-l-obligation-vaccinale-des-soignants_6094297_3244.html |
+| Tiny | https://www.lemonde.fr/m-le-mag/article/2021/09/07/mathieu-persan-illustrateur-courtise-de-couvertures-de-romans_6093713_4500055.html| Wagram | https://www.lemonde.fr/planete/article/2021/09/11/nouvelle-mobilisation-contre-le-passe-sanitaire-avant-l-obligation-vaccinale-des-soignants_6094297_3244.html || Hilary | https://www.lemonde.fr/international/article/2021/09/13/al-qaida-espere-tirer-profit-de-la-victoire-des-talibans_6094487_3210.html |
+| Prize | https://www.lemonde.fr/international/article/2021/09/13/al-qaida-espere-tirer-profit-de-la-victoire-des-talibans_6094487_3210.html |
+| Daniels | https://www.lemonde.fr/international/article/2021/09/13/al-qaida-espere-tirer-profit-de-la-victoire-des-talibans_6094487_3210.html |
+| Saint-Omer | https://www.lemonde.fr/politique/article/2021/09/10/grigny-philippe-rio-maire-et-urgentiste-de-la-republique_6094224_823448.html |
+| We’Ve | https://www.lemonde.fr/sciences/article/2021/09/13/spacex-lance-sa-premiere-mission-de-tourisme-spatial_6094482_1650684.html |
+| St. | https://www.lemonde.fr/sciences/article/2021/09/13/spacex-lance-sa-premiere-mission-de-tourisme-spatial_6094482_1650684.html |
+| Budge | https://www.lemonde.fr/sport/article/2021/09/13/daniil-medvedev-remporte-l-us-open-et-brise-les-reves-de-novak-djokovic_6094423_3242.html |
