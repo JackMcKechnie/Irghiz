@@ -799,4 +799,8 @@
 | Saint-Omer | https://www.lemonde.fr/politique/article/2021/09/10/grigny-philippe-rio-maire-et-urgentiste-de-la-republique_6094224_823448.html |
 | We’Ve | https://www.lemonde.fr/sciences/article/2021/09/13/spacex-lance-sa-premiere-mission-de-tourisme-spatial_6094482_1650684.html |
 | St. | https://www.lemonde.fr/sciences/article/2021/09/13/spacex-lance-sa-premiere-mission-de-tourisme-spatial_6094482_1650684.html |
-| Budge | https://www.lemonde.fr/sport/article/2021/09/13/daniil-medvedev-remporte-l-us-open-et-brise-les-reves-de-novak-djokovic_6094423_3242.html |
+| Budge | https://www.lemonde.fr/sport/article/2021/09/13/daniil-medvedev-remporte-l-us-open-et-brise-les-reves-de-novak-djokovic_6094423_3242.html || Copy-Betting | https://www.lemonde.fr/pixels/article/2021/09/14/pronoclub-la-plate-forme-de-pronostics-sportifs-visee-par-des-dizaines-de-plaintes_6094612_4408996.html |
+| Downed | https://www.lemonde.fr/international/article/2021/09/14/aux-etats-unis-la-tempete-nicholas-devenue-ouragan-touche-terre-au-texas_6094590_3210.html |
+| Lines. | https://www.lemonde.fr/international/article/2021/09/14/aux-etats-unis-la-tempete-nicholas-devenue-ouragan-touche-terre-au-texas_6094590_3210.html |
+| Don'T | https://www.lemonde.fr/international/article/2021/09/14/aux-etats-unis-la-tempete-nicholas-devenue-ouragan-touche-terre-au-texas_6094590_3210.html |
+| Jp | https://www.lemonde.fr/politique/article/2021/09/14/presidentielle-loyal-a-macron-edouard-philippe-prepare-aussi-la-suite_6094552_823448.html |
