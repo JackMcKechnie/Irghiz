@@ -803,4 +803,7 @@
 | Downed | https://www.lemonde.fr/international/article/2021/09/14/aux-etats-unis-la-tempete-nicholas-devenue-ouragan-touche-terre-au-texas_6094590_3210.html |
 | Lines. | https://www.lemonde.fr/international/article/2021/09/14/aux-etats-unis-la-tempete-nicholas-devenue-ouragan-touche-terre-au-texas_6094590_3210.html |
 | Don'T | https://www.lemonde.fr/international/article/2021/09/14/aux-etats-unis-la-tempete-nicholas-devenue-ouragan-touche-terre-au-texas_6094590_3210.html |
-| Jp | https://www.lemonde.fr/politique/article/2021/09/14/presidentielle-loyal-a-macron-edouard-philippe-prepare-aussi-la-suite_6094552_823448.html |
+| Jp | https://www.lemonde.fr/politique/article/2021/09/14/presidentielle-loyal-a-macron-edouard-philippe-prepare-aussi-la-suite_6094552_823448.html || Shana | https://www.lemonde.fr/societe/article/2021/09/20/plus-d-etudiants-mais-pas-plus-de-moyens-a-l-universite-une-rentree-en-presentiel-et-sous-tension_6095276_3224.html |
+| Thread | https://www.lemonde.fr/international/article/2021/09/19/ultime-jour-des-legislatives-en-russie-les-consignes-de-vote-de-l-opposition-supprimees_6095214_3210.html |
+| Foll. | https://www.lemonde.fr/politique/article/2021/09/19/election-presidentielle-2022-anne-hidalgo-sera-investie-par-le-parti-socialiste-sans-debat_6095246_823448.html |
+| Samos | https://www.lemonde.fr/international/article/2021/09/20/sur-l-ile-grecque-de-samos-un-camp-de-migrants-evacue-suite-a-un-incendie_6095260_3210.html |
