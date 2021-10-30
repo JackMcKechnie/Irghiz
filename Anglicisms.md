@@ -808,4 +808,10 @@
 | Foll. | https://www.lemonde.fr/politique/article/2021/09/19/election-presidentielle-2022-anne-hidalgo-sera-investie-par-le-parti-socialiste-sans-debat_6095246_823448.html |
 | Samos | https://www.lemonde.fr/international/article/2021/09/20/sur-l-ile-grecque-de-samos-un-camp-de-migrants-evacue-suite-a-un-incendie_6095260_3210.html || Barnaby | https://www.lemonde.fr/international/article/2021/09/20/sous-marins-australiens-pour-boris-johnson-londres-voue-a-paris-un-amour-inderacinable_6095265_3210.html |
 | Mañana | https://www.lemonde.fr/international/article/2021/09/20/aux-canaries-une-centaine-de-maisons-detruites-apres-l-eruption-du-volcan-cumbre-vieja_6095342_3210.html |
-| Anonymous | https://www.lemonde.fr/pixels/article/2021/09/20/epik-l-hebergeur-web-favori-de-l-extreme-droite-americaine-victime-d-un-piratage-d-ampleur_6095330_4408996.html |
+| Anonymous | https://www.lemonde.fr/pixels/article/2021/09/20/epik-l-hebergeur-web-favori-de-l-extreme-droite-americaine-victime-d-un-piratage-d-ampleur_6095330_4408996.html || Head | https://www.lemonde.fr/international/article/2021/10/30/a-rome-le-g20-va-devoir-convaincre-sur-le-climat_6100427_3210.html |
+| Tax | https://www.lemonde.fr/international/article/2021/10/30/a-rome-le-g20-va-devoir-convaincre-sur-le-climat_6100427_3210.html |
+| Build | https://www.lemonde.fr/societe/visuel/2021/10/29/comment-la-cocaine-arrive-jusque-dans-la-poche-des-consommateurs_6100312_3224.html |
+| Puerto | https://www.lemonde.fr/big-browser/article/2021/10/28/la-justice-americaine-accorde-des-droits-aux-hippopotames-de-pablo-escobar_6100251_4832693.html |
+| Beck | https://www.lemonde.fr/planete/article/2021/10/29/les-etats-unis-autorisent-le-vaccin-de-pfizer-contre-le-covid-19-pour-les-5-11-ans_6100397_3244.html |
+| Atkins | https://www.lemonde.fr/livres/article/2021/10/28/akiz-sebastien-berlendis-delphine-diaz-michel-pastoureau-les-breves-critiques-du-monde-des-livres_6100263_3260.html |
+| Beaumont-Pied | https://www.lemonde.fr/economie/article/2021/10/30/la-pomme-francaise-garde-son-pouvoir-d-attraction-au-pays-de-newton_6100424_3234.html |
