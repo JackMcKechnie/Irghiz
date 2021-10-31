@@ -814,4 +814,11 @@
 | Puerto | https://www.lemonde.fr/big-browser/article/2021/10/28/la-justice-americaine-accorde-des-droits-aux-hippopotames-de-pablo-escobar_6100251_4832693.html |
 | Beck | https://www.lemonde.fr/planete/article/2021/10/29/les-etats-unis-autorisent-le-vaccin-de-pfizer-contre-le-covid-19-pour-les-5-11-ans_6100397_3244.html |
 | Atkins | https://www.lemonde.fr/livres/article/2021/10/28/akiz-sebastien-berlendis-delphine-diaz-michel-pastoureau-les-breves-critiques-du-monde-des-livres_6100263_3260.html |
-| Beaumont-Pied | https://www.lemonde.fr/economie/article/2021/10/30/la-pomme-francaise-garde-son-pouvoir-d-attraction-au-pays-de-newton_6100424_3234.html |
+| Beaumont-Pied | https://www.lemonde.fr/economie/article/2021/10/30/la-pomme-francaise-garde-son-pouvoir-d-attraction-au-pays-de-newton_6100424_3234.html || Nyala | https://www.lemonde.fr/afrique/article/2021/10/31/bourhane-veut-faire-comme-le-marechal-sissi-en-egypte-au-soudan-les-manifestations-contre-le-putsch-militaire-reprimees-dans-la-violence_6100501_3212.html |
+| Taiwan | https://www.lemonde.fr/planete/article/2021/10/30/a-taiwan-les-aborigenes-truku-se-battent-contre-le-cimentier-asia-cement_6100446_3244.html |
+| Artist | https://www.lemonde.fr/m-le-mag/article/2021/10/30/ongles-ornes-cils-ultra-longs-corps-hypersexualises-faux-et-fiers-de-l-etre_6100433_4500055.html |
+| Siret. | https://www.lemonde.fr/m-le-mag/article/2021/10/31/parentologie-nos-enfants-survivront-ils-au-ludo-capitalisme_6100471_4500055.html |
+| Alt | https://www.lemonde.fr/culture/article/2021/10/31/theatre-equestre-cabaret-de-l-exil-les-si-vivants-fantomes-de-bartabas_6100499_3246.html |
+| Manufacturing | https://www.lemonde.fr/international/article/2021/10/30/taxes-sur-l-acier-et-l-aluminium-les-etats-unis-et-l-union-europeenne-se-mettent-d-accord_6100468_3210.html |
+| Bonanza | https://www.lemonde.fr/international/article/2021/10/31/alec-baldwin-annonce-que-le-tournage-du-film-rust-ne-reprendra-pas_6100472_3210.html |
+| Mendoza | https://www.lemonde.fr/international/article/2021/10/31/alec-baldwin-annonce-que-le-tournage-du-film-rust-ne-reprendra-pas_6100472_3210.html |
